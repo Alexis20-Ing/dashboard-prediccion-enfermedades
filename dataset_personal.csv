@@ -1,0 +1,3596 @@
+Edad,IMC,PresionArterial,Glucosa,ActividadFisica,IndiceRiesgo,GrupoEdad,RiesgoMetabolico,Enfermedad
+29,38.7,163,123,Baja,47.6,Joven,Bajo,1
+43,23.7,115,191,Media,45.27,Adulto,Bajo,0
+21,35.7,139,128,Media,45.7,Joven,Bajo,0
+72,25.8,110,174,Alta,44.89,Adulto Mayor,Bajo,0
+63,26.8,174,174,Baja,46.63,Adulto Mayor,Bajo,1
+55,22.9,150,120,Alta,27.48,Adulto,Bajo,0
+46,33.8,96,177,Baja,59.83,Adulto,Alto,1
+53,17.8,125,196,Alta,34.89,Adulto,Bajo,0
+53,27.0,151,199,Media,53.73,Adulto,Bajo,0
+72,31.4,98,95,Baja,29.83,Adulto Mayor,Bajo,1
+63,17.9,154,151,Media,27.03,Adulto Mayor,Bajo,1
+75,24.2,96,148,Media,35.82,Adulto Mayor,Bajo,0
+57,26.7,142,90,Media,24.03,Adulto,Bajo,0
+49,34.5,161,81,Baja,27.94,Adulto,Bajo,1
+38,24.0,158,80,Media,19.2,Adulto,Bajo,0
+78,28.6,105,89,Media,25.45,Adulto Mayor,Bajo,0
+19,27.0,146,184,Alta,49.68,Joven,Bajo,0
+36,32.9,103,162,Media,53.3,Adulto,Alto,0
+38,31.8,133,177,Media,56.29,Adulto,Alto,0
+78,24.6,120,178,Alta,43.79,Adulto Mayor,Bajo,0
+55,26.9,147,191,Media,51.38,Adulto,Bajo,0
+47,23.6,177,154,Media,36.34,Adulto,Bajo,0
+62,25.3,155,87,Media,22.01,Adulto Mayor,Bajo,0
+50,23.0,135,105,Media,24.15,Adulto,Bajo,0
+26,27.3,155,148,Baja,40.4,Joven,Bajo,1
+38,31.4,156,98,Alta,30.77,Adulto,Bajo,0
+73,32.5,125,118,Media,38.35,Adulto Mayor,Bajo,0
+23,20.0,170,130,Media,26.0,Joven,Bajo,0
+49,20.8,164,86,Baja,17.89,Adulto,Bajo,0
+39,23.8,159,82,Media,19.52,Adulto,Bajo,0
+21,28.3,98,191,Baja,54.05,Joven,Bajo,0
+22,21.4,148,162,Alta,34.67,Joven,Bajo,0
+66,27.1,155,180,Alta,48.78,Adulto Mayor,Bajo,1
+58,26.8,103,108,Media,28.94,Adulto,Bajo,0
+78,23.8,112,79,Baja,18.8,Adulto Mayor,Bajo,0
+53,31.8,98,120,Alta,38.16,Adulto,Bajo,0
+67,25.3,164,126,Media,31.88,Adulto Mayor,Bajo,0
+66,27.3,125,89,Alta,24.3,Adulto Mayor,Bajo,0
+71,22.4,175,145,Alta,32.48,Adulto Mayor,Bajo,1
+30,23.4,157,120,Media,28.08,Joven,Bajo,0
+36,17.4,124,191,Media,33.23,Adulto,Bajo,0
+57,20.4,91,112,Baja,22.85,Adulto,Bajo,0
+22,26.9,154,108,Baja,29.05,Joven,Bajo,0
+43,23.0,136,120,Media,27.6,Adulto,Bajo,0
+50,27.5,148,195,Baja,53.62,Adulto,Bajo,1
+19,18.9,91,199,Media,37.61,Joven,Bajo,0
+47,36.2,137,152,Baja,55.02,Adulto,Alto,1
+46,18.3,93,164,Alta,30.01,Adulto,Bajo,0
+47,23.5,129,79,Baja,18.57,Adulto,Bajo,0
+54,20.6,119,200,Baja,41.2,Adulto,Bajo,0
+43,28.2,146,86,Media,24.25,Adulto,Bajo,0
+51,17.0,114,93,Media,15.81,Adulto,Bajo,0
+78,40.9,104,150,Media,61.35,Adulto Mayor,Alto,1
+53,18.4,150,113,Media,20.79,Adulto,Bajo,0
+78,29.8,175,157,Baja,46.79,Adulto Mayor,Bajo,1
+27,29.6,116,136,Media,40.26,Joven,Bajo,0
+23,19.3,110,196,Alta,37.83,Joven,Bajo,0
+43,27.7,127,194,Baja,53.74,Adulto,Bajo,0
+78,18.3,101,181,Alta,33.12,Adulto Mayor,Bajo,0
+46,28.7,114,147,Alta,42.19,Adulto,Bajo,0
+32,26.0,176,84,Alta,21.84,Joven,Bajo,0
+41,33.1,135,74,Media,24.49,Adulto,Bajo,0
+80,21.8,147,112,Media,24.42,Adulto Mayor,Bajo,0
+61,31.2,108,193,Alta,60.22,Adulto Mayor,Alto,1
+55,26.1,119,144,Baja,37.58,Adulto,Bajo,0
+71,21.4,127,71,Alta,15.19,Adulto Mayor,Bajo,0
+62,32.8,109,132,Alta,43.3,Adulto Mayor,Bajo,0
+58,31.2,136,176,Baja,54.91,Adulto,Alto,1
+46,35.1,139,119,Media,41.77,Adulto,Bajo,0
+39,18.7,104,135,Alta,25.24,Adulto,Bajo,0
+22,23.1,105,163,Baja,37.65,Joven,Bajo,0
+27,31.1,106,129,Media,40.12,Joven,Bajo,0
+44,26.7,136,183,Baja,48.86,Adulto,Bajo,0
+43,28.0,125,195,Media,54.6,Adulto,Bajo,0
+47,24.6,95,157,Media,38.62,Adulto,Bajo,0
+35,23.8,131,177,Media,42.13,Joven,Bajo,0
+52,30.9,120,119,Baja,36.77,Adulto,Bajo,0
+34,29.9,98,184,Baja,55.02,Joven,Bajo,0
+35,29.5,167,190,Media,56.05,Joven,Bajo,0
+74,37.1,134,111,Baja,41.18,Adulto Mayor,Bajo,1
+32,18.1,134,97,Alta,17.56,Joven,Bajo,0
+75,30.0,127,85,Media,25.5,Adulto Mayor,Bajo,0
+18,27.7,162,180,Media,49.86,Joven,Bajo,0
+37,36.4,154,108,Baja,39.31,Adulto,Bajo,1
+29,31.7,121,99,Baja,31.38,Joven,Bajo,0
+72,21.0,102,110,Media,23.1,Adulto Mayor,Bajo,0
+34,25.7,92,180,Alta,46.26,Joven,Bajo,0
+25,25.6,133,76,Alta,19.46,Joven,Bajo,0
+50,32.0,156,126,Media,40.32,Adulto,Bajo,0
+77,29.8,152,100,Media,29.8,Adulto Mayor,Bajo,0
+33,25.5,153,167,Alta,42.58,Joven,Bajo,0
+78,25.8,168,153,Media,39.47,Adulto Mayor,Bajo,1
+38,28.2,132,142,Baja,40.04,Adulto,Bajo,0
+28,30.8,130,158,Alta,48.66,Joven,Alto,0
+55,27.8,155,144,Alta,40.03,Adulto,Bajo,0
+78,29.3,146,74,Media,21.68,Adulto Mayor,Bajo,0
+65,24.4,144,82,Media,20.01,Adulto Mayor,Bajo,0
+42,23.4,131,83,Media,19.42,Adulto,Bajo,0
+45,35.8,99,128,Baja,45.82,Adulto,Bajo,0
+60,20.4,152,99,Baja,20.2,Adulto Mayor,Bajo,1
+28,23.4,116,101,Media,23.63,Joven,Bajo,0
+29,27.8,169,165,Media,45.87,Joven,Bajo,0
+54,24.6,165,144,Baja,35.42,Adulto,Bajo,1
+29,24.0,133,154,Media,36.96,Joven,Bajo,0
+77,37.0,109,99,Baja,36.63,Adulto Mayor,Bajo,1
+39,28.5,123,184,Media,52.44,Adulto,Bajo,0
+53,24.0,175,122,Baja,29.28,Adulto,Bajo,0
+60,32.0,148,79,Media,25.28,Adulto Mayor,Bajo,1
+35,41.4,113,169,Media,69.97,Joven,Alto,0
+36,30.0,137,102,Media,30.6,Adulto,Bajo,0
+43,19.9,122,165,Media,32.83,Adulto,Bajo,0
+38,26.2,170,190,Baja,49.78,Adulto,Bajo,1
+32,20.9,156,107,Alta,22.36,Joven,Bajo,0
+27,29.8,109,129,Media,38.44,Joven,Bajo,0
+34,26.1,105,144,Media,37.58,Joven,Bajo,0
+33,26.9,136,77,Baja,20.71,Joven,Bajo,0
+61,21.7,112,76,Media,16.49,Adulto Mayor,Bajo,0
+48,22.9,117,189,Media,43.28,Adulto,Bajo,0
+48,27.4,100,116,Media,31.78,Adulto,Bajo,0
+31,23.8,139,83,Alta,19.75,Joven,Bajo,0
+66,30.1,130,137,Alta,41.24,Adulto Mayor,Bajo,0
+36,21.2,98,150,Alta,31.8,Adulto,Bajo,0
+51,28.5,99,103,Media,29.36,Adulto,Bajo,0
+48,22.0,154,76,Media,16.72,Adulto,Bajo,0
+32,27.8,157,165,Media,45.87,Joven,Bajo,0
+34,26.0,127,121,Media,31.46,Joven,Bajo,0
+58,19.4,112,195,Media,37.83,Adulto,Bajo,0
+25,28.1,163,183,Baja,51.42,Joven,Bajo,1
+61,28.9,143,196,Media,56.64,Adulto Mayor,Bajo,1
+55,28.3,110,127,Baja,35.94,Adulto,Bajo,0
+27,30.4,105,177,Baja,53.81,Joven,Alto,1
+24,22.6,116,100,Baja,22.6,Joven,Bajo,0
+25,22.0,119,113,Media,24.86,Joven,Bajo,0
+30,35.1,127,148,Alta,51.95,Joven,Alto,0
+71,30.4,137,123,Media,37.39,Adulto Mayor,Bajo,0
+65,29.7,98,79,Alta,23.46,Adulto Mayor,Bajo,0
+19,29.8,171,94,Media,28.01,Joven,Bajo,0
+40,27.7,177,72,Baja,19.94,Adulto,Bajo,0
+20,26.1,94,133,Baja,34.71,Joven,Bajo,0
+27,28.1,137,200,Baja,56.2,Joven,Bajo,0
+77,29.4,149,76,Alta,22.34,Adulto Mayor,Bajo,0
+59,28.4,162,196,Media,55.66,Adulto,Bajo,0
+61,31.3,117,190,Media,59.47,Adulto Mayor,Alto,1
+35,24.3,138,189,Alta,45.93,Joven,Bajo,0
+46,28.1,93,128,Media,35.97,Adulto,Bajo,0
+68,26.9,141,188,Media,50.57,Adulto Mayor,Bajo,1
+19,37.9,172,144,Media,54.58,Joven,Alto,1
+48,25.7,127,191,Alta,49.09,Adulto,Bajo,0
+33,30.2,120,143,Baja,43.19,Joven,Alto,1
+36,21.4,96,113,Alta,24.18,Adulto,Bajo,0
+24,33.0,168,147,Baja,48.51,Joven,Alto,1
+51,17.8,138,111,Media,19.76,Adulto,Bajo,0
+63,23.3,149,137,Alta,31.92,Adulto Mayor,Bajo,0
+34,21.0,119,128,Baja,26.88,Joven,Bajo,0
+77,29.4,115,110,Baja,32.34,Adulto Mayor,Bajo,0
+57,29.8,133,184,Media,54.83,Adulto,Bajo,0
+70,26.6,151,102,Baja,27.13,Adulto Mayor,Bajo,1
+72,26.8,162,178,Alta,47.7,Adulto Mayor,Bajo,1
+25,23.8,113,162,Media,38.56,Joven,Bajo,0
+32,25.3,92,152,Media,38.46,Joven,Bajo,0
+79,30.1,155,165,Baja,49.66,Adulto Mayor,Alto,1
+46,30.1,165,197,Alta,59.3,Adulto,Alto,1
+63,25.8,139,160,Media,41.28,Adulto Mayor,Bajo,0
+50,30.0,179,176,Media,52.8,Adulto,Bajo,1
+24,17.3,117,135,Baja,23.36,Joven,Bajo,0
+47,24.2,120,97,Alta,23.47,Adulto,Bajo,0
+44,29.5,130,91,Baja,26.84,Adulto,Bajo,0
+23,22.9,119,174,Baja,39.85,Joven,Bajo,0
+40,24.7,171,169,Media,41.74,Adulto,Bajo,0
+32,20.3,103,137,Media,27.81,Joven,Bajo,0
+44,28.6,104,125,Media,35.75,Adulto,Bajo,0
+72,27.4,117,74,Alta,20.28,Adulto Mayor,Bajo,0
+76,26.2,171,192,Media,50.3,Adulto Mayor,Bajo,1
+22,25.7,162,187,Baja,48.06,Joven,Bajo,1
+69,33.4,111,194,Baja,64.8,Adulto Mayor,Alto,1
+43,28.0,172,195,Media,54.6,Adulto,Bajo,0
+54,27.2,95,193,Alta,52.5,Adulto,Bajo,0
+61,18.7,99,124,Baja,23.19,Adulto Mayor,Bajo,0
+31,21.6,109,114,Baja,24.62,Joven,Bajo,0
+38,25.1,125,174,Media,43.67,Adulto,Bajo,0
+54,26.4,123,185,Media,48.84,Adulto,Bajo,0
+48,17.8,91,148,Media,26.34,Adulto,Bajo,0
+56,25.1,111,118,Baja,29.62,Adulto,Bajo,0
+51,28.9,116,181,Media,52.31,Adulto,Bajo,0
+70,32.1,133,162,Alta,52.0,Adulto Mayor,Alto,1
+22,36.6,99,108,Baja,39.53,Joven,Bajo,0
+69,23.0,143,184,Baja,42.32,Adulto Mayor,Bajo,1
+78,26.0,140,140,Alta,36.4,Adulto Mayor,Bajo,1
+76,25.5,105,78,Baja,19.89,Adulto Mayor,Bajo,0
+21,25.4,139,180,Media,45.72,Joven,Bajo,0
+32,29.7,128,96,Media,28.51,Joven,Bajo,0
+32,42.1,170,101,Media,42.52,Joven,Bajo,0
+31,25.5,101,186,Baja,47.43,Joven,Bajo,0
+60,33.2,177,84,Media,27.89,Adulto Mayor,Bajo,1
+47,26.9,137,109,Alta,29.32,Adulto,Bajo,0
+69,29.3,149,163,Media,47.76,Adulto Mayor,Bajo,1
+32,30.6,149,89,Baja,27.23,Joven,Bajo,1
+79,25.7,157,105,Media,26.98,Adulto Mayor,Bajo,0
+30,28.2,107,168,Baja,47.38,Joven,Bajo,0
+41,29.1,140,87,Baja,25.32,Adulto,Bajo,0
+32,27.7,143,90,Media,24.93,Joven,Bajo,0
+78,22.0,176,137,Baja,30.14,Adulto Mayor,Bajo,1
+78,30.0,167,78,Baja,23.4,Adulto Mayor,Bajo,1
+50,28.4,170,157,Alta,44.59,Adulto,Bajo,0
+43,22.9,117,162,Media,37.1,Adulto,Bajo,0
+28,30.7,144,145,Baja,44.52,Joven,Alto,1
+30,30.3,170,156,Alta,47.27,Joven,Alto,1
+23,20.4,163,169,Media,34.48,Joven,Bajo,0
+32,32.5,175,80,Alta,26.0,Joven,Bajo,0
+38,28.7,127,181,Baja,51.95,Adulto,Bajo,0
+52,30.3,100,143,Baja,43.33,Adulto,Alto,1
+69,19.6,104,159,Media,31.16,Adulto Mayor,Bajo,0
+36,26.9,112,122,Media,32.82,Adulto,Bajo,0
+79,29.2,99,123,Baja,35.92,Adulto Mayor,Bajo,0
+67,31.8,160,152,Media,48.34,Adulto Mayor,Alto,1
+65,30.1,145,154,Media,46.35,Adulto Mayor,Alto,1
+40,24.6,113,183,Baja,45.02,Adulto,Bajo,0
+20,28.6,139,108,Baja,30.89,Joven,Bajo,0
+24,32.1,103,146,Baja,46.87,Joven,Alto,1
+44,26.7,129,84,Media,22.43,Adulto,Bajo,0
+48,17.5,119,102,Media,17.85,Adulto,Bajo,0
+42,39.9,167,87,Media,34.71,Adulto,Bajo,0
+27,25.1,157,154,Baja,38.65,Joven,Bajo,1
+24,29.9,90,152,Alta,45.45,Joven,Bajo,0
+63,38.9,177,178,Alta,69.24,Adulto Mayor,Alto,1
+43,29.7,152,143,Baja,42.47,Adulto,Bajo,1
+66,17.2,107,109,Media,18.75,Adulto Mayor,Bajo,0
+49,30.0,103,179,Alta,53.7,Adulto,Bajo,0
+48,15.0,92,130,Alta,19.5,Adulto,Bajo,0
+58,23.7,113,136,Baja,32.23,Adulto,Bajo,0
+65,22.3,100,115,Baja,25.64,Adulto Mayor,Bajo,0
+36,33.2,122,100,Media,33.2,Adulto,Bajo,0
+19,26.6,118,161,Baja,42.83,Joven,Bajo,0
+80,27.7,121,197,Media,54.57,Adulto Mayor,Bajo,0
+46,27.6,177,101,Alta,27.88,Adulto,Bajo,0
+61,32.6,155,79,Baja,25.75,Adulto Mayor,Bajo,1
+24,26.4,158,134,Media,35.38,Joven,Bajo,0
+80,23.8,154,80,Baja,19.04,Adulto Mayor,Bajo,1
+60,24.5,129,168,Media,41.16,Adulto Mayor,Bajo,0
+80,34.6,137,165,Baja,57.09,Adulto Mayor,Alto,1
+55,28.9,140,145,Media,41.9,Adulto,Bajo,0
+78,21.0,110,89,Media,18.69,Adulto Mayor,Bajo,0
+30,29.3,138,134,Media,39.26,Joven,Bajo,0
+32,25.3,171,157,Media,39.72,Joven,Bajo,0
+24,28.5,166,111,Baja,31.64,Joven,Bajo,0
+61,20.5,127,163,Media,33.42,Adulto Mayor,Bajo,0
+31,24.7,178,133,Baja,32.85,Joven,Bajo,0
+26,26.5,175,157,Media,41.6,Joven,Bajo,0
+42,22.6,129,165,Media,37.29,Adulto,Bajo,0
+54,27.7,142,195,Alta,54.02,Adulto,Bajo,0
+58,19.5,163,137,Alta,26.72,Adulto,Bajo,0
+71,19.8,134,92,Alta,18.22,Adulto Mayor,Bajo,0
+30,25.3,147,141,Baja,35.67,Joven,Bajo,1
+58,23.3,93,169,Media,39.38,Adulto,Bajo,0
+71,31.1,105,77,Media,23.95,Adulto Mayor,Bajo,0
+76,25.6,99,144,Media,36.86,Adulto Mayor,Bajo,0
+57,27.8,129,177,Media,49.21,Adulto,Bajo,0
+20,24.0,154,195,Baja,46.8,Joven,Bajo,1
+18,18.0,103,149,Alta,26.82,Joven,Bajo,0
+53,18.1,162,101,Media,18.28,Adulto,Bajo,0
+23,23.1,123,146,Baja,33.73,Joven,Bajo,0
+67,24.7,173,156,Baja,38.53,Adulto Mayor,Bajo,1
+73,23.9,179,153,Baja,36.57,Adulto Mayor,Bajo,1
+51,29.5,116,122,Alta,35.99,Adulto,Bajo,0
+72,29.2,167,105,Media,30.66,Adulto Mayor,Bajo,0
+43,23.8,105,119,Baja,28.32,Adulto,Bajo,0
+61,31.3,91,130,Media,40.69,Adulto Mayor,Bajo,0
+21,19.2,126,96,Baja,18.43,Joven,Bajo,0
+56,19.4,154,146,Media,28.32,Adulto,Bajo,0
+68,27.0,161,119,Alta,32.13,Adulto Mayor,Bajo,0
+62,31.6,175,90,Media,28.44,Adulto Mayor,Bajo,1
+49,27.6,118,159,Baja,43.88,Adulto,Bajo,0
+53,36.7,124,106,Baja,38.9,Adulto,Bajo,0
+51,20.4,140,164,Baja,33.46,Adulto,Bajo,1
+26,21.5,112,125,Alta,26.88,Joven,Bajo,0
+79,24.4,105,114,Baja,27.82,Adulto Mayor,Bajo,0
+27,25.3,99,189,Alta,47.82,Joven,Bajo,0
+70,32.5,137,159,Media,51.68,Adulto Mayor,Alto,1
+46,31.6,123,166,Media,52.46,Adulto,Alto,0
+74,29.0,154,126,Media,36.54,Adulto Mayor,Bajo,0
+77,31.1,94,142,Baja,44.16,Adulto Mayor,Alto,1
+44,26.4,133,163,Media,43.03,Adulto,Bajo,0
+78,25.3,162,134,Baja,33.9,Adulto Mayor,Bajo,1
+35,29.1,129,166,Media,48.31,Joven,Bajo,0
+40,29.0,120,159,Media,46.11,Adulto,Bajo,0
+21,37.9,102,166,Baja,62.91,Joven,Alto,1
+38,29.6,167,135,Baja,39.96,Adulto,Bajo,0
+28,25.0,154,70,Baja,17.5,Joven,Bajo,0
+29,38.6,103,94,Alta,36.28,Joven,Bajo,0
+60,25.3,126,192,Media,48.58,Adulto Mayor,Bajo,0
+69,29.9,94,126,Alta,37.67,Adulto Mayor,Bajo,0
+68,22.8,113,116,Media,26.45,Adulto Mayor,Bajo,0
+57,28.1,158,142,Media,39.9,Adulto,Bajo,0
+43,26.3,100,194,Media,51.02,Adulto,Bajo,0
+72,27.4,139,165,Media,45.21,Adulto Mayor,Bajo,0
+68,24.4,159,173,Media,42.21,Adulto Mayor,Bajo,1
+48,22.5,155,82,Baja,18.45,Adulto,Bajo,0
+69,21.3,129,193,Alta,41.11,Adulto Mayor,Bajo,0
+40,16.5,93,161,Alta,26.56,Adulto,Bajo,0
+38,25.4,102,73,Alta,18.54,Adulto,Bajo,0
+60,22.1,137,200,Baja,44.2,Adulto Mayor,Bajo,1
+65,32.4,161,174,Media,56.38,Adulto Mayor,Alto,1
+60,35.1,101,182,Media,63.88,Adulto Mayor,Alto,1
+34,23.1,165,70,Alta,16.17,Joven,Bajo,0
+54,26.6,135,146,Alta,38.84,Adulto,Bajo,0
+72,32.1,114,149,Baja,47.83,Adulto Mayor,Alto,1
+40,35.0,143,188,Media,65.8,Adulto,Alto,1
+41,23.0,164,122,Baja,28.06,Adulto,Bajo,0
+39,32.1,170,115,Alta,36.92,Adulto,Bajo,0
+54,28.8,115,89,Baja,25.63,Adulto,Bajo,0
+73,29.9,100,92,Media,27.51,Adulto Mayor,Bajo,0
+78,23.1,123,187,Alta,43.2,Adulto Mayor,Bajo,0
+56,33.2,170,152,Media,50.46,Adulto,Alto,1
+40,30.0,109,136,Media,40.8,Adulto,Bajo,0
+34,35.6,110,88,Media,31.33,Joven,Bajo,0
+36,26.0,113,119,Baja,30.94,Adulto,Bajo,0
+29,28.6,163,136,Baja,38.9,Joven,Bajo,0
+76,30.7,153,135,Alta,41.44,Adulto Mayor,Bajo,1
+73,24.5,163,105,Media,25.72,Adulto Mayor,Bajo,0
+31,32.6,104,168,Baja,54.77,Joven,Alto,1
+20,35.3,164,171,Baja,60.36,Joven,Alto,1
+41,34.8,143,186,Media,64.73,Adulto,Alto,1
+30,31.2,144,93,Media,29.02,Joven,Bajo,0
+80,31.7,100,72,Alta,22.82,Adulto Mayor,Bajo,0
+43,31.2,118,172,Media,53.66,Adulto,Alto,0
+44,23.6,125,97,Baja,22.89,Adulto,Bajo,0
+74,21.2,94,75,Baja,15.9,Adulto Mayor,Bajo,0
+62,28.2,162,154,Alta,43.43,Adulto Mayor,Bajo,1
+33,25.1,163,160,Alta,40.16,Joven,Bajo,0
+73,30.0,176,72,Media,21.6,Adulto Mayor,Bajo,1
+60,33.0,138,131,Baja,43.23,Adulto Mayor,Bajo,1
+65,29.2,162,191,Baja,55.77,Adulto Mayor,Bajo,1
+43,21.0,96,115,Baja,24.15,Adulto,Bajo,0
+35,24.4,149,155,Media,37.82,Joven,Bajo,0
+43,29.3,125,180,Media,52.74,Adulto,Bajo,0
+33,15.3,104,194,Alta,29.68,Joven,Bajo,0
+18,24.7,102,183,Media,45.2,Joven,Bajo,0
+37,33.5,101,157,Baja,52.6,Adulto,Alto,1
+37,30.7,92,197,Media,60.48,Adulto,Alto,0
+46,24.0,135,77,Baja,18.48,Adulto,Bajo,0
+33,19.5,124,73,Alta,14.24,Joven,Bajo,0
+21,23.5,111,86,Media,20.21,Joven,Bajo,0
+35,21.4,155,151,Baja,32.31,Joven,Bajo,1
+79,25.0,175,144,Media,36.0,Adulto Mayor,Bajo,1
+62,27.9,162,81,Baja,22.6,Adulto Mayor,Bajo,1
+34,32.0,167,119,Baja,38.08,Joven,Bajo,1
+26,27.7,141,72,Baja,19.94,Joven,Bajo,0
+42,21.6,152,89,Baja,19.22,Adulto,Bajo,0
+74,24.9,170,164,Media,40.84,Adulto Mayor,Bajo,1
+49,27.9,172,96,Baja,26.78,Adulto,Bajo,0
+32,34.4,103,77,Media,26.49,Joven,Bajo,0
+72,30.0,106,96,Alta,28.8,Adulto Mayor,Bajo,0
+29,23.2,125,159,Alta,36.89,Joven,Bajo,0
+34,15.2,154,82,Baja,12.46,Joven,Bajo,0
+59,31.1,167,142,Baja,44.16,Adulto,Alto,1
+58,25.4,118,150,Alta,38.1,Adulto,Bajo,0
+67,35.8,90,116,Media,41.53,Adulto Mayor,Bajo,0
+75,24.7,177,86,Baja,21.24,Adulto Mayor,Bajo,1
+44,24.5,130,115,Baja,28.18,Adulto,Bajo,0
+73,29.6,127,78,Alta,23.09,Adulto Mayor,Bajo,0
+55,26.3,175,190,Baja,49.97,Adulto,Bajo,1
+62,30.3,149,116,Baja,35.15,Adulto Mayor,Bajo,1
+77,24.6,120,77,Media,18.94,Adulto Mayor,Bajo,0
+30,32.9,108,197,Media,64.81,Joven,Alto,0
+65,29.2,131,158,Alta,46.14,Adulto Mayor,Bajo,0
+55,32.4,169,109,Baja,35.32,Adulto,Bajo,1
+73,28.8,135,70,Baja,20.16,Adulto Mayor,Bajo,0
+68,28.1,137,179,Media,50.3,Adulto Mayor,Bajo,0
+67,28.2,93,81,Baja,22.84,Adulto Mayor,Bajo,0
+34,24.7,159,94,Baja,23.22,Joven,Bajo,0
+57,33.2,99,146,Media,48.47,Adulto,Alto,0
+32,16.3,122,117,Media,19.07,Joven,Bajo,0
+19,33.0,92,93,Alta,30.69,Joven,Bajo,0
+49,37.4,166,129,Media,48.25,Adulto,Bajo,0
+58,30.7,172,72,Baja,22.1,Adulto,Bajo,1
+69,32.6,159,88,Media,28.69,Adulto Mayor,Bajo,1
+28,22.0,138,80,Baja,17.6,Joven,Bajo,0
+78,21.8,126,175,Media,38.15,Adulto Mayor,Bajo,0
+67,35.4,124,85,Baja,30.09,Adulto Mayor,Bajo,1
+38,30.3,115,180,Baja,54.54,Adulto,Alto,1
+33,26.9,115,182,Alta,48.96,Joven,Bajo,0
+19,21.7,127,200,Alta,43.4,Joven,Bajo,0
+36,26.0,94,186,Media,48.36,Adulto,Bajo,0
+52,31.4,136,190,Baja,59.66,Adulto,Alto,1
+79,30.5,131,147,Alta,44.84,Adulto Mayor,Alto,1
+65,31.5,174,155,Media,48.82,Adulto Mayor,Alto,1
+70,25.4,165,175,Baja,44.45,Adulto Mayor,Bajo,1
+53,26.9,111,134,Baja,36.05,Adulto,Bajo,0
+78,30.2,179,118,Media,35.64,Adulto Mayor,Bajo,1
+63,22.3,161,129,Alta,28.77,Adulto Mayor,Bajo,0
+32,22.4,158,119,Media,26.66,Joven,Bajo,0
+38,27.9,112,182,Baja,50.78,Adulto,Bajo,0
+78,28.8,100,173,Baja,49.82,Adulto Mayor,Bajo,1
+67,23.9,132,94,Alta,22.47,Adulto Mayor,Bajo,0
+65,27.5,162,125,Alta,34.38,Adulto Mayor,Bajo,0
+57,35.9,127,102,Baja,36.62,Adulto,Bajo,0
+20,30.9,109,82,Media,25.34,Joven,Bajo,0
+56,31.3,99,71,Baja,22.22,Adulto,Bajo,0
+55,39.3,138,157,Media,61.7,Adulto,Alto,0
+25,29.2,162,137,Baja,40.0,Joven,Bajo,0
+29,27.7,178,177,Alta,49.03,Joven,Bajo,0
+23,24.3,172,159,Media,38.64,Joven,Bajo,0
+67,27.1,107,72,Media,19.51,Adulto Mayor,Bajo,0
+28,32.5,113,179,Baja,58.18,Joven,Alto,1
+50,27.4,91,144,Baja,39.46,Adulto,Bajo,0
+80,19.0,132,136,Alta,25.84,Adulto Mayor,Bajo,0
+21,15.6,109,105,Baja,16.38,Joven,Bajo,0
+50,32.9,176,131,Alta,43.1,Adulto,Bajo,0
+56,29.8,157,95,Baja,28.31,Adulto,Bajo,0
+56,25.8,170,179,Baja,46.18,Adulto,Bajo,1
+46,32.3,103,151,Baja,48.77,Adulto,Alto,1
+20,26.2,171,93,Baja,24.37,Joven,Bajo,0
+60,24.7,138,182,Media,44.95,Adulto Mayor,Bajo,0
+59,26.6,94,124,Media,32.98,Adulto,Bajo,0
+78,31.9,180,86,Media,27.43,Adulto Mayor,Bajo,1
+38,22.9,105,172,Media,39.39,Adulto,Bajo,0
+62,30.4,106,113,Baja,34.35,Adulto Mayor,Bajo,1
+33,23.4,136,163,Media,38.14,Joven,Bajo,0
+18,29.5,92,127,Media,37.47,Joven,Bajo,0
+35,25.5,168,195,Alta,49.72,Joven,Bajo,0
+20,25.0,141,160,Media,40.0,Joven,Bajo,0
+78,25.4,177,72,Baja,18.29,Adulto Mayor,Bajo,1
+78,23.7,92,124,Baja,29.39,Adulto Mayor,Bajo,0
+37,26.1,97,132,Baja,34.45,Adulto,Bajo,0
+57,22.5,139,159,Alta,35.78,Adulto,Bajo,0
+61,27.1,123,99,Baja,26.83,Adulto Mayor,Bajo,0
+37,26.5,139,144,Media,38.16,Adulto,Bajo,0
+78,29.2,146,197,Alta,57.52,Adulto Mayor,Bajo,1
+45,27.9,144,71,Media,19.81,Adulto,Bajo,0
+18,16.2,115,166,Media,26.89,Joven,Bajo,0
+34,33.0,103,185,Baja,61.05,Joven,Alto,1
+42,29.0,90,76,Baja,22.04,Adulto,Bajo,0
+48,22.7,112,118,Baja,26.79,Adulto,Bajo,0
+62,26.8,111,177,Alta,47.44,Adulto Mayor,Bajo,0
+43,24.3,171,150,Baja,36.45,Adulto,Bajo,1
+69,30.6,180,84,Media,25.7,Adulto Mayor,Bajo,1
+32,32.7,173,145,Media,47.42,Joven,Alto,1
+66,21.3,108,199,Baja,42.39,Adulto Mayor,Bajo,1
+37,28.0,140,144,Media,40.32,Adulto,Bajo,0
+39,28.3,145,180,Media,50.94,Adulto,Bajo,0
+31,20.4,95,183,Baja,37.33,Joven,Bajo,0
+44,21.0,144,147,Media,30.87,Adulto,Bajo,0
+20,24.8,169,160,Media,39.68,Joven,Bajo,0
+26,19.5,132,157,Media,30.62,Joven,Bajo,0
+39,25.6,141,199,Alta,50.94,Adulto,Bajo,0
+55,32.7,149,108,Media,35.32,Adulto,Bajo,0
+34,31.8,103,188,Alta,59.78,Joven,Alto,0
+46,26.3,148,135,Baja,35.51,Adulto,Bajo,0
+39,27.0,149,164,Media,44.28,Adulto,Bajo,0
+43,19.9,137,149,Baja,29.65,Adulto,Bajo,0
+69,30.3,125,91,Alta,27.57,Adulto Mayor,Bajo,0
+56,20.1,141,151,Media,30.35,Adulto,Bajo,0
+78,27.0,97,177,Media,47.79,Adulto Mayor,Bajo,0
+45,35.2,126,135,Media,47.52,Adulto,Bajo,0
+25,18.5,158,137,Media,25.34,Joven,Bajo,0
+69,21.6,137,162,Media,34.99,Adulto Mayor,Bajo,0
+64,29.3,120,173,Baja,50.69,Adulto Mayor,Bajo,1
+19,21.8,136,177,Media,38.59,Joven,Bajo,0
+43,25.3,132,101,Baja,25.55,Adulto,Bajo,0
+47,21.9,166,76,Baja,16.64,Adulto,Bajo,0
+24,23.0,140,121,Media,27.83,Joven,Bajo,0
+65,27.2,115,155,Baja,42.16,Adulto Mayor,Bajo,1
+59,29.8,135,111,Media,33.08,Adulto,Bajo,0
+61,21.2,113,80,Baja,16.96,Adulto Mayor,Bajo,0
+45,17.7,173,181,Baja,32.04,Adulto,Bajo,1
+29,33.6,110,190,Baja,63.84,Joven,Alto,1
+79,28.2,107,118,Media,33.28,Adulto Mayor,Bajo,0
+62,28.1,155,186,Media,52.27,Adulto Mayor,Bajo,1
+52,25.8,91,128,Alta,33.02,Adulto,Bajo,0
+30,29.2,146,155,Baja,45.26,Joven,Bajo,1
+79,31.8,115,117,Media,37.21,Adulto Mayor,Bajo,0
+38,22.5,166,190,Alta,42.75,Adulto,Bajo,0
+25,35.4,147,108,Baja,38.23,Joven,Bajo,1
+26,24.2,112,105,Alta,25.41,Joven,Bajo,0
+76,27.9,147,70,Media,19.53,Adulto Mayor,Bajo,0
+74,23.2,124,197,Media,45.7,Adulto Mayor,Bajo,0
+58,25.2,149,110,Media,27.72,Adulto,Bajo,0
+73,25.6,108,191,Alta,48.9,Adulto Mayor,Bajo,0
+74,25.9,165,113,Media,29.27,Adulto Mayor,Bajo,0
+58,27.6,101,93,Alta,25.67,Adulto,Bajo,0
+39,30.9,154,74,Alta,22.87,Adulto,Bajo,0
+68,32.6,151,146,Alta,47.6,Adulto Mayor,Alto,1
+68,24.1,119,142,Baja,34.22,Adulto Mayor,Bajo,1
+35,29.9,168,98,Baja,29.3,Joven,Bajo,0
+45,28.6,133,189,Baja,54.05,Adulto,Bajo,0
+79,26.3,109,88,Baja,23.14,Adulto Mayor,Bajo,0
+44,25.4,166,128,Media,32.51,Adulto,Bajo,0
+40,30.1,91,133,Media,40.03,Adulto,Bajo,0
+80,30.1,135,156,Alta,46.96,Adulto Mayor,Alto,1
+80,31.5,161,131,Media,41.26,Adulto Mayor,Bajo,1
+42,32.0,99,80,Baja,25.6,Adulto,Bajo,0
+38,26.2,97,179,Alta,46.9,Adulto,Bajo,0
+67,21.6,158,76,Media,16.42,Adulto Mayor,Bajo,0
+67,26.1,154,159,Baja,41.5,Adulto Mayor,Bajo,1
+42,29.3,98,142,Media,41.61,Adulto,Bajo,0
+36,31.7,112,155,Media,49.14,Adulto,Alto,0
+70,28.1,133,138,Alta,38.78,Adulto Mayor,Bajo,0
+56,30.3,130,104,Alta,31.51,Adulto,Bajo,0
+62,22.0,148,173,Media,38.06,Adulto Mayor,Bajo,1
+47,28.2,122,178,Baja,50.2,Adulto,Bajo,0
+52,32.1,108,110,Media,35.31,Adulto,Bajo,0
+22,21.0,135,125,Baja,26.25,Joven,Bajo,0
+22,23.7,140,135,Baja,32.0,Joven,Bajo,0
+53,30.5,124,154,Media,46.97,Adulto,Alto,0
+71,26.6,165,193,Media,51.34,Adulto Mayor,Bajo,1
+59,21.9,140,143,Media,31.32,Adulto,Bajo,0
+23,28.4,112,128,Media,36.35,Joven,Bajo,0
+70,31.0,148,107,Media,33.17,Adulto Mayor,Bajo,1
+51,31.4,102,97,Baja,30.46,Adulto,Bajo,0
+34,26.7,143,75,Baja,20.02,Joven,Bajo,0
+73,29.0,156,76,Media,22.04,Adulto Mayor,Bajo,0
+37,23.0,122,151,Baja,34.73,Adulto,Bajo,0
+38,35.5,92,105,Baja,37.28,Adulto,Bajo,0
+27,28.3,147,127,Alta,35.94,Joven,Bajo,0
+72,24.2,95,78,Media,18.88,Adulto Mayor,Bajo,0
+39,31.2,108,148,Media,46.18,Adulto,Alto,0
+61,27.6,100,197,Baja,54.37,Adulto Mayor,Bajo,1
+49,34.9,118,141,Media,49.21,Adulto,Alto,0
+52,21.4,159,172,Alta,36.81,Adulto,Bajo,0
+48,31.0,180,176,Baja,54.56,Adulto,Alto,1
+64,19.8,96,91,Media,18.02,Adulto Mayor,Bajo,0
+19,27.3,168,185,Alta,50.5,Joven,Bajo,0
+25,28.3,155,151,Media,42.73,Joven,Bajo,0
+43,20.9,92,163,Media,34.07,Adulto,Bajo,0
+32,23.3,133,102,Media,23.77,Joven,Bajo,0
+56,17.6,102,73,Media,12.85,Adulto,Bajo,0
+35,26.3,94,174,Media,45.76,Joven,Bajo,0
+26,27.7,180,179,Media,49.58,Joven,Bajo,0
+20,28.2,142,140,Media,39.48,Joven,Bajo,0
+68,34.5,173,77,Alta,26.56,Adulto Mayor,Bajo,1
+57,28.7,125,125,Baja,35.88,Adulto,Bajo,0
+70,30.0,115,193,Media,57.9,Adulto Mayor,Bajo,1
+48,33.1,97,148,Media,48.99,Adulto,Alto,0
+65,24.2,123,129,Baja,31.22,Adulto Mayor,Bajo,0
+67,28.6,92,107,Media,30.6,Adulto Mayor,Bajo,0
+72,20.0,100,168,Baja,33.6,Adulto Mayor,Bajo,1
+23,21.7,130,149,Media,32.33,Joven,Bajo,0
+45,20.6,171,164,Baja,33.78,Adulto,Bajo,1
+27,26.1,179,88,Media,22.97,Joven,Bajo,0
+41,30.6,117,198,Alta,60.59,Adulto,Alto,0
+20,27.5,119,180,Baja,49.5,Joven,Bajo,0
+66,33.5,164,198,Baja,66.33,Adulto Mayor,Alto,1
+33,30.9,107,199,Media,61.49,Joven,Alto,0
+25,26.9,107,84,Baja,22.6,Joven,Bajo,0
+41,28.8,100,173,Media,49.82,Adulto,Bajo,0
+36,30.2,132,113,Alta,34.13,Adulto,Bajo,0
+56,32.3,128,75,Media,24.22,Adulto,Bajo,0
+51,21.3,121,85,Media,18.1,Adulto,Bajo,0
+22,29.7,170,81,Baja,24.06,Joven,Bajo,0
+48,28.7,124,87,Media,24.97,Adulto,Bajo,0
+25,27.7,102,196,Baja,54.29,Joven,Bajo,0
+80,24.6,158,110,Alta,27.06,Adulto Mayor,Bajo,0
+78,24.7,112,172,Baja,42.48,Adulto Mayor,Bajo,1
+68,32.1,144,192,Media,61.63,Adulto Mayor,Alto,1
+25,18.1,140,75,Baja,13.58,Joven,Bajo,0
+34,22.9,162,199,Alta,45.57,Joven,Bajo,0
+41,29.7,107,149,Baja,44.25,Adulto,Bajo,0
+57,30.0,156,181,Baja,54.3,Adulto,Bajo,1
+66,27.2,121,184,Alta,50.05,Adulto Mayor,Bajo,0
+30,26.1,180,127,Alta,33.15,Joven,Bajo,0
+36,15.1,112,155,Media,23.4,Adulto,Bajo,0
+24,29.5,135,77,Media,22.72,Joven,Bajo,0
+23,24.4,141,78,Media,19.03,Joven,Bajo,0
+19,31.0,176,116,Baja,35.96,Joven,Bajo,1
+52,24.9,140,103,Alta,25.65,Adulto,Bajo,0
+64,28.2,176,151,Baja,42.58,Adulto Mayor,Bajo,1
+70,26.2,144,142,Media,37.2,Adulto Mayor,Bajo,1
+22,26.2,168,84,Media,22.01,Joven,Bajo,0
+28,35.4,147,192,Alta,67.97,Joven,Alto,1
+56,29.0,145,188,Media,54.52,Adulto,Bajo,0
+55,23.6,95,192,Baja,45.31,Adulto,Bajo,0
+53,21.9,158,89,Media,19.49,Adulto,Bajo,0
+28,27.3,112,181,Media,49.41,Joven,Bajo,0
+43,32.0,129,185,Alta,59.2,Adulto,Alto,0
+18,31.1,99,188,Alta,58.47,Joven,Alto,0
+59,26.8,91,77,Media,20.64,Adulto,Bajo,0
+54,25.0,94,75,Alta,18.75,Adulto,Bajo,0
+40,31.9,123,185,Baja,59.02,Adulto,Alto,1
+21,23.3,179,77,Media,17.94,Joven,Bajo,0
+52,27.7,164,179,Baja,49.58,Adulto,Bajo,1
+38,26.3,128,106,Baja,27.88,Adulto,Bajo,0
+34,28.5,136,141,Media,40.18,Joven,Bajo,0
+80,27.1,147,152,Media,41.19,Adulto Mayor,Bajo,1
+24,23.9,142,118,Alta,28.2,Joven,Bajo,0
+59,25.3,178,141,Alta,35.67,Adulto,Bajo,0
+71,19.1,152,140,Baja,26.74,Adulto Mayor,Bajo,1
+34,23.9,122,75,Baja,17.92,Joven,Bajo,0
+75,32.8,119,140,Baja,45.92,Adulto Mayor,Bajo,1
+58,26.3,94,130,Media,34.19,Adulto,Bajo,0
+61,20.5,98,120,Baja,24.6,Adulto Mayor,Bajo,0
+39,21.2,175,191,Media,40.49,Adulto,Bajo,0
+42,28.7,132,77,Baja,22.1,Adulto,Bajo,0
+20,31.2,159,96,Media,29.95,Joven,Bajo,0
+64,27.7,173,111,Media,30.75,Adulto Mayor,Bajo,0
+60,19.0,136,145,Media,27.55,Adulto Mayor,Bajo,0
+73,25.0,90,117,Alta,29.25,Adulto Mayor,Bajo,0
+26,29.7,135,70,Baja,20.79,Joven,Bajo,0
+36,23.9,126,127,Media,30.35,Adulto,Bajo,0
+38,33.9,92,165,Alta,55.94,Adulto,Alto,0
+41,23.5,155,93,Baja,21.86,Adulto,Bajo,0
+57,30.6,179,188,Media,57.53,Adulto,Alto,1
+71,26.5,137,71,Alta,18.82,Adulto Mayor,Bajo,0
+46,22.3,114,179,Baja,39.92,Adulto,Bajo,0
+46,18.3,97,179,Baja,32.76,Adulto,Bajo,0
+44,25.9,91,82,Alta,21.24,Adulto,Bajo,0
+50,32.2,103,158,Baja,50.88,Adulto,Alto,1
+55,32.4,167,95,Media,30.78,Adulto,Bajo,0
+60,37.5,111,172,Alta,64.5,Adulto Mayor,Alto,1
+75,23.7,112,139,Media,32.94,Adulto Mayor,Bajo,0
+56,27.3,143,195,Alta,53.24,Adulto,Bajo,0
+71,26.2,94,199,Media,52.14,Adulto Mayor,Bajo,0
+75,30.4,156,86,Media,26.14,Adulto Mayor,Bajo,1
+65,23.4,144,132,Alta,30.89,Adulto Mayor,Bajo,0
+69,26.8,130,153,Baja,41.0,Adulto Mayor,Bajo,1
+44,31.2,143,83,Media,25.9,Adulto,Bajo,0
+66,23.1,179,200,Media,46.2,Adulto Mayor,Bajo,1
+71,31.7,100,162,Baja,51.35,Adulto Mayor,Alto,1
+43,28.4,90,177,Baja,50.27,Adulto,Bajo,0
+62,31.0,101,168,Baja,52.08,Adulto Mayor,Alto,1
+44,27.4,138,158,Media,43.29,Adulto,Bajo,0
+69,28.6,115,98,Baja,28.03,Adulto Mayor,Bajo,0
+57,31.7,97,116,Media,36.77,Adulto,Bajo,0
+59,33.3,159,100,Baja,33.3,Adulto,Bajo,1
+69,25.0,178,87,Alta,21.75,Adulto Mayor,Bajo,0
+27,20.0,90,151,Media,30.2,Joven,Bajo,0
+43,33.1,158,116,Media,38.4,Adulto,Bajo,0
+80,24.4,141,74,Baja,18.06,Adulto Mayor,Bajo,1
+58,29.5,117,182,Media,53.69,Adulto,Bajo,0
+44,29.5,161,138,Media,40.71,Adulto,Bajo,0
+20,16.7,119,164,Baja,27.39,Joven,Bajo,0
+36,34.6,95,181,Baja,62.63,Adulto,Alto,1
+42,26.7,100,157,Baja,41.92,Adulto,Bajo,0
+69,26.4,120,77,Media,20.33,Adulto Mayor,Bajo,0
+57,25.9,93,193,Baja,49.99,Adulto,Bajo,0
+79,22.0,120,140,Baja,30.8,Adulto Mayor,Bajo,1
+75,39.3,105,166,Media,65.24,Adulto Mayor,Alto,1
+78,26.0,171,151,Media,39.26,Adulto Mayor,Bajo,1
+59,18.3,107,187,Media,34.22,Adulto,Bajo,0
+39,26.8,93,75,Media,20.1,Adulto,Bajo,0
+50,27.9,166,105,Media,29.3,Adulto,Bajo,0
+56,19.0,135,97,Media,18.43,Adulto,Bajo,0
+29,23.6,178,103,Media,24.31,Joven,Bajo,0
+42,33.0,165,159,Alta,52.47,Adulto,Alto,1
+71,22.6,180,84,Baja,18.98,Adulto Mayor,Bajo,1
+28,22.1,118,180,Media,39.78,Joven,Bajo,0
+26,27.5,180,110,Alta,30.25,Joven,Bajo,0
+25,29.2,110,111,Alta,32.41,Joven,Bajo,0
+43,27.9,177,182,Media,50.78,Adulto,Bajo,0
+66,22.0,108,130,Media,28.6,Adulto Mayor,Bajo,0
+61,27.1,118,150,Baja,40.65,Adulto Mayor,Bajo,1
+35,33.6,114,136,Baja,45.7,Joven,Bajo,0
+57,26.8,140,182,Alta,48.78,Adulto,Bajo,0
+57,33.3,114,75,Media,24.98,Adulto,Bajo,0
+46,23.8,176,170,Baja,40.46,Adulto,Bajo,1
+64,44.2,156,110,Baja,48.62,Adulto Mayor,Bajo,1
+80,32.0,114,164,Media,52.48,Adulto Mayor,Alto,1
+29,24.4,120,81,Baja,19.76,Joven,Bajo,0
+32,30.6,120,174,Baja,53.24,Joven,Alto,1
+21,22.2,160,103,Baja,22.87,Joven,Bajo,0
+75,23.5,159,174,Alta,40.89,Adulto Mayor,Bajo,1
+50,26.9,103,168,Baja,45.19,Adulto,Bajo,0
+68,25.1,155,86,Media,21.59,Adulto Mayor,Bajo,0
+23,18.2,152,83,Alta,15.11,Joven,Bajo,0
+36,23.4,104,139,Media,32.53,Adulto,Bajo,0
+45,30.5,176,139,Baja,42.4,Adulto,Bajo,1
+79,32.2,117,131,Baja,42.18,Adulto Mayor,Bajo,1
+73,22.6,115,158,Baja,35.71,Adulto Mayor,Bajo,1
+21,24.4,155,140,Baja,34.16,Joven,Bajo,1
+30,21.2,164,103,Media,21.84,Joven,Bajo,0
+74,21.0,119,188,Media,39.48,Adulto Mayor,Bajo,0
+79,25.9,125,127,Baja,32.89,Adulto Mayor,Bajo,0
+39,23.9,151,78,Baja,18.64,Adulto,Bajo,0
+29,29.9,135,115,Media,34.38,Joven,Bajo,0
+48,30.6,133,101,Media,30.91,Adulto,Bajo,0
+32,26.8,105,164,Baja,43.95,Joven,Bajo,0
+54,20.8,137,81,Media,16.85,Adulto,Bajo,0
+74,31.3,98,170,Baja,53.21,Adulto Mayor,Alto,1
+69,25.9,109,157,Media,40.66,Adulto Mayor,Bajo,0
+66,28.9,165,160,Alta,46.24,Adulto Mayor,Bajo,1
+46,23.1,178,172,Media,39.73,Adulto,Bajo,0
+80,23.5,93,137,Media,32.2,Adulto Mayor,Bajo,0
+59,26.4,127,140,Alta,36.96,Adulto,Bajo,0
+31,32.6,135,90,Media,29.34,Joven,Bajo,0
+63,22.6,158,179,Media,40.45,Adulto Mayor,Bajo,1
+80,19.9,146,198,Baja,39.4,Adulto Mayor,Bajo,1
+25,28.8,172,99,Baja,28.51,Joven,Bajo,0
+22,27.8,168,122,Baja,33.92,Joven,Bajo,0
+73,28.6,105,129,Media,36.89,Adulto Mayor,Bajo,0
+62,25.3,140,151,Media,38.2,Adulto Mayor,Bajo,1
+33,23.2,101,108,Baja,25.06,Joven,Bajo,0
+55,18.2,107,110,Baja,20.02,Adulto,Bajo,0
+34,29.2,148,177,Alta,51.68,Joven,Bajo,0
+25,23.5,106,90,Alta,21.15,Joven,Bajo,0
+23,27.9,106,122,Media,34.04,Joven,Bajo,0
+61,24.7,148,168,Alta,41.5,Adulto Mayor,Bajo,1
+27,23.4,138,112,Baja,26.21,Joven,Bajo,0
+75,19.3,99,140,Baja,27.02,Adulto Mayor,Bajo,1
+27,26.9,114,96,Media,25.82,Joven,Bajo,0
+26,33.8,98,100,Media,33.8,Joven,Bajo,0
+47,28.5,145,82,Media,23.37,Adulto,Bajo,0
+35,28.6,170,121,Media,34.61,Joven,Bajo,0
+38,29.8,122,128,Baja,38.14,Adulto,Bajo,0
+63,17.1,104,138,Baja,23.6,Adulto Mayor,Bajo,0
+61,30.9,137,161,Alta,49.75,Adulto Mayor,Alto,1
+54,29.3,141,108,Media,31.64,Adulto,Bajo,0
+51,30.0,139,162,Media,48.6,Adulto,Bajo,0
+53,25.7,106,179,Baja,46.0,Adulto,Bajo,0
+33,29.4,109,158,Baja,46.45,Joven,Bajo,0
+78,32.5,168,118,Media,38.35,Adulto Mayor,Bajo,1
+56,31.6,173,156,Alta,49.3,Adulto,Alto,1
+40,30.3,176,111,Alta,33.63,Adulto,Bajo,0
+39,29.5,94,193,Media,56.94,Adulto,Bajo,0
+67,22.2,167,77,Baja,17.09,Adulto Mayor,Bajo,1
+42,30.3,129,174,Baja,52.72,Adulto,Alto,1
+64,20.7,154,152,Media,31.46,Adulto Mayor,Bajo,1
+21,30.8,168,134,Media,41.27,Joven,Bajo,0
+59,28.5,114,200,Baja,57.0,Adulto,Bajo,0
+68,19.7,130,128,Baja,25.22,Adulto Mayor,Bajo,0
+77,24.3,158,128,Alta,31.1,Adulto Mayor,Bajo,0
+59,31.8,99,153,Alta,48.65,Adulto,Alto,0
+67,24.2,163,184,Baja,44.53,Adulto Mayor,Bajo,1
+78,29.6,98,148,Alta,43.81,Adulto Mayor,Bajo,0
+44,34.0,91,108,Media,36.72,Adulto,Bajo,0
+23,29.9,120,187,Baja,55.91,Joven,Bajo,0
+48,29.0,179,154,Baja,44.66,Adulto,Bajo,1
+71,15.5,173,126,Media,19.53,Adulto Mayor,Bajo,0
+35,34.3,146,114,Baja,39.1,Joven,Bajo,1
+65,27.9,150,158,Baja,44.08,Adulto Mayor,Bajo,1
+22,25.6,147,76,Media,19.46,Joven,Bajo,0
+24,28.5,106,105,Alta,29.92,Joven,Bajo,0
+80,25.4,139,108,Alta,27.43,Adulto Mayor,Bajo,0
+72,26.5,97,175,Baja,46.38,Adulto Mayor,Bajo,1
+62,27.8,116,162,Baja,45.04,Adulto Mayor,Bajo,1
+29,31.2,116,94,Media,29.33,Joven,Bajo,0
+75,24.6,137,143,Media,35.18,Adulto Mayor,Bajo,0
+46,26.3,103,188,Media,49.44,Adulto,Bajo,0
+27,25.1,103,123,Media,30.87,Joven,Bajo,0
+23,29.2,147,153,Media,44.68,Joven,Bajo,0
+56,27.0,175,141,Baja,38.07,Adulto,Bajo,1
+19,23.8,139,91,Alta,21.66,Joven,Bajo,0
+80,29.5,177,187,Media,55.16,Adulto Mayor,Bajo,1
+67,27.4,148,146,Baja,40.0,Adulto Mayor,Bajo,1
+75,34.9,172,88,Baja,30.71,Adulto Mayor,Bajo,1
+78,26.4,104,191,Media,50.42,Adulto Mayor,Bajo,0
+36,19.7,129,195,Media,38.42,Adulto,Bajo,0
+27,26.7,96,154,Baja,41.12,Joven,Bajo,0
+52,20.1,141,193,Media,38.79,Adulto,Bajo,0
+77,25.8,130,118,Baja,30.44,Adulto Mayor,Bajo,0
+36,29.8,98,174,Media,51.85,Adulto,Bajo,0
+19,33.4,106,143,Baja,47.76,Joven,Alto,1
+67,23.8,136,71,Media,16.9,Adulto Mayor,Bajo,0
+42,30.4,161,172,Alta,52.29,Adulto,Alto,1
+19,24.0,101,82,Baja,19.68,Joven,Bajo,0
+39,24.2,159,158,Media,38.24,Adulto,Bajo,0
+40,28.4,135,82,Baja,23.29,Adulto,Bajo,0
+78,32.6,128,178,Alta,58.03,Adulto Mayor,Alto,1
+47,32.5,152,121,Alta,39.33,Adulto,Bajo,0
+24,28.4,92,111,Media,31.52,Joven,Bajo,0
+65,26.2,159,92,Alta,24.1,Adulto Mayor,Bajo,0
+57,29.8,118,165,Media,49.17,Adulto,Bajo,0
+50,35.6,163,129,Baja,45.92,Adulto,Bajo,1
+60,26.0,171,151,Alta,39.26,Adulto Mayor,Bajo,1
+64,33.8,157,104,Media,35.15,Adulto Mayor,Bajo,1
+53,27.2,126,162,Media,44.06,Adulto,Bajo,0
+51,33.6,102,193,Media,64.85,Adulto,Alto,0
+74,29.2,167,136,Media,39.71,Adulto Mayor,Bajo,0
+19,29.1,113,151,Baja,43.94,Joven,Bajo,0
+64,34.0,97,173,Alta,58.82,Adulto Mayor,Alto,1
+20,31.9,152,164,Media,52.32,Joven,Alto,1
+52,22.9,98,99,Baja,22.67,Adulto,Bajo,0
+38,21.7,137,111,Baja,24.09,Adulto,Bajo,0
+21,30.4,135,141,Media,42.86,Joven,Alto,0
+36,25.5,165,117,Media,29.84,Adulto,Bajo,0
+78,26.0,146,106,Media,27.56,Adulto Mayor,Bajo,0
+39,25.8,142,75,Alta,19.35,Adulto,Bajo,0
+72,27.2,170,199,Media,54.13,Adulto Mayor,Bajo,1
+39,25.2,171,124,Baja,31.25,Adulto,Bajo,0
+21,33.1,142,130,Baja,43.03,Joven,Bajo,1
+27,29.0,174,162,Media,46.98,Joven,Bajo,0
+22,26.4,106,134,Baja,35.38,Joven,Bajo,0
+40,32.9,143,183,Baja,60.21,Adulto,Alto,1
+36,26.1,120,184,Media,48.02,Adulto,Bajo,0
+45,26.2,99,81,Alta,21.22,Adulto,Bajo,0
+59,29.4,137,137,Media,40.28,Adulto,Bajo,0
+45,25.4,172,178,Media,45.21,Adulto,Bajo,0
+19,27.2,150,150,Media,40.8,Joven,Bajo,0
+68,21.5,171,96,Alta,20.64,Adulto Mayor,Bajo,0
+60,30.6,157,139,Baja,42.53,Adulto Mayor,Bajo,1
+40,35.3,174,171,Baja,60.36,Adulto,Alto,1
+30,27.4,161,100,Media,27.4,Joven,Bajo,0
+25,32.6,117,167,Baja,54.44,Joven,Alto,1
+49,26.6,110,113,Baja,30.06,Adulto,Bajo,0
+71,26.6,172,97,Media,25.8,Adulto Mayor,Bajo,0
+28,31.7,112,86,Alta,27.26,Joven,Bajo,0
+56,32.3,96,137,Media,44.25,Adulto,Bajo,0
+19,23.9,155,131,Media,31.31,Joven,Bajo,0
+43,25.6,110,106,Baja,27.14,Adulto,Bajo,0
+26,20.9,176,178,Media,37.2,Joven,Bajo,0
+35,23.7,106,128,Baja,30.34,Joven,Bajo,0
+22,25.4,143,125,Baja,31.75,Joven,Bajo,0
+49,20.4,172,134,Baja,27.34,Adulto,Bajo,0
+39,28.6,137,194,Media,55.48,Adulto,Bajo,0
+79,31.5,170,95,Baja,29.92,Adulto Mayor,Bajo,1
+66,23.2,116,147,Media,34.1,Adulto Mayor,Bajo,0
+68,27.3,105,136,Baja,37.13,Adulto Mayor,Bajo,0
+27,29.3,135,110,Baja,32.23,Joven,Bajo,0
+67,22.2,168,196,Media,43.51,Adulto Mayor,Bajo,1
+71,31.3,111,160,Baja,50.08,Adulto Mayor,Alto,1
+27,18.5,90,182,Media,33.67,Joven,Bajo,0
+41,21.6,147,107,Media,23.11,Adulto,Bajo,0
+61,36.8,166,132,Media,48.58,Adulto Mayor,Bajo,1
+44,44.0,111,199,Alta,87.56,Adulto,Alto,0
+39,25.8,172,85,Media,21.93,Adulto,Bajo,0
+53,15.2,164,187,Alta,28.42,Adulto,Bajo,0
+80,24.3,145,128,Alta,31.1,Adulto Mayor,Bajo,0
+56,33.4,120,132,Alta,44.09,Adulto,Bajo,0
+72,23.5,147,151,Media,35.48,Adulto Mayor,Bajo,1
+76,33.2,95,200,Media,66.4,Adulto Mayor,Alto,1
+48,30.3,137,191,Media,57.87,Adulto,Alto,0
+33,19.4,142,197,Media,38.22,Joven,Bajo,0
+22,33.6,149,194,Alta,65.18,Joven,Alto,1
+37,39.7,123,173,Media,68.68,Adulto,Alto,0
+50,25.0,160,136,Media,34.0,Adulto,Bajo,0
+48,32.3,135,98,Media,31.65,Adulto,Bajo,0
+65,18.0,159,159,Alta,28.62,Adulto Mayor,Bajo,1
+67,26.9,125,72,Media,19.37,Adulto Mayor,Bajo,0
+39,35.8,146,198,Media,70.88,Adulto,Alto,1
+29,26.7,115,152,Baja,40.58,Joven,Bajo,0
+50,29.5,151,157,Media,46.32,Adulto,Bajo,0
+20,17.7,167,153,Media,27.08,Joven,Bajo,0
+71,29.9,137,169,Alta,50.53,Adulto Mayor,Bajo,0
+75,31.4,125,90,Alta,28.26,Adulto Mayor,Bajo,0
+41,24.4,164,138,Alta,33.67,Adulto,Bajo,0
+55,24.9,115,107,Media,26.64,Adulto,Bajo,0
+22,31.3,168,195,Baja,61.04,Joven,Alto,1
+58,21.3,118,142,Alta,30.25,Adulto,Bajo,0
+71,27.1,128,81,Alta,21.95,Adulto Mayor,Bajo,0
+60,28.5,138,103,Alta,29.36,Adulto Mayor,Bajo,0
+32,27.5,111,103,Media,28.32,Joven,Bajo,0
+21,29.7,109,94,Media,27.92,Joven,Bajo,0
+80,31.4,96,84,Baja,26.38,Adulto Mayor,Bajo,1
+50,24.6,146,127,Alta,31.24,Adulto,Bajo,0
+18,33.1,114,195,Baja,64.54,Joven,Alto,1
+26,23.9,145,160,Baja,38.24,Joven,Bajo,1
+69,28.2,127,118,Baja,33.28,Adulto Mayor,Bajo,0
+73,23.6,138,165,Media,38.94,Adulto Mayor,Bajo,0
+72,18.8,158,73,Baja,13.72,Adulto Mayor,Bajo,1
+36,21.8,139,182,Media,39.68,Adulto,Bajo,0
+67,29.7,150,168,Media,49.9,Adulto Mayor,Bajo,1
+47,24.8,104,78,Baja,19.34,Adulto,Bajo,0
+67,24.2,98,89,Baja,21.54,Adulto Mayor,Bajo,0
+18,15.0,141,104,Baja,15.6,Joven,Bajo,0
+39,33.8,92,134,Baja,45.29,Adulto,Bajo,0
+50,26.4,113,182,Baja,48.05,Adulto,Bajo,0
+21,32.4,92,84,Media,27.22,Joven,Bajo,0
+59,18.1,97,176,Alta,31.86,Adulto,Bajo,0
+59,19.6,147,96,Baja,18.82,Adulto,Bajo,0
+56,29.1,147,72,Alta,20.95,Adulto,Bajo,0
+55,24.1,135,172,Media,41.45,Adulto,Bajo,0
+54,30.2,127,91,Baja,27.48,Adulto,Bajo,0
+62,25.4,90,80,Baja,20.32,Adulto Mayor,Bajo,0
+36,32.8,162,75,Alta,24.6,Adulto,Bajo,0
+46,19.2,113,172,Media,33.02,Adulto,Bajo,0
+39,25.4,172,148,Media,37.59,Adulto,Bajo,0
+27,30.5,175,104,Baja,31.72,Joven,Bajo,1
+34,17.7,106,184,Media,32.57,Joven,Bajo,0
+64,22.6,104,97,Alta,21.92,Adulto Mayor,Bajo,0
+67,22.7,162,73,Media,16.57,Adulto Mayor,Bajo,0
+39,27.7,111,153,Alta,42.38,Adulto,Bajo,0
+79,29.6,133,111,Baja,32.86,Adulto Mayor,Bajo,0
+46,30.4,90,123,Media,37.39,Adulto,Bajo,0
+30,26.3,131,175,Alta,46.02,Joven,Bajo,0
+62,34.2,128,189,Baja,64.64,Adulto Mayor,Alto,1
+77,23.5,175,74,Media,17.39,Adulto Mayor,Bajo,0
+80,29.0,98,111,Media,32.19,Adulto Mayor,Bajo,0
+67,20.0,138,178,Baja,35.6,Adulto Mayor,Bajo,1
+73,29.8,90,122,Alta,36.36,Adulto Mayor,Bajo,0
+26,33.1,103,87,Baja,28.8,Joven,Bajo,0
+64,27.2,108,79,Alta,21.49,Adulto Mayor,Bajo,0
+25,24.5,140,98,Baja,24.01,Joven,Bajo,0
+33,29.7,111,78,Media,23.17,Joven,Bajo,0
+29,20.6,97,77,Alta,15.86,Joven,Bajo,0
+38,23.8,165,109,Media,25.94,Adulto,Bajo,0
+25,25.3,178,110,Baja,27.83,Joven,Bajo,0
+29,20.2,169,89,Baja,17.98,Joven,Bajo,0
+28,17.5,109,100,Media,17.5,Joven,Bajo,0
+19,23.2,156,180,Media,41.76,Joven,Bajo,0
+32,26.8,171,184,Baja,49.31,Joven,Bajo,1
+33,32.9,128,144,Media,47.38,Joven,Alto,0
+65,19.7,150,70,Media,13.79,Adulto Mayor,Bajo,0
+34,27.7,123,155,Media,42.94,Joven,Bajo,0
+72,19.0,98,184,Media,34.96,Adulto Mayor,Bajo,0
+19,26.7,179,132,Media,35.24,Joven,Bajo,0
+37,23.3,125,157,Media,36.58,Adulto,Bajo,0
+47,28.9,114,124,Media,35.84,Adulto,Bajo,0
+78,26.9,169,170,Baja,45.73,Adulto Mayor,Bajo,1
+75,30.8,177,133,Media,40.96,Adulto Mayor,Bajo,1
+65,25.3,90,129,Media,32.64,Adulto Mayor,Bajo,0
+42,35.6,173,185,Media,65.86,Adulto,Alto,1
+63,31.1,120,78,Media,24.26,Adulto Mayor,Bajo,0
+70,24.3,151,85,Alta,20.66,Adulto Mayor,Bajo,0
+59,30.5,130,192,Baja,58.56,Adulto,Alto,1
+32,26.6,170,145,Media,38.57,Joven,Bajo,0
+43,31.4,172,143,Alta,44.9,Adulto,Alto,1
+27,25.1,167,172,Media,43.17,Joven,Bajo,0
+69,15.1,119,97,Media,14.65,Adulto Mayor,Bajo,0
+51,28.8,122,147,Baja,42.34,Adulto,Bajo,0
+54,30.6,150,112,Media,34.27,Adulto,Bajo,0
+25,21.6,143,194,Baja,41.9,Joven,Bajo,1
+56,25.9,138,104,Media,26.94,Adulto,Bajo,0
+25,28.1,120,167,Alta,46.93,Joven,Bajo,0
+33,30.9,120,135,Media,41.72,Joven,Bajo,0
+80,22.9,156,137,Baja,31.37,Adulto Mayor,Bajo,1
+60,26.5,113,151,Media,40.02,Adulto Mayor,Bajo,0
+69,26.6,140,78,Media,20.75,Adulto Mayor,Bajo,0
+35,20.0,147,185,Baja,37.0,Joven,Bajo,1
+29,31.0,159,73,Baja,22.63,Joven,Bajo,1
+28,28.4,135,191,Media,54.24,Joven,Bajo,0
+55,27.0,158,134,Alta,36.18,Adulto,Bajo,0
+19,26.9,170,70,Media,18.83,Joven,Bajo,0
+72,24.1,170,81,Media,19.52,Adulto Mayor,Bajo,0
+32,34.3,103,138,Baja,47.33,Joven,Bajo,0
+71,31.0,133,127,Baja,39.37,Adulto Mayor,Bajo,1
+50,34.2,112,106,Media,36.25,Adulto,Bajo,0
+79,31.0,167,135,Media,41.85,Adulto Mayor,Bajo,1
+22,33.7,102,177,Media,59.65,Joven,Alto,0
+40,39.8,176,192,Media,76.42,Adulto,Alto,1
+59,32.7,172,95,Alta,31.07,Adulto,Bajo,0
+50,27.6,125,156,Media,43.06,Adulto,Bajo,0
+80,34.2,139,119,Baja,40.7,Adulto Mayor,Bajo,1
+33,26.0,140,199,Media,51.74,Joven,Bajo,0
+57,38.5,129,198,Alta,76.23,Adulto,Alto,0
+78,18.5,179,140,Alta,25.9,Adulto Mayor,Bajo,1
+39,24.7,151,158,Alta,39.03,Adulto,Bajo,0
+70,17.7,177,137,Alta,24.25,Adulto Mayor,Bajo,0
+79,25.7,170,157,Alta,40.35,Adulto Mayor,Bajo,1
+34,25.6,144,178,Media,45.57,Joven,Bajo,0
+67,35.8,98,123,Media,44.03,Adulto Mayor,Bajo,0
+25,28.7,180,128,Media,36.74,Joven,Bajo,0
+46,37.6,169,136,Alta,51.14,Adulto,Bajo,0
+54,32.1,134,99,Alta,31.78,Adulto,Bajo,0
+64,39.9,113,188,Media,75.01,Adulto Mayor,Alto,1
+61,24.6,156,143,Baja,35.18,Adulto Mayor,Bajo,1
+58,30.6,161,200,Media,61.2,Adulto,Alto,1
+25,25.7,95,150,Alta,38.55,Joven,Bajo,0
+19,19.0,101,76,Alta,14.44,Joven,Bajo,0
+38,30.5,142,79,Media,24.1,Adulto,Bajo,0
+74,28.7,117,186,Alta,53.38,Adulto Mayor,Bajo,0
+42,15.0,180,187,Baja,28.05,Adulto,Bajo,1
+25,24.3,165,161,Media,39.12,Joven,Bajo,0
+53,24.7,102,122,Baja,30.13,Adulto,Bajo,0
+33,30.6,140,93,Media,28.46,Joven,Bajo,0
+24,26.3,136,98,Media,25.77,Joven,Bajo,0
+27,29.8,174,160,Baja,47.68,Joven,Bajo,1
+67,28.8,150,81,Baja,23.33,Adulto Mayor,Bajo,1
+46,23.6,160,71,Media,16.76,Adulto,Bajo,0
+50,18.0,116,171,Baja,30.78,Adulto,Bajo,0
+76,34.1,98,163,Media,55.58,Adulto Mayor,Alto,1
+63,26.8,157,122,Media,32.7,Adulto Mayor,Bajo,0
+19,29.2,165,130,Media,37.96,Joven,Bajo,0
+32,22.3,145,126,Media,28.1,Joven,Bajo,0
+70,32.6,168,184,Alta,59.98,Adulto Mayor,Alto,1
+53,27.2,143,169,Baja,45.97,Adulto,Bajo,1
+77,24.1,159,112,Alta,26.99,Adulto Mayor,Bajo,0
+56,31.0,110,106,Baja,32.86,Adulto,Bajo,0
+25,30.1,123,128,Media,38.53,Joven,Bajo,0
+47,27.2,92,96,Media,26.11,Adulto,Bajo,0
+49,29.0,176,138,Alta,40.02,Adulto,Bajo,0
+49,26.5,176,130,Baja,34.45,Adulto,Bajo,0
+23,27.3,91,137,Baja,37.4,Joven,Bajo,0
+77,31.9,167,184,Media,58.7,Adulto Mayor,Alto,1
+43,30.0,142,165,Baja,49.5,Adulto,Bajo,1
+49,25.0,119,99,Media,24.75,Adulto,Bajo,0
+39,17.3,174,72,Media,12.46,Adulto,Bajo,0
+32,34.7,145,170,Media,58.99,Joven,Alto,1
+26,35.6,162,189,Baja,67.28,Joven,Alto,1
+72,27.9,104,151,Media,42.13,Adulto Mayor,Bajo,0
+67,28.6,136,197,Baja,56.34,Adulto Mayor,Bajo,1
+47,17.6,99,82,Baja,14.43,Adulto,Bajo,0
+50,36.7,164,127,Baja,46.61,Adulto,Bajo,1
+62,25.5,164,144,Media,36.72,Adulto Mayor,Bajo,1
+41,24.5,151,152,Media,37.24,Adulto,Bajo,0
+27,31.0,125,185,Alta,57.35,Joven,Alto,0
+36,25.9,112,164,Media,42.48,Adulto,Bajo,0
+25,21.1,103,152,Media,32.07,Joven,Bajo,0
+75,26.9,139,116,Baja,31.2,Adulto Mayor,Bajo,0
+73,27.0,109,142,Baja,38.34,Adulto Mayor,Bajo,1
+58,25.6,167,169,Media,43.26,Adulto,Bajo,0
+75,17.0,163,171,Media,29.07,Adulto Mayor,Bajo,1
+29,35.7,100,88,Media,31.42,Joven,Bajo,0
+55,23.0,140,130,Alta,29.9,Adulto,Bajo,0
+47,27.7,123,142,Media,39.33,Adulto,Bajo,0
+38,30.2,112,136,Baja,41.07,Adulto,Bajo,0
+47,28.2,130,112,Alta,31.58,Adulto,Bajo,0
+68,27.1,145,90,Media,24.39,Adulto Mayor,Bajo,0
+38,30.7,175,187,Baja,57.41,Adulto,Alto,1
+67,31.6,169,164,Media,51.82,Adulto Mayor,Alto,1
+25,35.6,103,72,Baja,25.63,Joven,Bajo,0
+74,24.1,132,131,Media,31.57,Adulto Mayor,Bajo,0
+45,32.6,171,88,Media,28.69,Adulto,Bajo,0
+74,23.0,92,91,Media,20.93,Adulto Mayor,Bajo,0
+32,27.4,124,162,Alta,44.39,Joven,Bajo,0
+26,22.3,177,171,Media,38.13,Joven,Bajo,0
+31,36.3,103,196,Media,71.15,Joven,Alto,0
+72,24.5,114,141,Media,34.54,Adulto Mayor,Bajo,0
+62,16.1,146,132,Alta,21.25,Adulto Mayor,Bajo,0
+26,18.1,137,109,Media,19.73,Joven,Bajo,0
+70,33.0,177,77,Alta,25.41,Adulto Mayor,Bajo,1
+37,24.5,146,198,Baja,48.51,Adulto,Bajo,1
+59,26.4,101,108,Media,28.51,Adulto,Bajo,0
+40,28.4,135,117,Alta,33.23,Adulto,Bajo,0
+28,22.4,146,193,Alta,43.23,Joven,Bajo,0
+32,30.0,132,165,Media,49.5,Joven,Bajo,0
+62,26.9,130,185,Baja,49.76,Adulto Mayor,Bajo,1
+45,27.4,92,100,Baja,27.4,Adulto,Bajo,0
+76,30.5,132,92,Media,28.06,Adulto Mayor,Bajo,0
+45,25.9,129,126,Media,32.63,Adulto,Bajo,0
+49,24.4,116,150,Media,36.6,Adulto,Bajo,0
+37,26.1,166,101,Media,26.36,Adulto,Bajo,0
+62,23.4,98,177,Media,41.42,Adulto Mayor,Bajo,0
+23,29.4,167,154,Media,45.28,Joven,Bajo,0
+39,36.1,103,101,Media,36.46,Adulto,Bajo,0
+45,32.9,110,154,Media,50.67,Adulto,Alto,0
+41,20.5,129,148,Media,30.34,Adulto,Bajo,0
+70,29.6,175,191,Baja,56.54,Adulto Mayor,Bajo,1
+74,30.6,155,100,Media,30.6,Adulto Mayor,Bajo,1
+57,24.8,113,79,Baja,19.59,Adulto,Bajo,0
+76,25.3,114,130,Baja,32.89,Adulto Mayor,Bajo,0
+21,27.2,97,151,Baja,41.07,Joven,Bajo,0
+73,21.8,174,167,Baja,36.41,Adulto Mayor,Bajo,1
+35,28.5,121,74,Baja,21.09,Joven,Bajo,0
+51,19.0,100,84,Baja,15.96,Adulto,Bajo,0
+62,17.6,168,182,Baja,32.03,Adulto Mayor,Bajo,1
+70,28.2,153,197,Baja,55.55,Adulto Mayor,Bajo,1
+27,33.0,131,190,Baja,62.7,Joven,Alto,1
+36,19.5,159,85,Media,16.58,Adulto,Bajo,0
+80,24.3,90,131,Media,31.83,Adulto Mayor,Bajo,0
+27,24.4,122,120,Alta,29.28,Joven,Bajo,0
+60,34.1,169,104,Baja,35.46,Adulto Mayor,Bajo,1
+22,33.7,154,162,Baja,54.59,Joven,Alto,1
+49,20.4,176,83,Baja,16.93,Adulto,Bajo,0
+22,26.7,93,100,Media,26.7,Joven,Bajo,0
+32,27.6,137,166,Baja,45.82,Joven,Bajo,0
+33,26.3,141,115,Media,30.24,Joven,Bajo,0
+69,43.1,101,193,Alta,83.18,Adulto Mayor,Alto,1
+23,23.0,126,94,Alta,21.62,Joven,Bajo,0
+67,29.7,130,70,Media,20.79,Adulto Mayor,Bajo,0
+43,28.3,145,159,Media,45.0,Adulto,Bajo,0
+56,23.8,167,157,Media,37.37,Adulto,Bajo,0
+47,32.2,113,183,Baja,58.93,Adulto,Alto,1
+44,22.7,123,94,Media,21.34,Adulto,Bajo,0
+80,29.6,165,93,Baja,27.53,Adulto Mayor,Bajo,1
+62,30.4,118,188,Alta,57.15,Adulto Mayor,Alto,1
+19,27.7,113,122,Baja,33.79,Joven,Bajo,0
+75,29.3,164,89,Baja,26.08,Adulto Mayor,Bajo,1
+64,32.7,131,160,Media,52.32,Adulto Mayor,Alto,1
+33,27.8,180,175,Media,48.65,Joven,Bajo,0
+24,20.8,143,199,Media,41.39,Joven,Bajo,0
+61,27.5,139,189,Alta,51.98,Adulto Mayor,Bajo,0
+28,30.2,127,112,Media,33.82,Joven,Bajo,0
+43,27.4,93,127,Baja,34.8,Adulto,Bajo,0
+79,19.4,151,153,Media,29.68,Adulto Mayor,Bajo,1
+67,24.8,126,97,Alta,24.06,Adulto Mayor,Bajo,0
+71,38.1,143,132,Baja,50.29,Adulto Mayor,Bajo,1
+42,29.2,93,113,Alta,33.0,Adulto,Bajo,0
+55,27.4,141,72,Baja,19.73,Adulto,Bajo,0
+52,19.7,111,134,Baja,26.4,Adulto,Bajo,0
+53,26.3,113,133,Alta,34.98,Adulto,Bajo,0
+27,25.3,140,102,Baja,25.81,Joven,Bajo,0
+26,29.4,179,163,Media,47.92,Joven,Bajo,0
+40,27.0,144,131,Media,35.37,Adulto,Bajo,0
+50,26.6,130,104,Media,27.66,Adulto,Bajo,0
+23,23.6,156,188,Baja,44.37,Joven,Bajo,1
+41,25.8,166,186,Baja,47.99,Adulto,Bajo,1
+42,32.1,150,198,Media,63.56,Adulto,Alto,1
+47,18.6,113,108,Media,20.09,Adulto,Bajo,0
+37,44.2,158,106,Baja,46.85,Adulto,Bajo,1
+24,26.0,149,148,Baja,38.48,Joven,Bajo,1
+76,18.1,125,192,Media,34.75,Adulto Mayor,Bajo,0
+53,33.4,135,138,Media,46.09,Adulto,Bajo,0
+27,38.1,128,172,Media,65.53,Joven,Alto,0
+72,21.3,162,144,Media,30.67,Adulto Mayor,Bajo,1
+21,28.4,158,120,Media,34.08,Joven,Bajo,0
+24,30.4,93,149,Media,45.3,Joven,Alto,0
+70,21.4,171,118,Media,25.25,Adulto Mayor,Bajo,0
+30,22.3,97,93,Baja,20.74,Joven,Bajo,0
+41,27.0,153,74,Baja,19.98,Adulto,Bajo,0
+44,26.6,94,125,Media,33.25,Adulto,Bajo,0
+68,29.4,134,115,Baja,33.81,Adulto Mayor,Bajo,0
+46,23.8,147,190,Media,45.22,Adulto,Bajo,0
+68,27.7,95,172,Alta,47.64,Adulto Mayor,Bajo,0
+57,22.1,110,188,Baja,41.55,Adulto,Bajo,0
+42,30.2,170,183,Baja,55.27,Adulto,Alto,1
+72,27.9,154,176,Baja,49.1,Adulto Mayor,Bajo,1
+19,30.7,149,105,Media,32.24,Joven,Bajo,0
+51,34.2,155,83,Baja,28.39,Adulto,Bajo,1
+25,18.8,93,186,Media,34.97,Joven,Bajo,0
+72,25.7,167,75,Baja,19.27,Adulto Mayor,Bajo,1
+74,33.9,112,120,Baja,40.68,Adulto Mayor,Bajo,1
+51,25.2,96,75,Baja,18.9,Adulto,Bajo,0
+54,15.0,116,82,Media,12.3,Adulto,Bajo,0
+36,18.1,170,149,Media,26.97,Adulto,Bajo,0
+39,22.6,97,140,Baja,31.64,Adulto,Bajo,0
+78,18.1,101,105,Alta,19.01,Adulto Mayor,Bajo,0
+47,20.7,128,74,Baja,15.32,Adulto,Bajo,0
+68,30.4,165,169,Baja,51.38,Adulto Mayor,Alto,1
+21,28.5,166,177,Baja,50.44,Joven,Bajo,1
+37,31.2,93,83,Media,25.9,Adulto,Bajo,0
+51,22.2,180,101,Alta,22.42,Adulto,Bajo,0
+67,29.3,120,162,Baja,47.47,Adulto Mayor,Bajo,1
+46,26.8,111,157,Alta,42.08,Adulto,Bajo,0
+18,35.7,121,110,Baja,39.27,Joven,Bajo,0
+24,21.0,132,171,Baja,35.91,Joven,Bajo,0
+35,27.3,97,199,Media,54.33,Joven,Bajo,0
+41,30.7,93,148,Baja,45.44,Adulto,Alto,1
+68,28.9,136,184,Baja,53.18,Adulto Mayor,Bajo,1
+27,27.4,155,114,Baja,31.24,Joven,Bajo,0
+24,26.6,129,174,Baja,46.28,Joven,Bajo,0
+69,19.0,175,192,Baja,36.48,Adulto Mayor,Bajo,1
+61,27.7,155,117,Baja,32.41,Adulto Mayor,Bajo,1
+58,29.9,160,84,Baja,25.12,Adulto,Bajo,0
+44,29.3,107,136,Baja,39.85,Adulto,Bajo,0
+38,30.7,166,165,Alta,50.66,Adulto,Alto,1
+47,27.0,91,115,Media,31.05,Adulto,Bajo,0
+18,29.3,107,126,Media,36.92,Joven,Bajo,0
+40,27.5,154,156,Media,42.9,Adulto,Bajo,0
+68,36.1,171,154,Media,55.59,Adulto Mayor,Alto,1
+39,23.6,117,76,Media,17.94,Adulto,Bajo,0
+76,20.0,92,98,Media,19.6,Adulto Mayor,Bajo,0
+25,25.0,176,134,Baja,33.5,Joven,Bajo,0
+18,29.1,112,158,Baja,45.98,Joven,Bajo,0
+65,25.4,94,173,Media,43.94,Adulto Mayor,Bajo,0
+58,35.9,94,136,Baja,48.82,Adulto,Bajo,0
+80,27.9,167,164,Baja,45.76,Adulto Mayor,Bajo,1
+35,22.4,172,100,Alta,22.4,Joven,Bajo,0
+73,32.3,144,166,Media,53.62,Adulto Mayor,Alto,1
+58,24.8,132,192,Baja,47.62,Adulto,Bajo,0
+23,16.1,159,131,Media,21.09,Joven,Bajo,0
+47,29.2,104,187,Baja,54.6,Adulto,Bajo,0
+49,22.9,123,76,Media,17.4,Adulto,Bajo,0
+50,34.4,173,143,Baja,49.19,Adulto,Alto,1
+61,21.6,98,174,Baja,37.58,Adulto Mayor,Bajo,1
+28,20.7,146,109,Media,22.56,Joven,Bajo,0
+25,30.5,176,119,Alta,36.3,Joven,Bajo,0
+63,26.7,122,87,Media,23.23,Adulto Mayor,Bajo,0
+32,28.3,144,93,Baja,26.32,Joven,Bajo,0
+65,33.5,162,111,Baja,37.18,Adulto Mayor,Bajo,1
+54,33.2,127,145,Alta,48.14,Adulto,Alto,0
+64,30.2,148,136,Media,41.07,Adulto Mayor,Bajo,1
+43,27.2,172,82,Alta,22.3,Adulto,Bajo,0
+57,37.4,108,78,Alta,29.17,Adulto,Bajo,0
+37,24.0,100,74,Baja,17.76,Adulto,Bajo,0
+48,27.6,106,92,Baja,25.39,Adulto,Bajo,0
+64,24.9,162,155,Baja,38.6,Adulto Mayor,Bajo,1
+22,37.0,157,93,Baja,34.41,Joven,Bajo,1
+77,36.0,163,97,Media,34.92,Adulto Mayor,Bajo,1
+78,23.7,137,128,Media,30.34,Adulto Mayor,Bajo,0
+41,27.7,131,155,Baja,42.94,Adulto,Bajo,0
+36,31.5,135,98,Baja,30.87,Adulto,Bajo,0
+74,26.0,176,84,Media,21.84,Adulto Mayor,Bajo,0
+72,27.3,117,165,Media,45.04,Adulto Mayor,Bajo,0
+36,23.6,180,185,Media,43.66,Adulto,Bajo,0
+56,28.6,178,159,Baja,45.47,Adulto,Bajo,1
+29,25.9,128,156,Baja,40.4,Joven,Bajo,0
+45,32.2,153,140,Baja,45.08,Adulto,Bajo,1
+49,26.1,101,106,Baja,27.67,Adulto,Bajo,0
+80,24.5,117,162,Baja,39.69,Adulto Mayor,Bajo,1
+38,26.4,124,164,Alta,43.3,Adulto,Bajo,0
+43,21.9,177,149,Media,32.63,Adulto,Bajo,0
+61,29.8,120,114,Media,33.97,Adulto Mayor,Bajo,0
+80,32.4,152,194,Baja,62.86,Adulto Mayor,Alto,1
+51,28.7,139,114,Baja,32.72,Adulto,Bajo,0
+43,23.9,126,130,Alta,31.07,Adulto,Bajo,0
+33,24.7,163,114,Media,28.16,Joven,Bajo,0
+21,23.2,92,142,Media,32.94,Joven,Bajo,0
+43,32.0,114,150,Baja,48.0,Adulto,Alto,1
+71,25.6,94,140,Baja,35.84,Adulto Mayor,Bajo,1
+40,25.5,97,85,Alta,21.68,Adulto,Bajo,0
+57,28.6,98,136,Media,38.9,Adulto,Bajo,0
+72,32.4,109,138,Baja,44.71,Adulto Mayor,Bajo,1
+78,32.9,171,166,Baja,54.61,Adulto Mayor,Alto,1
+29,28.5,132,188,Alta,53.58,Joven,Bajo,0
+77,24.4,163,73,Baja,17.81,Adulto Mayor,Bajo,1
+18,21.8,168,122,Alta,26.6,Joven,Bajo,0
+47,25.6,147,155,Media,39.68,Adulto,Bajo,0
+73,31.7,141,138,Baja,43.75,Adulto Mayor,Bajo,1
+68,34.1,111,165,Baja,56.26,Adulto Mayor,Alto,1
+78,26.8,137,156,Alta,41.81,Adulto Mayor,Bajo,0
+73,27.7,148,163,Alta,45.15,Adulto Mayor,Bajo,1
+44,29.4,168,104,Baja,30.58,Adulto,Bajo,0
+28,28.5,148,93,Media,26.5,Joven,Bajo,0
+51,30.4,99,121,Media,36.78,Adulto,Bajo,0
+79,26.7,156,137,Baja,36.58,Adulto Mayor,Bajo,1
+43,28.7,127,102,Media,29.27,Adulto,Bajo,0
+30,23.0,90,79,Alta,18.17,Joven,Bajo,0
+27,24.4,137,85,Media,20.74,Joven,Bajo,0
+35,33.5,108,116,Baja,38.86,Joven,Bajo,0
+34,35.5,149,80,Alta,28.4,Joven,Bajo,0
+58,23.9,106,170,Baja,40.63,Adulto,Bajo,0
+45,22.2,164,113,Media,25.09,Adulto,Bajo,0
+78,27.1,104,99,Media,26.83,Adulto Mayor,Bajo,0
+80,24.8,100,166,Media,41.17,Adulto Mayor,Bajo,0
+80,19.9,152,168,Media,33.43,Adulto Mayor,Bajo,1
+52,26.5,158,70,Baja,18.55,Adulto,Bajo,0
+73,32.7,149,174,Alta,56.9,Adulto Mayor,Alto,1
+36,22.3,142,123,Media,27.43,Adulto,Bajo,0
+28,32.9,171,104,Baja,34.22,Joven,Bajo,1
+42,20.0,106,118,Baja,23.6,Adulto,Bajo,0
+60,25.6,134,75,Media,19.2,Adulto Mayor,Bajo,0
+40,22.1,112,174,Alta,38.45,Adulto,Bajo,0
+22,19.6,132,191,Baja,37.44,Joven,Bajo,0
+57,29.2,114,103,Baja,30.08,Adulto,Bajo,0
+63,31.0,175,104,Baja,32.24,Adulto Mayor,Bajo,1
+69,31.8,112,167,Media,53.11,Adulto Mayor,Alto,1
+32,33.2,127,166,Media,55.11,Joven,Alto,0
+59,26.9,103,192,Media,51.65,Adulto,Bajo,0
+26,29.1,120,72,Media,20.95,Joven,Bajo,0
+43,26.5,112,181,Media,47.96,Adulto,Bajo,0
+27,26.5,101,197,Baja,52.2,Joven,Bajo,0
+33,23.1,153,199,Media,45.97,Joven,Bajo,0
+20,16.8,176,184,Media,30.91,Joven,Bajo,0
+54,23.3,118,98,Baja,22.83,Adulto,Bajo,0
+26,34.8,167,183,Alta,63.68,Joven,Alto,1
+66,32.1,90,94,Alta,30.17,Adulto Mayor,Bajo,0
+27,32.0,118,113,Media,36.16,Joven,Bajo,0
+71,28.4,173,175,Media,49.7,Adulto Mayor,Bajo,1
+58,36.3,109,88,Alta,31.94,Adulto,Bajo,0
+46,34.3,159,150,Baja,51.45,Adulto,Alto,1
+44,28.6,147,71,Baja,20.31,Adulto,Bajo,0
+28,22.4,136,173,Media,38.75,Joven,Bajo,0
+23,25.2,160,138,Baja,34.78,Joven,Bajo,0
+42,26.6,94,150,Baja,39.9,Adulto,Bajo,0
+49,29.1,166,92,Alta,26.77,Adulto,Bajo,0
+27,27.1,130,157,Media,42.55,Joven,Bajo,0
+52,26.6,127,200,Alta,53.2,Adulto,Bajo,0
+66,27.9,155,94,Alta,26.23,Adulto Mayor,Bajo,0
+49,29.2,142,168,Media,49.06,Adulto,Bajo,0
+50,29.7,137,186,Media,55.24,Adulto,Bajo,0
+20,22.5,99,147,Media,33.08,Joven,Bajo,0
+67,26.1,157,178,Baja,46.46,Adulto Mayor,Bajo,1
+70,15.0,90,147,Baja,22.05,Adulto Mayor,Bajo,1
+28,25.3,112,198,Baja,50.09,Joven,Bajo,0
+25,29.5,139,155,Alta,45.72,Joven,Bajo,0
+24,26.8,178,128,Alta,34.3,Joven,Bajo,0
+50,21.9,112,196,Media,42.92,Adulto,Bajo,0
+21,32.1,100,144,Baja,46.22,Joven,Alto,1
+24,20.8,165,116,Media,24.13,Joven,Bajo,0
+78,27.0,115,194,Media,52.38,Adulto Mayor,Bajo,0
+69,29.5,115,93,Baja,27.44,Adulto Mayor,Bajo,0
+45,22.0,171,144,Alta,31.68,Adulto,Bajo,0
+34,31.2,159,185,Alta,57.72,Joven,Alto,1
+42,30.2,139,133,Baja,40.17,Adulto,Bajo,0
+36,23.8,146,88,Media,20.94,Adulto,Bajo,0
+26,27.9,124,72,Media,20.09,Joven,Bajo,0
+19,27.1,122,115,Media,31.16,Joven,Bajo,0
+68,22.7,126,185,Media,42.0,Adulto Mayor,Bajo,0
+25,27.3,150,118,Media,32.21,Joven,Bajo,0
+76,28.4,166,187,Alta,53.11,Adulto Mayor,Bajo,1
+42,28.1,120,136,Baja,38.22,Adulto,Bajo,0
+58,23.7,155,127,Baja,30.1,Adulto,Bajo,0
+46,37.8,159,139,Baja,52.54,Adulto,Bajo,1
+52,24.6,115,93,Media,22.88,Adulto,Bajo,0
+72,28.4,130,171,Baja,48.56,Adulto Mayor,Bajo,1
+26,22.4,143,162,Media,36.29,Joven,Bajo,0
+45,28.8,137,93,Alta,26.78,Adulto,Bajo,0
+45,26.5,177,120,Media,31.8,Adulto,Bajo,0
+70,26.1,139,110,Baja,28.71,Adulto Mayor,Bajo,0
+56,30.9,141,111,Media,34.3,Adulto,Bajo,0
+60,32.0,113,83,Media,26.56,Adulto Mayor,Bajo,0
+59,27.3,97,199,Baja,54.33,Adulto,Bajo,0
+74,20.3,172,83,Baja,16.85,Adulto Mayor,Bajo,1
+23,23.8,154,80,Baja,19.04,Joven,Bajo,0
+80,39.5,123,159,Alta,62.8,Adulto Mayor,Alto,1
+45,20.3,152,196,Media,39.79,Adulto,Bajo,0
+47,26.2,119,185,Baja,48.47,Adulto,Bajo,0
+28,23.4,90,110,Media,25.74,Joven,Bajo,0
+46,29.6,127,177,Baja,52.39,Adulto,Bajo,0
+47,24.4,99,138,Media,33.67,Adulto,Bajo,0
+77,33.9,177,90,Baja,30.51,Adulto Mayor,Bajo,1
+29,19.0,116,199,Alta,37.81,Joven,Bajo,0
+22,16.3,104,120,Baja,19.56,Joven,Bajo,0
+65,24.8,130,184,Alta,45.63,Adulto Mayor,Bajo,0
+72,27.0,112,126,Media,34.02,Adulto Mayor,Bajo,0
+43,31.5,108,120,Media,37.8,Adulto,Bajo,0
+78,22.0,136,141,Alta,31.02,Adulto Mayor,Bajo,0
+43,29.0,145,137,Baja,39.73,Adulto,Bajo,0
+68,25.3,155,177,Alta,44.78,Adulto Mayor,Bajo,1
+57,28.5,133,88,Media,25.08,Adulto,Bajo,0
+36,27.3,155,78,Alta,21.29,Adulto,Bajo,0
+35,19.2,100,176,Media,33.79,Joven,Bajo,0
+19,26.9,129,138,Baja,37.12,Joven,Bajo,0
+72,36.1,127,78,Media,28.16,Adulto Mayor,Bajo,0
+40,15.0,110,173,Baja,25.95,Adulto,Bajo,0
+53,24.4,126,79,Baja,19.28,Adulto,Bajo,0
+70,19.3,150,100,Media,19.3,Adulto Mayor,Bajo,0
+48,30.8,164,159,Baja,48.97,Adulto,Alto,1
+69,26.2,166,80,Baja,20.96,Adulto Mayor,Bajo,1
+57,33.8,164,125,Baja,42.25,Adulto,Bajo,1
+68,24.5,137,83,Baja,20.34,Adulto Mayor,Bajo,0
+60,31.1,180,166,Alta,51.63,Adulto Mayor,Alto,1
+79,27.5,136,176,Media,48.4,Adulto Mayor,Bajo,0
+62,38.9,162,146,Baja,56.79,Adulto Mayor,Alto,1
+60,26.8,99,98,Baja,26.26,Adulto Mayor,Bajo,0
+44,34.7,112,170,Media,58.99,Adulto,Alto,0
+64,25.1,139,159,Baja,39.91,Adulto Mayor,Bajo,1
+59,20.9,112,162,Baja,33.86,Adulto,Bajo,0
+73,33.0,147,194,Baja,64.02,Adulto Mayor,Alto,1
+78,25.8,93,173,Media,44.63,Adulto Mayor,Bajo,0
+28,27.6,159,146,Media,40.3,Joven,Bajo,0
+61,26.9,138,148,Media,39.81,Adulto Mayor,Bajo,0
+29,27.5,151,196,Baja,53.9,Joven,Bajo,1
+70,32.5,127,166,Baja,53.95,Adulto Mayor,Alto,1
+40,19.8,139,149,Alta,29.5,Adulto,Bajo,0
+42,27.7,142,132,Media,36.56,Adulto,Bajo,0
+29,24.1,173,192,Baja,46.27,Joven,Bajo,1
+80,25.8,143,150,Baja,38.7,Adulto Mayor,Bajo,1
+38,33.5,158,74,Baja,24.79,Adulto,Bajo,1
+26,18.5,174,154,Baja,28.49,Joven,Bajo,1
+24,15.6,167,103,Media,16.07,Joven,Bajo,0
+41,31.6,114,177,Alta,55.93,Adulto,Alto,0
+30,34.6,168,98,Media,33.91,Joven,Bajo,0
+57,33.1,102,138,Baja,45.68,Adulto,Bajo,0
+40,17.8,160,79,Media,14.06,Adulto,Bajo,0
+75,16.5,167,175,Alta,28.88,Adulto Mayor,Bajo,1
+20,24.5,120,73,Media,17.89,Joven,Bajo,0
+69,30.1,130,189,Alta,56.89,Adulto Mayor,Alto,1
+23,23.5,172,196,Media,46.06,Joven,Bajo,0
+53,24.3,120,172,Media,41.8,Adulto,Bajo,0
+42,22.1,150,113,Baja,24.97,Adulto,Bajo,0
+69,26.6,152,80,Alta,21.28,Adulto Mayor,Bajo,0
+23,21.0,93,87,Media,18.27,Joven,Bajo,0
+48,29.8,126,80,Media,23.84,Adulto,Bajo,0
+59,27.4,145,171,Media,46.85,Adulto,Bajo,0
+78,25.9,165,125,Media,32.38,Adulto Mayor,Bajo,0
+58,30.7,94,114,Media,35.0,Adulto,Bajo,0
+79,25.1,152,195,Media,48.94,Adulto Mayor,Bajo,1
+35,19.2,153,85,Baja,16.32,Joven,Bajo,0
+33,26.6,157,162,Media,43.09,Joven,Bajo,0
+32,29.9,114,142,Media,42.46,Joven,Bajo,0
+23,27.2,156,71,Media,19.31,Joven,Bajo,0
+61,27.2,148,185,Baja,50.32,Adulto Mayor,Bajo,1
+31,21.6,172,118,Media,25.49,Joven,Bajo,0
+25,31.6,125,174,Media,54.98,Joven,Alto,0
+41,27.4,151,74,Media,20.28,Adulto,Bajo,0
+66,35.4,118,93,Baja,32.92,Adulto Mayor,Bajo,1
+40,23.0,180,145,Baja,33.35,Adulto,Bajo,1
+61,20.6,172,184,Baja,37.9,Adulto Mayor,Bajo,1
+63,26.7,175,91,Baja,24.3,Adulto Mayor,Bajo,1
+75,26.0,116,97,Baja,25.22,Adulto Mayor,Bajo,0
+46,30.4,127,84,Media,25.54,Adulto,Bajo,0
+69,27.6,143,102,Media,28.15,Adulto Mayor,Bajo,0
+64,26.6,163,120,Media,31.92,Adulto Mayor,Bajo,0
+25,25.2,100,153,Media,38.56,Joven,Bajo,0
+69,21.1,103,121,Alta,25.53,Adulto Mayor,Bajo,0
+31,24.1,152,188,Media,45.31,Joven,Bajo,0
+63,33.4,105,75,Media,25.05,Adulto Mayor,Bajo,0
+39,25.8,147,164,Media,42.31,Adulto,Bajo,0
+22,28.4,168,164,Baja,46.58,Joven,Bajo,1
+35,26.1,124,81,Alta,21.14,Joven,Bajo,0
+36,33.9,154,128,Media,43.39,Adulto,Bajo,0
+24,34.4,158,181,Baja,62.26,Joven,Alto,1
+61,24.6,113,84,Alta,20.66,Adulto Mayor,Bajo,0
+43,27.8,97,188,Alta,52.26,Adulto,Bajo,0
+38,25.5,144,196,Media,49.98,Adulto,Bajo,0
+22,27.2,137,94,Alta,25.57,Joven,Bajo,0
+70,24.9,114,157,Media,39.09,Adulto Mayor,Bajo,0
+57,28.3,167,194,Media,54.9,Adulto,Bajo,0
+54,35.0,136,148,Baja,51.8,Adulto,Alto,1
+53,20.3,155,78,Baja,15.83,Adulto,Bajo,0
+62,35.4,109,132,Media,46.73,Adulto Mayor,Bajo,0
+51,23.4,174,96,Media,22.46,Adulto,Bajo,0
+77,26.3,104,79,Baja,20.78,Adulto Mayor,Bajo,0
+56,36.6,142,167,Baja,61.12,Adulto,Alto,1
+28,17.9,164,84,Baja,15.04,Joven,Bajo,0
+29,29.2,137,155,Media,45.26,Joven,Bajo,0
+30,26.2,124,173,Baja,45.33,Joven,Bajo,0
+35,27.7,176,167,Baja,46.26,Joven,Bajo,1
+77,27.2,135,83,Baja,22.58,Adulto Mayor,Bajo,0
+69,27.0,105,104,Media,28.08,Adulto Mayor,Bajo,0
+21,27.1,145,79,Baja,21.41,Joven,Bajo,0
+38,19.7,120,134,Media,26.4,Adulto,Bajo,0
+48,23.6,120,163,Media,38.47,Adulto,Bajo,0
+68,29.3,165,190,Baja,55.67,Adulto Mayor,Bajo,1
+39,26.6,170,106,Baja,28.2,Adulto,Bajo,0
+40,22.1,165,94,Media,20.77,Adulto,Bajo,0
+77,24.4,135,121,Media,29.52,Adulto Mayor,Bajo,0
+55,22.4,126,140,Alta,31.36,Adulto,Bajo,0
+77,32.0,134,107,Baja,34.24,Adulto Mayor,Bajo,1
+53,26.7,176,127,Alta,33.91,Adulto,Bajo,0
+29,21.1,131,124,Baja,26.16,Joven,Bajo,0
+20,32.0,127,90,Media,28.8,Joven,Bajo,0
+58,25.3,158,139,Media,35.17,Adulto,Bajo,0
+53,31.9,116,74,Baja,23.61,Adulto,Bajo,0
+18,15.0,108,80,Baja,12.0,Joven,Bajo,0
+50,21.8,163,169,Media,36.84,Adulto,Bajo,0
+76,26.3,151,89,Media,23.41,Adulto Mayor,Bajo,0
+19,30.0,132,123,Baja,36.9,Joven,Bajo,0
+36,29.2,156,161,Baja,47.01,Adulto,Bajo,1
+58,26.4,151,158,Media,41.71,Adulto,Bajo,0
+36,20.5,128,150,Media,30.75,Adulto,Bajo,0
+78,25.6,139,138,Baja,35.33,Adulto Mayor,Bajo,0
+77,24.5,148,97,Media,23.76,Adulto Mayor,Bajo,0
+54,25.8,127,184,Baja,47.47,Adulto,Bajo,0
+77,29.9,147,169,Baja,50.53,Adulto Mayor,Bajo,1
+74,23.7,146,121,Baja,28.68,Adulto Mayor,Bajo,1
+78,30.5,139,86,Alta,26.23,Adulto Mayor,Bajo,0
+47,28.2,165,148,Baja,41.74,Adulto,Bajo,1
+59,23.5,108,155,Media,36.42,Adulto,Bajo,0
+51,19.8,94,97,Alta,19.21,Adulto,Bajo,0
+43,18.3,169,88,Baja,16.1,Adulto,Bajo,0
+78,23.6,132,109,Media,25.72,Adulto Mayor,Bajo,0
+60,28.6,149,70,Media,20.02,Adulto Mayor,Bajo,0
+57,15.0,133,133,Baja,19.95,Adulto,Bajo,0
+27,31.4,130,136,Media,42.7,Joven,Bajo,0
+24,22.4,95,103,Baja,23.07,Joven,Bajo,0
+28,39.9,92,111,Media,44.29,Joven,Bajo,0
+62,21.6,133,199,Media,42.98,Adulto Mayor,Bajo,0
+25,23.1,141,146,Alta,33.73,Joven,Bajo,0
+79,19.3,145,161,Baja,31.07,Adulto Mayor,Bajo,1
+77,28.2,180,174,Media,49.07,Adulto Mayor,Bajo,1
+30,29.2,152,116,Media,33.87,Joven,Bajo,0
+23,25.0,102,193,Baja,48.25,Joven,Bajo,0
+43,30.2,95,151,Media,45.6,Adulto,Alto,0
+43,29.4,133,80,Media,23.52,Adulto,Bajo,0
+80,34.5,161,127,Media,43.82,Adulto Mayor,Bajo,1
+71,27.5,140,196,Media,53.9,Adulto Mayor,Bajo,1
+42,39.6,166,95,Baja,37.62,Adulto,Bajo,1
+71,33.3,175,160,Alta,53.28,Adulto Mayor,Alto,1
+57,24.9,112,178,Media,44.32,Adulto,Bajo,0
+19,38.0,170,132,Media,50.16,Joven,Bajo,0
+46,27.9,97,104,Baja,29.02,Adulto,Bajo,0
+29,23.3,90,144,Alta,33.55,Joven,Bajo,0
+30,21.8,142,127,Baja,27.69,Joven,Bajo,0
+59,29.1,131,160,Media,46.56,Adulto,Bajo,0
+53,31.1,103,100,Baja,31.1,Adulto,Bajo,0
+23,22.7,142,84,Baja,19.07,Joven,Bajo,0
+21,26.3,109,83,Baja,21.83,Joven,Bajo,0
+35,28.4,120,162,Baja,46.01,Joven,Bajo,0
+25,21.7,113,102,Baja,22.13,Joven,Bajo,0
+18,22.4,157,193,Media,43.23,Joven,Bajo,0
+56,34.4,94,153,Media,52.63,Adulto,Alto,0
+32,15.1,115,152,Media,22.95,Joven,Bajo,0
+22,40.1,146,98,Media,39.3,Joven,Bajo,0
+29,15.0,95,143,Media,21.45,Joven,Bajo,0
+19,28.5,180,120,Media,34.2,Joven,Bajo,0
+57,18.2,113,132,Alta,24.02,Adulto,Bajo,0
+55,23.8,92,165,Media,39.27,Adulto,Bajo,0
+63,39.0,112,196,Baja,76.44,Adulto Mayor,Alto,1
+58,28.5,134,141,Media,40.18,Adulto,Bajo,0
+22,23.2,144,101,Alta,23.43,Joven,Bajo,0
+79,23.4,132,175,Media,40.95,Adulto Mayor,Bajo,0
+53,22.2,131,82,Media,18.2,Adulto,Bajo,0
+18,25.7,150,164,Baja,42.15,Joven,Bajo,1
+61,24.7,112,121,Media,29.89,Adulto Mayor,Bajo,0
+75,25.1,151,145,Media,36.4,Adulto Mayor,Bajo,1
+23,16.4,166,178,Alta,29.19,Joven,Bajo,0
+60,29.6,99,87,Media,25.75,Adulto Mayor,Bajo,0
+78,21.4,92,131,Media,28.03,Adulto Mayor,Bajo,0
+42,30.8,152,121,Media,37.27,Adulto,Bajo,0
+54,19.7,118,180,Alta,35.46,Adulto,Bajo,0
+65,27.4,114,195,Alta,53.43,Adulto Mayor,Bajo,0
+73,27.3,103,98,Alta,26.75,Adulto Mayor,Bajo,0
+35,30.6,103,196,Media,59.98,Joven,Alto,0
+41,25.8,128,101,Alta,26.06,Adulto,Bajo,0
+54,27.0,141,84,Alta,22.68,Adulto,Bajo,0
+26,26.1,117,76,Media,19.84,Joven,Bajo,0
+35,25.6,119,168,Alta,43.01,Joven,Bajo,0
+21,30.1,114,153,Baja,46.05,Joven,Alto,1
+45,27.2,153,193,Baja,52.5,Adulto,Bajo,1
+33,20.8,176,172,Alta,35.78,Joven,Bajo,0
+45,31.4,128,104,Media,32.66,Adulto,Bajo,0
+55,20.7,155,138,Baja,28.57,Adulto,Bajo,0
+42,33.7,162,151,Baja,50.89,Adulto,Alto,1
+78,27.6,114,122,Baja,33.67,Adulto Mayor,Bajo,0
+48,24.7,136,96,Baja,23.71,Adulto,Bajo,0
+69,27.0,92,161,Baja,43.47,Adulto Mayor,Bajo,1
+67,27.1,163,97,Media,26.29,Adulto Mayor,Bajo,0
+34,27.1,180,141,Baja,38.21,Joven,Bajo,1
+23,28.1,121,117,Media,32.88,Joven,Bajo,0
+43,22.6,165,70,Baja,15.82,Adulto,Bajo,0
+61,35.3,148,190,Media,67.07,Adulto Mayor,Alto,1
+65,24.0,128,163,Media,39.12,Adulto Mayor,Bajo,0
+24,24.3,155,137,Media,33.29,Joven,Bajo,0
+21,24.2,153,165,Baja,39.93,Joven,Bajo,1
+78,26.7,158,191,Media,51.0,Adulto Mayor,Bajo,1
+50,28.9,96,181,Media,52.31,Adulto,Bajo,0
+70,25.4,150,117,Media,29.72,Adulto Mayor,Bajo,0
+75,21.5,100,157,Baja,33.76,Adulto Mayor,Bajo,1
+59,31.1,135,77,Media,23.95,Adulto,Bajo,0
+77,22.8,136,148,Baja,33.74,Adulto Mayor,Bajo,1
+74,26.5,141,103,Media,27.3,Adulto Mayor,Bajo,0
+73,24.3,118,70,Media,17.01,Adulto Mayor,Bajo,0
+68,24.6,158,159,Media,39.11,Adulto Mayor,Bajo,1
+75,23.7,176,153,Media,36.26,Adulto Mayor,Bajo,1
+26,31.1,103,132,Alta,41.05,Joven,Bajo,0
+74,20.1,169,192,Media,38.59,Adulto Mayor,Bajo,1
+38,26.4,90,174,Alta,45.94,Adulto,Bajo,0
+27,29.5,107,152,Baja,44.84,Joven,Bajo,0
+57,33.7,123,83,Media,27.97,Adulto,Bajo,0
+20,25.4,124,142,Media,36.07,Joven,Bajo,0
+58,28.9,101,150,Media,43.35,Adulto,Bajo,0
+44,25.5,135,131,Media,33.4,Adulto,Bajo,0
+72,32.9,138,152,Alta,50.01,Adulto Mayor,Alto,1
+44,30.2,90,158,Media,47.72,Adulto,Alto,0
+76,22.7,103,173,Media,39.27,Adulto Mayor,Bajo,0
+60,32.8,107,189,Media,61.99,Adulto Mayor,Alto,1
+35,25.2,110,75,Media,18.9,Joven,Bajo,0
+61,32.6,109,111,Media,36.19,Adulto Mayor,Bajo,0
+70,28.0,145,84,Media,23.52,Adulto Mayor,Bajo,0
+78,23.1,115,110,Media,25.41,Adulto Mayor,Bajo,0
+70,22.2,109,103,Media,22.87,Adulto Mayor,Bajo,0
+56,25.8,140,73,Baja,18.83,Adulto,Bajo,0
+47,28.6,134,92,Baja,26.31,Adulto,Bajo,0
+58,29.1,130,189,Baja,55.0,Adulto,Bajo,0
+69,29.6,133,103,Alta,30.49,Adulto Mayor,Bajo,0
+54,27.9,93,181,Baja,50.5,Adulto,Bajo,0
+35,19.1,92,176,Media,33.62,Joven,Bajo,0
+45,15.7,169,149,Alta,23.39,Adulto,Bajo,0
+74,28.5,170,158,Alta,45.03,Adulto Mayor,Bajo,1
+66,25.9,177,124,Baja,32.12,Adulto Mayor,Bajo,1
+41,28.6,103,166,Baja,47.48,Adulto,Bajo,0
+20,27.7,95,135,Baja,37.4,Joven,Bajo,0
+39,28.9,145,133,Alta,38.44,Adulto,Bajo,0
+46,20.1,172,123,Baja,24.72,Adulto,Bajo,0
+47,30.3,134,162,Media,49.09,Adulto,Alto,0
+18,40.3,156,170,Alta,68.51,Joven,Alto,1
+79,30.6,103,165,Baja,50.49,Adulto Mayor,Alto,1
+26,15.0,159,121,Media,18.15,Joven,Bajo,0
+44,21.9,161,102,Baja,22.34,Adulto,Bajo,0
+19,37.9,93,121,Alta,45.86,Joven,Bajo,0
+53,22.9,113,88,Media,20.15,Adulto,Bajo,0
+70,30.3,152,188,Baja,56.96,Adulto Mayor,Alto,1
+49,28.2,124,192,Media,54.14,Adulto,Bajo,0
+29,21.0,135,200,Baja,42.0,Joven,Bajo,0
+37,30.2,117,195,Baja,58.89,Adulto,Alto,1
+68,29.8,136,85,Alta,25.33,Adulto Mayor,Bajo,0
+18,25.5,178,194,Media,49.47,Joven,Bajo,0
+63,29.4,118,149,Alta,43.81,Adulto Mayor,Bajo,0
+47,21.3,126,115,Media,24.5,Adulto,Bajo,0
+37,27.4,122,87,Media,23.84,Adulto,Bajo,0
+61,29.1,102,87,Alta,25.32,Adulto Mayor,Bajo,0
+37,27.0,127,132,Baja,35.64,Adulto,Bajo,0
+36,35.9,169,81,Media,29.08,Adulto,Bajo,0
+76,25.0,167,95,Baja,23.75,Adulto Mayor,Bajo,1
+70,27.8,154,171,Media,47.54,Adulto Mayor,Bajo,1
+62,25.5,111,82,Media,20.91,Adulto Mayor,Bajo,0
+21,30.4,91,110,Media,33.44,Joven,Bajo,0
+45,26.1,155,127,Baja,33.15,Adulto,Bajo,0
+75,35.8,161,197,Media,70.53,Adulto Mayor,Alto,1
+45,30.6,91,173,Baja,52.94,Adulto,Alto,1
+53,17.2,157,97,Media,16.68,Adulto,Bajo,0
+23,29.6,105,187,Media,55.35,Joven,Bajo,0
+19,26.0,146,135,Media,35.1,Joven,Bajo,0
+57,27.6,174,105,Media,28.98,Adulto,Bajo,0
+74,20.9,121,115,Baja,24.04,Adulto Mayor,Bajo,0
+29,29.0,149,137,Media,39.73,Joven,Bajo,0
+32,24.7,97,177,Media,43.72,Joven,Bajo,0
+48,36.6,101,106,Baja,38.8,Adulto,Bajo,0
+30,29.5,142,162,Baja,47.79,Joven,Bajo,1
+59,36.8,115,166,Baja,61.09,Adulto,Alto,1
+74,15.5,104,115,Media,17.82,Adulto Mayor,Bajo,0
+31,16.0,124,82,Alta,13.12,Joven,Bajo,0
+29,18.9,175,178,Media,33.64,Joven,Bajo,0
+19,29.6,153,142,Baja,42.03,Joven,Bajo,1
+38,31.6,138,111,Media,35.08,Adulto,Bajo,0
+20,24.3,97,169,Media,41.07,Joven,Bajo,0
+43,28.6,147,172,Baja,49.19,Adulto,Bajo,1
+57,30.6,97,164,Media,50.18,Adulto,Alto,0
+31,27.8,173,121,Alta,33.64,Joven,Bajo,0
+46,24.3,108,100,Baja,24.3,Adulto,Bajo,0
+69,31.6,168,121,Alta,38.24,Adulto Mayor,Bajo,1
+79,27.0,103,182,Alta,49.14,Adulto Mayor,Bajo,0
+50,34.5,145,70,Media,24.15,Adulto,Bajo,0
+69,31.0,168,82,Media,25.42,Adulto Mayor,Bajo,1
+77,23.6,106,115,Alta,27.14,Adulto Mayor,Bajo,0
+52,32.8,171,120,Media,39.36,Adulto,Bajo,0
+20,36.1,152,114,Baja,41.15,Joven,Bajo,1
+53,27.1,116,97,Media,26.29,Adulto,Bajo,0
+62,29.3,143,105,Media,30.76,Adulto Mayor,Bajo,0
+80,28.2,97,194,Alta,54.71,Adulto Mayor,Bajo,0
+39,32.8,155,130,Baja,42.64,Adulto,Bajo,1
+62,24.0,108,149,Alta,35.76,Adulto Mayor,Bajo,0
+31,23.6,125,183,Media,43.19,Joven,Bajo,0
+28,29.3,147,129,Baja,37.8,Joven,Bajo,0
+23,27.9,112,177,Media,49.38,Joven,Bajo,0
+63,27.8,96,94,Baja,26.13,Adulto Mayor,Bajo,0
+80,30.6,157,160,Baja,48.96,Adulto Mayor,Alto,1
+64,23.3,142,141,Alta,32.85,Adulto Mayor,Bajo,1
+73,29.5,114,70,Media,20.65,Adulto Mayor,Bajo,0
+49,29.5,103,168,Media,49.56,Adulto,Bajo,0
+47,22.7,140,163,Alta,37.0,Adulto,Bajo,0
+25,17.2,91,185,Baja,31.82,Joven,Bajo,0
+22,28.8,102,78,Media,22.46,Joven,Bajo,0
+28,24.0,118,155,Media,37.2,Joven,Bajo,0
+47,27.3,100,128,Media,34.94,Adulto,Bajo,0
+76,35.9,97,190,Alta,68.21,Adulto Mayor,Alto,1
+63,18.1,131,125,Media,22.62,Adulto Mayor,Bajo,0
+79,25.7,165,86,Baja,22.1,Adulto Mayor,Bajo,1
+50,34.0,128,179,Media,60.86,Adulto,Alto,0
+61,23.4,135,173,Baja,40.48,Adulto Mayor,Bajo,1
+41,20.0,124,106,Baja,21.2,Adulto,Bajo,0
+54,23.2,158,138,Baja,32.02,Adulto,Bajo,0
+34,22.5,132,155,Media,34.88,Joven,Bajo,0
+25,39.7,173,180,Alta,71.46,Joven,Alto,1
+72,23.8,178,195,Baja,46.41,Adulto Mayor,Bajo,1
+71,23.1,101,187,Alta,43.2,Adulto Mayor,Bajo,0
+44,31.6,169,175,Alta,55.3,Adulto,Alto,1
+49,21.0,176,141,Media,29.61,Adulto,Bajo,0
+59,33.4,153,95,Baja,31.73,Adulto,Bajo,1
+54,20.0,142,186,Media,37.2,Adulto,Bajo,0
+70,22.1,117,116,Baja,25.64,Adulto Mayor,Bajo,0
+65,25.0,120,143,Alta,35.75,Adulto Mayor,Bajo,0
+61,24.1,110,194,Baja,46.75,Adulto Mayor,Bajo,1
+55,18.1,95,103,Media,18.64,Adulto,Bajo,0
+65,30.1,141,146,Media,43.95,Adulto Mayor,Alto,1
+78,23.2,95,190,Alta,44.08,Adulto Mayor,Bajo,0
+40,33.2,176,70,Media,23.24,Adulto,Bajo,0
+19,20.3,139,148,Media,30.04,Joven,Bajo,0
+62,33.2,166,173,Media,57.44,Adulto Mayor,Alto,1
+41,22.1,95,112,Baja,24.75,Adulto,Bajo,0
+51,20.8,92,115,Media,23.92,Adulto,Bajo,0
+77,29.4,91,192,Baja,56.45,Adulto Mayor,Bajo,1
+57,26.3,106,151,Media,39.71,Adulto,Bajo,0
+79,25.7,96,103,Baja,26.47,Adulto Mayor,Bajo,0
+24,30.3,147,185,Media,56.06,Joven,Alto,1
+27,23.2,113,77,Media,17.86,Joven,Bajo,0
+18,29.4,115,162,Alta,47.63,Joven,Bajo,0
+41,31.3,135,167,Alta,52.27,Adulto,Alto,0
+33,32.5,125,137,Media,44.52,Joven,Bajo,0
+35,27.5,152,130,Baja,35.75,Joven,Bajo,0
+42,24.7,109,94,Media,23.22,Adulto,Bajo,0
+56,21.0,135,187,Media,39.27,Adulto,Bajo,0
+57,29.5,117,126,Baja,37.17,Adulto,Bajo,0
+60,20.4,117,148,Alta,30.19,Adulto Mayor,Bajo,0
+42,29.3,179,81,Media,23.73,Adulto,Bajo,0
+50,32.5,155,137,Baja,44.52,Adulto,Bajo,1
+31,24.3,109,145,Alta,35.24,Joven,Bajo,0
+55,21.5,147,117,Alta,25.16,Adulto,Bajo,0
+44,22.4,134,195,Alta,43.68,Adulto,Bajo,0
+73,25.3,180,104,Alta,26.31,Adulto Mayor,Bajo,0
+42,25.7,151,79,Alta,20.3,Adulto,Bajo,0
+60,34.5,96,200,Media,69.0,Adulto Mayor,Alto,1
+28,32.2,137,91,Alta,29.3,Joven,Bajo,0
+28,24.1,115,150,Baja,36.15,Joven,Bajo,0
+75,22.5,140,143,Media,32.17,Adulto Mayor,Bajo,1
+48,32.8,99,196,Media,64.29,Adulto,Alto,0
+24,25.3,119,152,Media,38.46,Joven,Bajo,0
+50,34.6,137,190,Alta,65.74,Adulto,Alto,0
+51,23.5,155,157,Baja,36.9,Adulto,Bajo,1
+66,23.2,164,189,Baja,43.85,Adulto Mayor,Bajo,1
+78,24.6,118,155,Baja,38.13,Adulto Mayor,Bajo,1
+80,21.2,109,139,Media,29.47,Adulto Mayor,Bajo,0
+48,39.3,112,107,Baja,42.05,Adulto,Bajo,0
+18,33.5,134,117,Media,39.2,Joven,Bajo,0
+31,30.6,113,198,Alta,60.59,Joven,Alto,0
+27,22.0,106,193,Media,42.46,Joven,Bajo,0
+48,24.5,147,124,Media,30.38,Adulto,Bajo,0
+45,29.8,144,79,Baja,23.54,Adulto,Bajo,0
+24,34.9,104,104,Alta,36.3,Joven,Bajo,0
+28,24.0,146,73,Alta,17.52,Joven,Bajo,0
+73,24.0,151,157,Media,37.68,Adulto Mayor,Bajo,1
+41,25.4,127,139,Baja,35.31,Adulto,Bajo,0
+61,29.2,140,82,Alta,23.94,Adulto Mayor,Bajo,0
+22,31.0,93,87,Media,26.97,Joven,Bajo,0
+61,30.0,170,81,Baja,24.3,Adulto Mayor,Bajo,1
+25,25.4,167,198,Alta,50.29,Joven,Bajo,0
+56,29.5,160,114,Alta,33.63,Adulto,Bajo,0
+26,22.5,95,137,Baja,30.82,Joven,Bajo,0
+57,22.0,148,89,Baja,19.58,Adulto,Bajo,0
+69,22.5,122,198,Alta,44.55,Adulto Mayor,Bajo,0
+20,24.0,154,90,Media,21.6,Joven,Bajo,0
+59,21.6,124,184,Baja,39.74,Adulto,Bajo,0
+59,26.5,118,125,Baja,33.12,Adulto,Bajo,0
+62,23.2,143,190,Baja,44.08,Adulto Mayor,Bajo,1
+18,36.3,106,175,Baja,63.52,Joven,Alto,1
+68,32.9,161,192,Media,63.17,Adulto Mayor,Alto,1
+37,28.3,137,88,Media,24.9,Adulto,Bajo,0
+29,28.4,111,200,Media,56.8,Joven,Bajo,0
+76,33.3,156,110,Media,36.63,Adulto Mayor,Bajo,1
+23,22.6,129,167,Media,37.74,Joven,Bajo,0
+58,20.5,134,132,Baja,27.06,Adulto,Bajo,0
+53,26.4,136,103,Alta,27.19,Adulto,Bajo,0
+40,31.5,91,94,Media,29.61,Adulto,Bajo,0
+64,29.9,119,184,Media,55.02,Adulto Mayor,Bajo,0
+37,28.9,117,165,Media,47.68,Adulto,Bajo,0
+52,25.4,128,84,Media,21.34,Adulto,Bajo,0
+38,29.3,133,164,Baja,48.05,Adulto,Bajo,0
+57,26.0,117,85,Media,22.1,Adulto,Bajo,0
+44,29.5,171,90,Alta,26.55,Adulto,Bajo,0
+44,24.6,95,174,Alta,42.8,Adulto,Bajo,0
+39,20.7,120,134,Alta,27.74,Adulto,Bajo,0
+74,29.4,132,109,Media,32.05,Adulto Mayor,Bajo,0
+34,23.7,111,187,Media,44.32,Joven,Bajo,0
+66,27.2,123,93,Media,25.3,Adulto Mayor,Bajo,0
+68,20.5,129,117,Alta,23.98,Adulto Mayor,Bajo,0
+73,30.1,106,112,Baja,33.71,Adulto Mayor,Bajo,1
+45,29.6,101,116,Alta,34.34,Adulto,Bajo,0
+38,32.7,173,126,Baja,41.2,Adulto,Bajo,1
+62,25.2,143,113,Media,28.48,Adulto Mayor,Bajo,0
+52,36.0,149,189,Alta,68.04,Adulto,Alto,1
+47,28.6,167,94,Media,26.88,Adulto,Bajo,0
+47,27.3,105,154,Baja,42.04,Adulto,Bajo,0
+78,15.0,91,108,Alta,16.2,Adulto Mayor,Bajo,0
+54,23.8,95,126,Media,29.99,Adulto,Bajo,0
+27,30.2,116,95,Alta,28.69,Joven,Bajo,0
+46,28.7,104,140,Alta,40.18,Adulto,Bajo,0
+31,22.4,134,74,Baja,16.58,Joven,Bajo,0
+48,34.1,120,130,Alta,44.33,Adulto,Bajo,0
+20,19.3,168,148,Baja,28.56,Joven,Bajo,1
+21,26.4,140,198,Media,52.27,Joven,Bajo,0
+77,23.7,101,163,Media,38.63,Adulto Mayor,Bajo,0
+78,25.5,149,135,Alta,34.42,Adulto Mayor,Bajo,0
+58,29.0,168,130,Media,37.7,Adulto,Bajo,0
+41,27.1,142,121,Baja,32.79,Adulto,Bajo,0
+59,16.8,130,179,Media,30.07,Adulto,Bajo,0
+52,22.9,162,139,Baja,31.83,Adulto,Bajo,0
+71,34.4,163,118,Media,40.59,Adulto Mayor,Bajo,1
+44,23.9,93,97,Media,23.18,Adulto,Bajo,0
+62,29.0,152,132,Media,38.28,Adulto Mayor,Bajo,0
+25,30.9,146,198,Alta,61.18,Joven,Alto,1
+45,23.1,109,165,Media,38.12,Adulto,Bajo,0
+34,23.1,127,92,Baja,21.25,Joven,Bajo,0
+18,23.0,102,199,Media,45.77,Joven,Bajo,0
+72,29.9,173,169,Media,50.53,Adulto Mayor,Bajo,1
+19,36.7,138,113,Media,41.47,Joven,Bajo,0
+43,15.3,154,183,Media,28.0,Adulto,Bajo,0
+24,25.0,115,84,Baja,21.0,Joven,Bajo,0
+42,31.0,179,126,Media,39.06,Adulto,Bajo,0
+19,31.3,159,198,Media,61.97,Joven,Alto,1
+78,30.2,149,127,Baja,38.35,Adulto Mayor,Bajo,1
+45,28.6,177,163,Baja,46.62,Adulto,Bajo,1
+62,29.3,92,122,Alta,35.75,Adulto Mayor,Bajo,0
+66,25.9,101,192,Media,49.73,Adulto Mayor,Bajo,0
+57,27.9,144,75,Media,20.92,Adulto,Bajo,0
+68,23.0,157,198,Alta,45.54,Adulto Mayor,Bajo,1
+79,31.4,136,142,Media,44.59,Adulto Mayor,Alto,1
+25,36.9,167,115,Alta,42.44,Joven,Bajo,0
+18,25.8,137,75,Baja,19.35,Joven,Bajo,0
+72,26.8,95,130,Baja,34.84,Adulto Mayor,Bajo,0
+60,29.5,174,86,Media,25.37,Adulto Mayor,Bajo,0
+57,15.0,170,133,Media,19.95,Adulto,Bajo,0
+52,29.8,154,182,Alta,54.24,Adulto,Bajo,0
+67,26.2,148,176,Media,46.11,Adulto Mayor,Bajo,1
+29,30.9,99,170,Media,52.53,Joven,Alto,0
+25,33.5,155,169,Baja,56.62,Joven,Alto,1
+20,23.8,168,118,Alta,28.08,Joven,Bajo,0
+49,29.9,160,160,Alta,47.84,Adulto,Bajo,0
+54,21.9,164,156,Baja,34.16,Adulto,Bajo,1
+77,24.5,94,108,Media,26.46,Adulto Mayor,Bajo,0
+28,31.4,122,182,Alta,57.15,Joven,Alto,0
+44,30.0,136,132,Media,39.6,Adulto,Bajo,0
+57,24.1,166,140,Baja,33.74,Adulto,Bajo,1
+56,23.1,96,120,Baja,27.72,Adulto,Bajo,0
+76,25.6,110,196,Baja,50.18,Adulto Mayor,Bajo,1
+72,24.1,127,153,Baja,36.87,Adulto Mayor,Bajo,1
+67,30.4,136,123,Baja,37.39,Adulto Mayor,Bajo,1
+34,31.0,95,78,Media,24.18,Joven,Bajo,0
+19,26.3,91,109,Media,28.67,Joven,Bajo,0
+34,20.3,166,90,Baja,18.27,Joven,Bajo,0
+63,30.3,163,162,Baja,49.09,Adulto Mayor,Alto,1
+20,34.6,175,182,Baja,62.97,Joven,Alto,1
+69,26.6,171,112,Baja,29.79,Adulto Mayor,Bajo,1
+20,27.4,153,191,Baja,52.33,Joven,Bajo,1
+19,26.7,164,114,Alta,30.44,Joven,Bajo,0
+65,24.8,103,109,Baja,27.03,Adulto Mayor,Bajo,0
+20,19.1,103,140,Alta,26.74,Joven,Bajo,0
+61,31.4,99,72,Baja,22.61,Adulto Mayor,Bajo,1
+32,31.1,165,94,Media,29.23,Joven,Bajo,0
+75,26.9,119,157,Baja,42.23,Adulto Mayor,Bajo,1
+31,31.9,140,90,Alta,28.71,Joven,Bajo,0
+79,22.8,106,181,Media,41.27,Adulto Mayor,Bajo,0
+43,31.2,145,137,Baja,42.74,Adulto,Bajo,1
+49,25.2,105,187,Alta,47.12,Adulto,Bajo,0
+53,20.9,131,138,Media,28.84,Adulto,Bajo,0
+66,33.6,112,185,Baja,62.16,Adulto Mayor,Alto,1
+31,31.8,160,83,Alta,26.39,Joven,Bajo,0
+42,28.5,150,166,Media,47.31,Adulto,Bajo,0
+37,20.3,107,185,Baja,37.56,Adulto,Bajo,0
+52,22.5,178,181,Baja,40.72,Adulto,Bajo,1
+21,22.0,138,95,Media,20.9,Joven,Bajo,0
+21,28.4,178,175,Alta,49.7,Joven,Bajo,0
+70,26.0,156,103,Media,26.78,Adulto Mayor,Bajo,0
+41,29.1,143,180,Baja,52.38,Adulto,Bajo,1
+47,20.3,100,170,Baja,34.51,Adulto,Bajo,0
+21,27.1,161,112,Media,30.35,Joven,Bajo,0
+64,23.2,155,85,Media,19.72,Adulto Mayor,Bajo,0
+44,28.6,93,116,Baja,33.18,Adulto,Bajo,0
+35,29.7,165,114,Media,33.86,Joven,Bajo,0
+40,26.5,107,150,Alta,39.75,Adulto,Bajo,0
+48,25.3,161,108,Alta,27.32,Adulto,Bajo,0
+75,31.3,108,96,Media,30.05,Adulto Mayor,Bajo,0
+64,16.6,118,164,Baja,27.22,Adulto Mayor,Bajo,1
+32,32.7,162,126,Baja,41.2,Joven,Bajo,1
+23,27.3,101,118,Media,32.21,Joven,Bajo,0
+23,19.1,142,164,Alta,31.32,Joven,Bajo,0
+48,29.2,154,189,Alta,55.19,Adulto,Bajo,0
+42,25.7,106,129,Baja,33.15,Adulto,Bajo,0
+71,28.1,148,189,Alta,53.11,Adulto Mayor,Bajo,1
+20,30.0,141,106,Alta,31.8,Joven,Bajo,0
+51,28.1,174,166,Media,46.65,Adulto,Bajo,0
+31,31.5,96,177,Media,55.76,Joven,Alto,0
+33,20.8,163,136,Media,28.29,Joven,Bajo,0
+55,25.3,160,179,Media,45.29,Adulto,Bajo,0
+23,33.8,98,195,Media,65.91,Joven,Alto,0
+39,26.1,163,104,Media,27.14,Adulto,Bajo,0
+44,24.5,103,152,Media,37.24,Adulto,Bajo,0
+32,27.9,123,103,Baja,28.74,Joven,Bajo,0
+27,34.3,133,91,Baja,31.21,Joven,Bajo,0
+63,27.9,118,119,Media,33.2,Adulto Mayor,Bajo,0
+36,26.4,109,106,Media,27.98,Adulto,Bajo,0
+26,26.9,153,101,Baja,27.17,Joven,Bajo,0
+36,27.2,115,159,Media,43.25,Adulto,Bajo,0
+41,32.5,109,100,Alta,32.5,Adulto,Bajo,0
+52,26.7,97,100,Media,26.7,Adulto,Bajo,0
+59,30.5,151,78,Alta,23.79,Adulto,Bajo,0
+71,35.6,151,140,Media,49.84,Adulto Mayor,Bajo,1
+72,33.6,139,89,Baja,29.9,Adulto Mayor,Bajo,1
+46,30.6,120,101,Baja,30.91,Adulto,Bajo,0
+50,28.8,167,112,Media,32.26,Adulto,Bajo,0
+33,30.2,120,123,Baja,37.15,Joven,Bajo,0
+68,22.1,114,125,Baja,27.62,Adulto Mayor,Bajo,0
+38,20.2,114,88,Media,17.78,Adulto,Bajo,0
+56,22.2,91,78,Media,17.32,Adulto,Bajo,0
+52,27.3,110,104,Baja,28.39,Adulto,Bajo,0
+75,25.6,104,81,Media,20.74,Adulto Mayor,Bajo,0
+47,22.6,98,86,Baja,19.44,Adulto,Bajo,0
+39,23.5,168,78,Media,18.33,Adulto,Bajo,0
+28,29.0,134,151,Media,43.79,Joven,Bajo,0
+30,25.0,130,88,Media,22.0,Joven,Bajo,0
+53,30.9,129,88,Media,27.19,Adulto,Bajo,0
+38,23.7,180,124,Media,29.39,Adulto,Bajo,0
+72,25.0,112,112,Baja,28.0,Adulto Mayor,Bajo,0
+51,23.3,164,80,Media,18.64,Adulto,Bajo,0
+73,27.6,166,177,Media,48.85,Adulto Mayor,Bajo,1
+69,25.4,111,73,Baja,18.54,Adulto Mayor,Bajo,0
+39,25.7,90,82,Media,21.07,Adulto,Bajo,0
+48,18.7,154,149,Baja,27.86,Adulto,Bajo,1
+76,23.8,118,200,Media,47.6,Adulto Mayor,Bajo,0
+29,22.6,140,71,Media,16.05,Joven,Bajo,0
+61,25.3,140,121,Alta,30.61,Adulto Mayor,Bajo,0
+56,27.7,173,129,Alta,35.73,Adulto,Bajo,0
+39,28.9,95,95,Baja,27.46,Adulto,Bajo,0
+38,33.2,126,187,Alta,62.08,Adulto,Alto,0
+48,34.7,157,159,Baja,55.17,Adulto,Alto,1
+24,30.7,142,99,Alta,30.39,Joven,Bajo,0
+75,17.0,94,124,Media,21.08,Adulto Mayor,Bajo,0
+44,31.4,115,99,Media,31.09,Adulto,Bajo,0
+75,35.4,151,154,Baja,54.52,Adulto Mayor,Alto,1
+60,21.1,179,78,Baja,16.46,Adulto Mayor,Bajo,1
+56,29.8,138,139,Baja,41.42,Adulto,Bajo,0
+78,30.7,163,166,Media,50.96,Adulto Mayor,Alto,1
+22,25.8,94,82,Baja,21.16,Joven,Bajo,0
+73,22.7,119,145,Baja,32.92,Adulto Mayor,Bajo,1
+59,29.6,112,136,Alta,40.26,Adulto,Bajo,0
+22,29.6,101,198,Baja,58.61,Joven,Bajo,0
+43,29.6,119,194,Media,57.42,Adulto,Bajo,0
+30,25.7,141,170,Alta,43.69,Joven,Bajo,0
+54,31.4,98,110,Media,34.54,Adulto,Bajo,0
+47,32.8,147,125,Media,41.0,Adulto,Bajo,0
+32,27.6,139,78,Media,21.53,Joven,Bajo,0
+61,19.8,106,94,Media,18.61,Adulto Mayor,Bajo,0
+44,23.4,135,112,Media,26.21,Adulto,Bajo,0
+21,21.7,150,148,Alta,32.12,Joven,Bajo,0
+35,26.8,98,145,Media,38.86,Joven,Bajo,0
+36,22.1,125,142,Media,31.38,Adulto,Bajo,0
+40,28.6,153,71,Media,20.31,Adulto,Bajo,0
+65,30.8,155,70,Media,21.56,Adulto Mayor,Bajo,1
+46,28.7,175,140,Baja,40.18,Adulto,Bajo,1
+55,33.9,101,198,Baja,67.12,Adulto,Alto,1
+40,29.7,94,170,Media,50.49,Adulto,Bajo,0
+50,34.4,91,102,Media,35.09,Adulto,Bajo,0
+55,39.3,159,167,Media,65.63,Adulto,Alto,1
+53,22.4,119,164,Baja,36.74,Adulto,Bajo,0
+37,29.5,103,103,Media,30.38,Adulto,Bajo,0
+44,23.3,108,148,Baja,34.48,Adulto,Bajo,0
+47,20.6,133,94,Baja,19.36,Adulto,Bajo,0
+72,19.7,115,73,Media,14.38,Adulto Mayor,Bajo,0
+41,22.3,115,199,Baja,44.38,Adulto,Bajo,0
+78,29.1,157,187,Baja,54.42,Adulto Mayor,Bajo,1
+79,33.7,178,134,Baja,45.16,Adulto Mayor,Bajo,1
+64,30.3,131,147,Media,44.54,Adulto Mayor,Alto,1
+76,26.8,171,199,Alta,53.33,Adulto Mayor,Bajo,1
+49,29.9,167,195,Baja,58.3,Adulto,Bajo,1
+50,21.6,140,75,Media,16.2,Adulto,Bajo,0
+28,18.0,94,111,Media,19.98,Joven,Bajo,0
+61,26.5,102,167,Media,44.26,Adulto Mayor,Bajo,0
+30,20.7,169,175,Alta,36.22,Joven,Bajo,0
+47,18.0,120,92,Media,16.56,Adulto,Bajo,0
+27,29.1,178,70,Baja,20.37,Joven,Bajo,0
+54,28.3,144,128,Baja,36.22,Adulto,Bajo,0
+30,21.7,168,96,Media,20.83,Joven,Bajo,0
+60,23.5,135,177,Alta,41.6,Adulto Mayor,Bajo,0
+79,27.4,170,181,Media,49.59,Adulto Mayor,Bajo,1
+68,28.0,140,153,Baja,42.84,Adulto Mayor,Bajo,1
+61,24.4,119,88,Baja,21.47,Adulto Mayor,Bajo,0
+66,27.0,149,94,Media,25.38,Adulto Mayor,Bajo,0
+35,35.3,96,173,Baja,61.07,Joven,Alto,1
+45,38.3,120,149,Media,57.07,Adulto,Alto,0
+74,26.5,150,80,Media,21.2,Adulto Mayor,Bajo,0
+68,22.9,139,110,Media,25.19,Adulto Mayor,Bajo,0
+71,21.6,132,89,Media,19.22,Adulto Mayor,Bajo,0
+67,30.1,162,152,Baja,45.75,Adulto Mayor,Alto,1
+59,23.1,139,140,Alta,32.34,Adulto,Bajo,0
+31,22.6,103,134,Media,30.28,Joven,Bajo,0
+50,25.8,98,171,Baja,44.12,Adulto,Bajo,0
+19,27.6,116,185,Baja,51.06,Joven,Bajo,0
+67,25.0,96,129,Baja,32.25,Adulto Mayor,Bajo,0
+22,30.2,162,78,Baja,23.56,Joven,Bajo,1
+39,34.4,178,87,Baja,29.93,Adulto,Bajo,1
+63,28.0,117,91,Baja,25.48,Adulto Mayor,Bajo,0
+76,24.2,119,142,Media,34.36,Adulto Mayor,Bajo,0
+61,25.5,180,142,Media,36.21,Adulto Mayor,Bajo,1
+18,17.5,112,167,Media,29.22,Joven,Bajo,0
+70,25.2,168,71,Baja,17.89,Adulto Mayor,Bajo,1
+58,27.0,139,104,Baja,28.08,Adulto,Bajo,0
+57,19.0,132,121,Baja,22.99,Adulto,Bajo,0
+29,21.3,155,80,Alta,17.04,Joven,Bajo,0
+37,34.6,106,187,Alta,64.7,Adulto,Alto,0
+64,23.0,95,132,Media,30.36,Adulto Mayor,Bajo,0
+72,22.4,117,89,Baja,19.94,Adulto Mayor,Bajo,0
+62,24.8,141,117,Media,29.02,Adulto Mayor,Bajo,0
+66,27.3,98,135,Baja,36.85,Adulto Mayor,Bajo,0
+74,30.0,106,82,Media,24.6,Adulto Mayor,Bajo,0
+80,24.0,126,87,Media,20.88,Adulto Mayor,Bajo,0
+53,29.3,125,164,Baja,48.05,Adulto,Bajo,0
+24,25.6,130,77,Media,19.71,Joven,Bajo,0
+21,34.7,180,111,Media,38.52,Joven,Bajo,0
+77,24.4,90,121,Media,29.52,Adulto Mayor,Bajo,0
+20,29.2,98,129,Media,37.67,Joven,Bajo,0
+34,25.3,114,115,Alta,29.1,Joven,Bajo,0
+66,33.1,150,142,Media,47.0,Adulto Mayor,Alto,1
+24,27.4,124,79,Baja,21.65,Joven,Bajo,0
+51,34.8,92,199,Baja,69.25,Adulto,Alto,1
+41,23.8,111,155,Alta,36.89,Adulto,Bajo,0
+30,25.0,142,95,Baja,23.75,Joven,Bajo,0
+38,21.3,163,184,Media,39.19,Adulto,Bajo,0
+44,26.3,113,131,Media,34.45,Adulto,Bajo,0
+36,29.6,131,122,Baja,36.11,Adulto,Bajo,0
+66,29.3,167,195,Media,57.14,Adulto Mayor,Bajo,1
+75,25.5,101,116,Baja,29.58,Adulto Mayor,Bajo,0
+74,29.5,97,136,Media,40.12,Adulto Mayor,Bajo,0
+31,25.8,98,74,Media,19.09,Joven,Bajo,0
+50,23.5,127,173,Baja,40.66,Adulto,Bajo,0
+60,30.3,127,155,Media,46.96,Adulto Mayor,Alto,1
+29,25.0,178,165,Media,41.25,Joven,Bajo,0
+65,29.0,131,176,Media,51.04,Adulto Mayor,Bajo,0
+31,33.5,92,74,Media,24.79,Joven,Bajo,0
+55,22.2,114,87,Media,19.31,Adulto,Bajo,0
+29,25.9,164,138,Alta,35.74,Joven,Bajo,0
+49,29.8,149,126,Baja,37.55,Adulto,Bajo,0
+54,23.3,155,176,Alta,41.01,Adulto,Bajo,0
+25,27.7,101,70,Media,19.39,Joven,Bajo,0
+34,31.4,153,130,Media,40.82,Joven,Bajo,0
+79,36.7,179,121,Baja,44.41,Adulto Mayor,Bajo,1
+26,24.1,151,71,Media,17.11,Joven,Bajo,0
+53,35.5,163,163,Alta,57.86,Adulto,Alto,1
+20,30.0,124,84,Media,25.2,Joven,Bajo,0
+76,17.8,130,192,Alta,34.18,Adulto Mayor,Bajo,0
+57,27.5,148,94,Media,25.85,Adulto,Bajo,0
+67,30.2,161,79,Baja,23.86,Adulto Mayor,Bajo,1
+36,30.0,114,163,Media,48.9,Adulto,Bajo,0
+66,20.6,163,72,Baja,14.83,Adulto Mayor,Bajo,1
+77,26.1,122,188,Media,49.07,Adulto Mayor,Bajo,0
+18,28.8,109,104,Media,29.95,Joven,Bajo,0
+76,33.7,122,90,Baja,30.33,Adulto Mayor,Bajo,1
+72,33.5,141,114,Baja,38.19,Adulto Mayor,Bajo,1
+19,31.9,91,109,Alta,34.77,Joven,Bajo,0
+43,20.4,134,162,Baja,33.05,Adulto,Bajo,0
+20,29.4,173,116,Baja,34.1,Joven,Bajo,0
+20,30.7,177,141,Media,43.29,Joven,Alto,1
+80,21.7,149,80,Alta,17.36,Adulto Mayor,Bajo,0
+37,31.3,168,125,Media,39.12,Adulto,Bajo,0
+69,31.9,116,141,Baja,44.98,Adulto Mayor,Alto,1
+64,25.6,140,175,Media,44.8,Adulto Mayor,Bajo,1
+40,22.4,172,144,Baja,32.26,Adulto,Bajo,1
+18,27.3,163,187,Baja,51.05,Joven,Bajo,1
+24,36.1,155,71,Alta,25.63,Joven,Bajo,0
+51,18.8,130,163,Baja,30.64,Adulto,Bajo,0
+40,19.0,95,149,Baja,28.31,Adulto,Bajo,0
+37,26.1,101,166,Baja,43.33,Adulto,Bajo,0
+67,28.8,145,174,Media,50.11,Adulto Mayor,Bajo,1
+55,28.7,151,102,Media,29.27,Adulto,Bajo,0
+63,33.0,127,151,Baja,49.83,Adulto Mayor,Alto,1
+24,20.8,111,71,Baja,14.77,Joven,Bajo,0
+20,30.9,119,151,Alta,46.66,Joven,Alto,0
+42,30.0,100,164,Alta,49.2,Adulto,Bajo,0
+61,29.8,103,103,Alta,30.69,Adulto Mayor,Bajo,0
+77,27.9,174,180,Alta,50.22,Adulto Mayor,Bajo,1
+48,29.3,157,198,Media,58.01,Adulto,Bajo,0
+29,24.5,112,167,Media,40.92,Joven,Bajo,0
+29,28.1,155,186,Media,52.27,Joven,Bajo,0
+75,31.4,107,163,Media,51.18,Adulto Mayor,Alto,1
+64,24.0,137,187,Alta,44.88,Adulto Mayor,Bajo,0
+44,26.6,166,87,Baja,23.14,Adulto,Bajo,0
+52,29.7,107,108,Alta,32.08,Adulto,Bajo,0
+35,31.9,160,140,Baja,44.66,Joven,Bajo,1
+69,27.0,127,138,Baja,37.26,Adulto Mayor,Bajo,0
+58,35.4,119,71,Media,25.13,Adulto,Bajo,0
+62,26.0,157,131,Media,34.06,Adulto Mayor,Bajo,0
+69,18.3,151,195,Media,35.68,Adulto Mayor,Bajo,1
+56,31.2,120,200,Alta,62.4,Adulto,Alto,0
+31,24.6,152,192,Baja,47.23,Joven,Bajo,1
+45,30.7,117,177,Media,54.34,Adulto,Alto,0
+25,25.1,172,156,Baja,39.16,Joven,Bajo,1
+47,24.1,144,128,Alta,30.85,Adulto,Bajo,0
+42,32.4,169,109,Media,35.32,Adulto,Bajo,0
+72,22.7,151,124,Media,28.15,Adulto Mayor,Bajo,0
+60,21.8,129,91,Media,19.84,Adulto Mayor,Bajo,0
+69,26.8,155,105,Media,28.14,Adulto Mayor,Bajo,0
+58,25.1,178,104,Media,26.1,Adulto,Bajo,0
+63,20.8,94,140,Baja,29.12,Adulto Mayor,Bajo,1
+23,19.9,125,154,Media,30.65,Joven,Bajo,0
+34,26.8,102,183,Baja,49.04,Joven,Bajo,0
+73,21.8,140,195,Media,42.51,Adulto Mayor,Bajo,1
+57,30.1,127,99,Media,29.8,Adulto,Bajo,0
+46,35.5,144,108,Baja,38.34,Adulto,Bajo,1
+66,31.2,127,91,Baja,28.39,Adulto Mayor,Bajo,1
+63,26.3,105,192,Media,50.5,Adulto Mayor,Bajo,0
+18,24.2,121,143,Media,34.61,Joven,Bajo,0
+57,17.2,125,84,Baja,14.45,Adulto,Bajo,0
+59,20.8,138,157,Baja,32.66,Adulto,Bajo,0
+58,26.7,145,133,Baja,35.51,Adulto,Bajo,0
+71,22.8,177,188,Media,42.86,Adulto Mayor,Bajo,1
+40,19.1,126,126,Alta,24.07,Adulto,Bajo,0
+30,32.8,130,145,Baja,47.56,Joven,Alto,1
+45,33.9,141,181,Media,61.36,Adulto,Alto,1
+67,22.6,95,185,Baja,41.81,Adulto Mayor,Bajo,1
+22,23.1,152,139,Baja,32.11,Joven,Bajo,0
+37,25.7,179,198,Media,50.89,Adulto,Bajo,0
+49,28.5,170,86,Alta,24.51,Adulto,Bajo,0
+67,31.4,141,119,Media,37.37,Adulto Mayor,Bajo,1
+44,33.5,155,84,Media,28.14,Adulto,Bajo,0
+65,31.7,145,166,Alta,52.62,Adulto Mayor,Alto,1
+68,15.6,142,185,Baja,28.86,Adulto Mayor,Bajo,1
+26,30.6,126,177,Baja,54.16,Joven,Alto,1
+48,25.8,165,183,Media,47.21,Adulto,Bajo,0
+50,23.4,161,189,Baja,44.23,Adulto,Bajo,1
+66,22.2,137,77,Media,17.09,Adulto Mayor,Bajo,0
+29,26.6,118,176,Baja,46.82,Joven,Bajo,0
+79,23.7,140,79,Media,18.72,Adulto Mayor,Bajo,0
+53,34.0,135,146,Baja,49.64,Adulto,Alto,1
+40,30.9,134,100,Alta,30.9,Adulto,Bajo,0
+30,32.3,154,73,Media,23.58,Joven,Bajo,0
+46,24.1,176,138,Alta,33.26,Adulto,Bajo,0
+44,25.6,129,192,Baja,49.15,Adulto,Bajo,0
+56,26.5,128,88,Media,23.32,Adulto,Bajo,0
+49,36.1,146,154,Alta,55.59,Adulto,Alto,1
+44,18.5,142,86,Media,15.91,Adulto,Bajo,0
+36,34.3,180,111,Media,38.07,Adulto,Bajo,0
+26,24.6,163,112,Media,27.55,Joven,Bajo,0
+18,32.2,111,100,Baja,32.2,Joven,Bajo,0
+32,22.4,168,89,Baja,19.94,Joven,Bajo,0
+58,29.9,133,97,Media,29.0,Adulto,Bajo,0
+45,38.4,121,142,Alta,54.53,Adulto,Alto,0
+18,26.6,116,137,Media,36.44,Joven,Bajo,0
+56,27.5,101,124,Alta,34.1,Adulto,Bajo,0
+74,23.4,102,165,Baja,38.61,Adulto Mayor,Bajo,1
+69,27.4,136,114,Baja,31.24,Adulto Mayor,Bajo,0
+29,25.8,141,186,Media,47.99,Joven,Bajo,0
+25,29.9,166,93,Baja,27.81,Joven,Bajo,0
+40,24.4,138,181,Media,44.16,Adulto,Bajo,0
+36,22.5,121,172,Media,38.7,Adulto,Bajo,0
+67,26.5,174,169,Alta,44.78,Adulto Mayor,Bajo,1
+43,28.8,91,153,Baja,44.06,Adulto,Bajo,0
+21,24.8,151,107,Alta,26.54,Joven,Bajo,0
+40,25.6,131,88,Media,22.53,Adulto,Bajo,0
+32,30.8,179,122,Baja,37.58,Joven,Bajo,1
+46,28.0,138,180,Baja,50.4,Adulto,Bajo,0
+47,31.1,140,106,Media,32.97,Adulto,Bajo,0
+70,24.9,105,92,Alta,22.91,Adulto Mayor,Bajo,0
+41,34.1,144,185,Media,63.08,Adulto,Alto,1
+76,28.0,98,139,Media,38.92,Adulto Mayor,Bajo,0
+21,26.4,93,189,Media,49.9,Joven,Bajo,0
+33,19.6,173,153,Baja,29.99,Joven,Bajo,1
+39,19.3,90,151,Media,29.14,Adulto,Bajo,0
+23,21.1,142,192,Media,40.51,Joven,Bajo,0
+51,21.5,119,195,Alta,41.92,Adulto,Bajo,0
+22,27.1,131,91,Media,24.66,Joven,Bajo,0
+60,28.9,131,72,Alta,20.81,Adulto Mayor,Bajo,0
+53,28.4,115,179,Alta,50.84,Adulto,Bajo,0
+49,25.1,106,122,Alta,30.62,Adulto,Bajo,0
+61,22.4,139,160,Media,35.84,Adulto Mayor,Bajo,0
+30,29.2,90,174,Media,50.81,Joven,Bajo,0
+19,29.2,123,195,Baja,56.94,Joven,Bajo,0
+55,20.2,162,178,Media,35.96,Adulto,Bajo,0
+76,25.9,178,79,Media,20.46,Adulto Mayor,Bajo,0
+73,27.0,96,72,Media,19.44,Adulto Mayor,Bajo,0
+26,25.1,94,106,Media,26.61,Joven,Bajo,0
+37,31.6,93,114,Baja,36.02,Adulto,Bajo,0
+80,31.5,165,135,Media,42.52,Adulto Mayor,Bajo,1
+79,33.1,97,131,Media,43.36,Adulto Mayor,Bajo,0
+36,22.9,93,140,Alta,32.06,Adulto,Bajo,0
+20,22.9,93,114,Baja,26.11,Joven,Bajo,0
+62,28.3,91,72,Baja,20.38,Adulto Mayor,Bajo,0
+75,28.3,121,90,Baja,25.47,Adulto Mayor,Bajo,0
+27,29.4,151,109,Media,32.05,Joven,Bajo,0
+34,27.6,139,123,Media,33.95,Joven,Bajo,0
+40,21.2,157,146,Media,30.95,Adulto,Bajo,0
+70,22.3,102,114,Media,25.42,Adulto Mayor,Bajo,0
+47,34.2,162,159,Media,54.38,Adulto,Alto,1
+20,29.8,103,83,Media,24.73,Joven,Bajo,0
+25,23.0,112,200,Alta,46.0,Joven,Bajo,0
+24,21.0,127,198,Media,41.58,Joven,Bajo,0
+47,28.4,106,111,Media,31.52,Adulto,Bajo,0
+64,21.4,122,119,Baja,25.47,Adulto Mayor,Bajo,0
+79,24.8,97,192,Alta,47.62,Adulto Mayor,Bajo,0
+40,22.0,109,170,Media,37.4,Adulto,Bajo,0
+61,36.5,131,109,Media,39.78,Adulto Mayor,Bajo,0
+75,20.6,146,144,Media,29.66,Adulto Mayor,Bajo,1
+49,27.8,110,184,Baja,51.15,Adulto,Bajo,0
+52,25.2,144,165,Baja,41.58,Adulto,Bajo,1
+25,25.8,107,197,Alta,50.83,Joven,Bajo,0
+73,25.3,168,146,Media,36.94,Adulto Mayor,Bajo,1
+70,33.7,112,177,Media,59.65,Adulto Mayor,Alto,1
+58,19.6,130,138,Media,27.05,Adulto,Bajo,0
+58,27.4,129,190,Media,52.06,Adulto,Bajo,0
+45,23.0,163,151,Media,34.73,Adulto,Bajo,0
+67,15.2,120,157,Baja,23.86,Adulto Mayor,Bajo,1
+31,17.7,107,195,Media,34.52,Joven,Bajo,0
+68,25.9,107,183,Baja,47.4,Adulto Mayor,Bajo,1
+72,30.5,135,119,Alta,36.3,Adulto Mayor,Bajo,0
+72,23.1,93,85,Baja,19.64,Adulto Mayor,Bajo,0
+67,24.9,176,75,Baja,18.68,Adulto Mayor,Bajo,1
+78,30.1,172,138,Media,41.54,Adulto Mayor,Bajo,1
+69,29.5,173,147,Media,43.36,Adulto Mayor,Bajo,1
+75,29.4,153,146,Baja,42.92,Adulto Mayor,Bajo,1
+74,22.0,109,80,Baja,17.6,Adulto Mayor,Bajo,0
+20,43.1,169,126,Baja,54.31,Joven,Bajo,1
+46,20.8,124,84,Baja,17.47,Adulto,Bajo,0
+47,23.8,141,184,Alta,43.79,Adulto,Bajo,0
+56,26.0,137,128,Alta,33.28,Adulto,Bajo,0
+34,15.0,105,121,Baja,18.15,Joven,Bajo,0
+67,33.7,128,83,Media,27.97,Adulto Mayor,Bajo,0
+51,25.9,116,92,Baja,23.83,Adulto,Bajo,0
+18,37.0,119,150,Baja,55.5,Joven,Alto,1
+55,26.4,161,74,Media,19.54,Adulto,Bajo,0
+33,31.4,102,137,Baja,43.02,Joven,Bajo,0
+25,20.0,114,82,Media,16.4,Joven,Bajo,0
+39,26.5,112,170,Media,45.05,Adulto,Bajo,0
+79,34.7,160,190,Baja,65.93,Adulto Mayor,Alto,1
+66,32.6,148,117,Alta,38.14,Adulto Mayor,Bajo,1
+19,28.9,120,77,Alta,22.25,Joven,Bajo,0
+64,19.8,144,191,Media,37.82,Adulto Mayor,Bajo,1
+61,24.8,126,162,Media,40.18,Adulto Mayor,Bajo,0
+53,34.0,106,127,Media,43.18,Adulto,Bajo,0
+39,31.4,128,112,Media,35.17,Adulto,Bajo,0
+73,20.8,133,198,Alta,41.18,Adulto Mayor,Bajo,0
+55,22.0,175,139,Media,30.58,Adulto,Bajo,0
+73,34.0,128,143,Alta,48.62,Adulto Mayor,Alto,1
+47,22.4,168,115,Baja,25.76,Adulto,Bajo,0
+21,30.0,158,79,Alta,23.7,Joven,Bajo,0
+33,32.9,108,83,Media,27.31,Joven,Bajo,0
+35,29.9,116,98,Baja,29.3,Joven,Bajo,0
+65,28.2,165,87,Baja,24.53,Adulto Mayor,Bajo,1
+32,28.6,146,138,Media,39.47,Joven,Bajo,0
+48,27.8,133,76,Baja,21.13,Adulto,Bajo,0
+31,25.8,171,144,Alta,37.15,Joven,Bajo,0
+73,30.1,150,164,Baja,49.36,Adulto Mayor,Alto,1
+19,27.7,162,135,Media,37.4,Joven,Bajo,0
+45,26.9,152,135,Baja,36.32,Adulto,Bajo,0
+49,25.0,116,193,Alta,48.25,Adulto,Bajo,0
+66,26.1,106,184,Alta,48.02,Adulto Mayor,Bajo,0
+59,32.7,167,111,Baja,36.3,Adulto,Bajo,1
+20,30.5,152,89,Alta,27.14,Joven,Bajo,0
+56,36.9,167,91,Baja,33.58,Adulto,Bajo,1
+78,20.4,148,190,Media,38.76,Adulto Mayor,Bajo,1
+20,25.3,92,127,Baja,32.13,Joven,Bajo,0
+30,22.5,161,124,Baja,27.9,Joven,Bajo,0
+67,26.2,145,133,Media,34.85,Adulto Mayor,Bajo,0
+56,37.4,91,189,Media,70.69,Adulto,Alto,0
+21,28.2,106,116,Media,32.71,Joven,Bajo,0
+79,26.6,166,74,Alta,19.68,Adulto Mayor,Bajo,0
+61,27.8,105,96,Media,26.69,Adulto Mayor,Bajo,0
+31,25.0,166,92,Media,23.0,Joven,Bajo,0
+36,19.0,153,120,Baja,22.8,Adulto,Bajo,0
+60,28.6,179,134,Alta,38.32,Adulto Mayor,Bajo,0
+18,20.1,130,173,Media,34.77,Joven,Bajo,0
+46,26.2,143,84,Alta,22.01,Adulto,Bajo,0
+20,23.2,95,157,Media,36.42,Joven,Bajo,0
+61,30.9,143,79,Media,24.41,Adulto Mayor,Bajo,1
+45,15.0,167,78,Baja,11.7,Adulto,Bajo,0
+31,25.6,166,112,Alta,28.67,Joven,Bajo,0
+55,35.2,93,103,Media,36.26,Adulto,Bajo,0
+76,19.0,103,70,Media,13.3,Adulto Mayor,Bajo,0
+65,31.4,146,70,Media,21.98,Adulto Mayor,Bajo,1
+56,23.4,151,106,Baja,24.8,Adulto,Bajo,0
+64,28.1,162,95,Media,26.7,Adulto Mayor,Bajo,0
+68,26.0,132,134,Media,34.84,Adulto Mayor,Bajo,0
+31,30.1,131,186,Media,55.99,Joven,Alto,0
+68,25.8,169,169,Media,43.6,Adulto Mayor,Bajo,1
+37,33.4,177,188,Baja,62.79,Adulto,Alto,1
+78,35.9,120,74,Baja,26.57,Adulto Mayor,Bajo,1
+20,29.9,159,70,Baja,20.93,Joven,Bajo,0
+78,37.8,169,99,Baja,37.42,Adulto Mayor,Bajo,1
+77,20.5,171,172,Baja,35.26,Adulto Mayor,Bajo,1
+36,31.8,112,139,Baja,44.2,Adulto,Bajo,0
+36,34.7,160,196,Media,68.01,Adulto,Alto,1
+72,30.3,175,98,Alta,29.69,Adulto Mayor,Bajo,1
+23,27.0,157,82,Media,22.14,Joven,Bajo,0
+37,23.6,125,172,Alta,40.59,Adulto,Bajo,0
+69,32.9,99,126,Alta,41.45,Adulto Mayor,Bajo,0
+26,22.6,176,120,Baja,27.12,Joven,Bajo,0
+36,28.1,166,177,Media,49.74,Adulto,Bajo,0
+53,23.4,159,88,Media,20.59,Adulto,Bajo,0
+69,21.4,101,126,Baja,26.96,Adulto Mayor,Bajo,0
+52,24.7,160,184,Media,45.45,Adulto,Bajo,0
+70,29.3,153,134,Alta,39.26,Adulto Mayor,Bajo,0
+64,21.7,138,170,Baja,36.89,Adulto Mayor,Bajo,1
+30,24.0,172,150,Baja,36.0,Joven,Bajo,1
+70,19.8,166,191,Baja,37.82,Adulto Mayor,Bajo,1
+26,25.7,141,183,Alta,47.03,Joven,Bajo,0
+36,24.2,96,192,Baja,46.46,Adulto,Bajo,0
+42,20.7,98,97,Alta,20.08,Adulto,Bajo,0
+30,28.8,165,127,Baja,36.58,Joven,Bajo,0
+59,22.1,110,149,Media,32.93,Adulto,Bajo,0
+44,26.5,100,133,Alta,35.24,Adulto,Bajo,0
+79,21.5,165,200,Alta,43.0,Adulto Mayor,Bajo,1
+22,30.7,110,142,Media,43.59,Joven,Alto,0
+73,15.1,98,132,Baja,19.93,Adulto Mayor,Bajo,0
+38,31.0,174,195,Media,60.45,Adulto,Alto,1
+44,34.6,92,150,Baja,51.9,Adulto,Alto,1
+28,32.9,130,100,Media,32.9,Joven,Bajo,0
+64,26.1,165,151,Media,39.41,Adulto Mayor,Bajo,1
+73,21.8,108,146,Media,31.83,Adulto Mayor,Bajo,0
+22,24.2,176,173,Baja,41.87,Joven,Bajo,1
+22,27.6,114,195,Baja,53.82,Joven,Bajo,0
+61,28.6,100,100,Alta,28.6,Adulto Mayor,Bajo,0
+24,24.8,123,128,Media,31.74,Joven,Bajo,0
+46,20.6,169,72,Baja,14.83,Adulto,Bajo,0
+79,21.0,128,183,Media,38.43,Adulto Mayor,Bajo,0
+36,24.2,103,188,Baja,45.5,Adulto,Bajo,0
+36,27.8,137,180,Baja,50.04,Adulto,Bajo,0
+62,20.7,145,156,Media,32.29,Adulto Mayor,Bajo,1
+51,29.8,101,97,Media,28.91,Adulto,Bajo,0
+73,35.9,148,130,Media,46.67,Adulto Mayor,Bajo,1
+23,18.4,179,159,Baja,29.26,Joven,Bajo,1
+61,24.5,111,173,Baja,42.38,Adulto Mayor,Bajo,1
+23,26.4,96,173,Media,45.67,Joven,Bajo,0
+77,18.2,119,125,Baja,22.75,Adulto Mayor,Bajo,0
+40,28.2,104,98,Baja,27.64,Adulto,Bajo,0
+40,24.0,166,185,Alta,44.4,Adulto,Bajo,0
+39,25.3,100,98,Baja,24.79,Adulto,Bajo,0
+28,29.4,122,124,Baja,36.46,Joven,Bajo,0
+20,26.5,132,126,Baja,33.39,Joven,Bajo,0
+78,24.2,172,126,Baja,30.49,Adulto Mayor,Bajo,1
+29,20.3,140,134,Baja,27.2,Joven,Bajo,0
+36,34.3,171,89,Baja,30.53,Adulto,Bajo,1
+39,20.1,121,74,Media,14.87,Adulto,Bajo,0
+66,24.9,152,117,Baja,29.13,Adulto Mayor,Bajo,1
+28,25.8,94,105,Media,27.09,Joven,Bajo,0
+67,33.9,172,127,Media,43.05,Adulto Mayor,Bajo,1
+52,21.4,92,138,Baja,29.53,Adulto,Bajo,0
+36,31.6,166,72,Alta,22.75,Adulto,Bajo,0
+26,19.3,162,145,Media,27.98,Joven,Bajo,0
+45,28.9,132,189,Alta,54.62,Adulto,Bajo,0
+37,23.9,146,160,Baja,38.24,Adulto,Bajo,1
+27,18.0,179,112,Media,20.16,Joven,Bajo,0
+57,27.8,109,185,Baja,51.43,Adulto,Bajo,0
+72,22.8,97,87,Media,19.84,Adulto Mayor,Bajo,0
+68,28.4,124,153,Baja,43.45,Adulto Mayor,Bajo,1
+40,26.0,167,167,Alta,43.42,Adulto,Bajo,0
+56,28.4,122,120,Baja,34.08,Adulto,Bajo,0
+66,24.8,121,188,Media,46.62,Adulto Mayor,Bajo,0
+43,26.0,179,141,Alta,36.66,Adulto,Bajo,0
+65,19.3,172,137,Media,26.44,Adulto Mayor,Bajo,0
+69,29.5,114,122,Alta,35.99,Adulto Mayor,Bajo,0
+67,23.0,99,113,Media,25.99,Adulto Mayor,Bajo,0
+43,24.6,104,189,Baja,46.49,Adulto,Bajo,0
+30,16.8,159,194,Baja,32.59,Joven,Bajo,1
+26,26.3,151,139,Alta,36.56,Joven,Bajo,0
+55,32.8,101,177,Baja,58.06,Adulto,Alto,1
+38,23.3,114,177,Media,41.24,Adulto,Bajo,0
+75,25.9,168,77,Alta,19.94,Adulto Mayor,Bajo,0
+77,25.6,107,91,Media,23.3,Adulto Mayor,Bajo,0
+66,30.8,168,142,Media,43.74,Adulto Mayor,Alto,1
+61,30.8,118,85,Media,26.18,Adulto Mayor,Bajo,0
+65,23.6,124,91,Alta,21.48,Adulto Mayor,Bajo,0
+52,23.6,141,196,Baja,46.26,Adulto,Bajo,1
+40,22.1,146,71,Baja,15.69,Adulto,Bajo,0
+41,19.1,100,93,Alta,17.76,Adulto,Bajo,0
+31,32.8,157,149,Media,48.87,Joven,Alto,1
+33,31.1,176,126,Media,39.19,Joven,Bajo,0
+46,33.7,130,165,Media,55.61,Adulto,Alto,0
+52,29.7,115,113,Media,33.56,Adulto,Bajo,0
+38,28.4,153,111,Alta,31.52,Adulto,Bajo,0
+62,33.4,180,127,Media,42.42,Adulto Mayor,Bajo,1
+38,28.4,173,187,Baja,53.11,Adulto,Bajo,1
+40,27.5,112,153,Baja,42.08,Adulto,Bajo,0
+71,24.0,113,200,Baja,48.0,Adulto Mayor,Bajo,1
+59,29.6,106,81,Baja,23.98,Adulto,Bajo,0
+35,22.1,108,97,Alta,21.44,Joven,Bajo,0
+22,26.6,130,113,Baja,30.06,Joven,Bajo,0
+19,20.1,170,131,Media,26.33,Joven,Bajo,0
+25,20.1,145,85,Media,17.08,Joven,Bajo,0
+35,32.7,116,196,Media,64.09,Joven,Alto,0
+44,27.8,131,185,Media,51.43,Adulto,Bajo,0
+69,25.8,150,105,Alta,27.09,Adulto Mayor,Bajo,0
+20,19.8,158,184,Baja,36.43,Joven,Bajo,1
+57,27.0,152,81,Media,21.87,Adulto,Bajo,0
+60,33.6,149,151,Alta,50.74,Adulto Mayor,Alto,1
+54,22.5,144,91,Baja,20.48,Adulto,Bajo,0
+63,30.8,108,142,Baja,43.74,Adulto Mayor,Alto,1
+33,20.8,114,79,Media,16.43,Joven,Bajo,0
+64,20.3,138,139,Alta,28.22,Adulto Mayor,Bajo,0
+76,19.3,117,144,Media,27.79,Adulto Mayor,Bajo,0
+66,29.0,108,131,Baja,37.99,Adulto Mayor,Bajo,0
+25,24.5,123,157,Media,38.47,Joven,Bajo,0
+64,23.5,175,189,Media,44.42,Adulto Mayor,Bajo,1
+78,23.3,99,138,Baja,32.15,Adulto Mayor,Bajo,0
+65,24.9,125,129,Baja,32.12,Adulto Mayor,Bajo,0
+64,26.0,180,73,Alta,18.98,Adulto Mayor,Bajo,0
+32,27.6,146,188,Baja,51.89,Joven,Bajo,1
+38,31.0,171,72,Media,22.32,Adulto,Bajo,0
+80,35.8,112,163,Media,58.35,Adulto Mayor,Alto,1
+30,32.1,160,104,Media,33.38,Joven,Bajo,0
+22,24.8,154,119,Baja,29.51,Joven,Bajo,0
+43,26.3,149,142,Media,37.35,Adulto,Bajo,0
+70,35.5,120,133,Alta,47.22,Adulto Mayor,Bajo,0
+69,24.3,148,180,Baja,43.74,Adulto Mayor,Bajo,1
+57,22.3,170,126,Baja,28.1,Adulto,Bajo,0
+48,28.2,151,88,Baja,24.82,Adulto,Bajo,0
+26,19.7,164,108,Alta,21.28,Joven,Bajo,0
+40,25.5,165,139,Media,35.44,Adulto,Bajo,0
+79,25.3,152,87,Media,22.01,Adulto Mayor,Bajo,0
+42,20.2,151,149,Media,30.1,Adulto,Bajo,0
+39,29.5,129,132,Alta,38.94,Adulto,Bajo,0
+79,33.5,114,153,Alta,51.26,Adulto Mayor,Alto,1
+54,22.2,131,122,Alta,27.08,Adulto,Bajo,0
+65,24.9,175,180,Media,44.82,Adulto Mayor,Bajo,1
+45,23.3,100,152,Alta,35.42,Adulto,Bajo,0
+52,27.4,180,123,Media,33.7,Adulto,Bajo,0
+75,30.1,115,77,Alta,23.18,Adulto Mayor,Bajo,0
+24,23.2,169,99,Alta,22.97,Joven,Bajo,0
+69,22.9,179,129,Baja,29.54,Adulto Mayor,Bajo,1
+30,27.5,137,101,Baja,27.78,Joven,Bajo,0
+53,25.0,125,174,Baja,43.5,Adulto,Bajo,0
+77,21.5,148,192,Media,41.28,Adulto Mayor,Bajo,1
+73,21.6,122,97,Alta,20.95,Adulto Mayor,Bajo,0
+55,22.5,179,145,Media,32.62,Adulto,Bajo,0
+44,35.6,140,73,Media,25.99,Adulto,Bajo,0
+67,20.3,131,137,Baja,27.81,Adulto Mayor,Bajo,0
+28,24.3,169,111,Baja,26.97,Joven,Bajo,0
+79,27.3,99,84,Alta,22.93,Adulto Mayor,Bajo,0
+34,38.5,146,160,Media,61.6,Joven,Alto,1
+63,22.2,152,135,Alta,29.97,Adulto Mayor,Bajo,0
+63,27.6,168,164,Media,45.26,Adulto Mayor,Bajo,1
+42,27.5,165,162,Baja,44.55,Adulto,Bajo,1
+62,21.5,108,183,Media,39.34,Adulto Mayor,Bajo,0
+53,32.7,140,198,Baja,64.75,Adulto,Alto,1
+58,22.8,180,84,Baja,19.15,Adulto,Bajo,0
+64,28.0,129,137,Baja,38.36,Adulto Mayor,Bajo,0
+62,32.7,144,198,Media,64.75,Adulto Mayor,Alto,1
+64,33.7,104,125,Media,42.12,Adulto Mayor,Bajo,0
+62,21.2,134,130,Baja,27.56,Adulto Mayor,Bajo,0
+44,27.8,139,130,Media,36.14,Adulto,Bajo,0
+67,22.4,166,86,Media,19.26,Adulto Mayor,Bajo,0
+61,30.6,140,73,Baja,22.34,Adulto Mayor,Bajo,1
+35,26.0,176,126,Media,32.76,Joven,Bajo,0
+34,19.9,158,183,Baja,36.42,Joven,Bajo,1
+34,37.0,123,105,Baja,38.85,Joven,Bajo,0
+20,20.4,126,88,Media,17.95,Joven,Bajo,0
+30,15.1,116,87,Media,13.14,Joven,Bajo,0
+36,25.1,166,108,Media,27.11,Adulto,Bajo,0
+77,29.0,121,155,Alta,44.95,Adulto Mayor,Bajo,0
+63,34.3,121,127,Media,43.56,Adulto Mayor,Bajo,0
+41,35.3,165,89,Media,31.42,Adulto,Bajo,0
+22,28.7,149,157,Baja,45.06,Joven,Bajo,1
+51,29.4,135,144,Media,42.34,Adulto,Bajo,0
+58,26.5,136,162,Media,42.93,Adulto,Bajo,0
+26,23.6,176,88,Media,20.77,Joven,Bajo,0
+37,25.4,138,121,Baja,30.73,Adulto,Bajo,0
+50,29.8,174,132,Media,39.34,Adulto,Bajo,0
+75,37.6,170,82,Baja,30.83,Adulto Mayor,Bajo,1
+23,29.7,144,152,Media,45.14,Joven,Bajo,0
+21,31.1,135,112,Media,34.83,Joven,Bajo,0
+44,32.9,111,90,Baja,29.61,Adulto,Bajo,0
+22,27.1,136,115,Media,31.16,Joven,Bajo,0
+19,31.2,142,167,Media,52.1,Joven,Alto,1
+73,33.0,91,155,Baja,51.15,Adulto Mayor,Alto,1
+28,15.0,102,172,Media,25.8,Joven,Bajo,0
+29,37.7,138,78,Alta,29.41,Joven,Bajo,0
+65,16.2,161,180,Media,29.16,Adulto Mayor,Bajo,1
+54,21.3,170,178,Baja,37.91,Adulto,Bajo,1
+68,32.5,127,85,Media,27.62,Adulto Mayor,Bajo,0
+71,27.5,128,163,Media,44.82,Adulto Mayor,Bajo,0
+20,21.2,135,102,Media,21.62,Joven,Bajo,0
+52,28.6,139,88,Media,25.17,Adulto,Bajo,0
+54,31.3,124,82,Media,25.67,Adulto,Bajo,0
+49,29.7,117,166,Media,49.3,Adulto,Bajo,0
+56,27.3,122,128,Alta,34.94,Adulto,Bajo,0
+50,30.9,103,95,Alta,29.36,Adulto,Bajo,0
+67,34.1,141,152,Media,51.83,Adulto Mayor,Alto,1
+36,28.7,134,167,Alta,47.93,Adulto,Bajo,0
+25,25.2,175,103,Baja,25.96,Joven,Bajo,0
+48,29.8,125,120,Media,35.76,Adulto,Bajo,0
+62,23.2,170,119,Baja,27.61,Adulto Mayor,Bajo,1
+19,24.5,98,175,Media,42.88,Joven,Bajo,0
+39,22.0,117,142,Media,31.24,Adulto,Bajo,0
+68,20.8,116,138,Baja,28.7,Adulto Mayor,Bajo,0
+45,22.9,90,78,Baja,17.86,Adulto,Bajo,0
+43,35.2,167,153,Baja,53.86,Adulto,Alto,1
+28,27.4,131,195,Baja,53.43,Joven,Bajo,0
+57,27.7,165,129,Media,35.73,Adulto,Bajo,0
+79,22.9,176,96,Alta,21.98,Adulto Mayor,Bajo,0
+77,22.4,127,124,Baja,27.78,Adulto Mayor,Bajo,0
+46,32.2,165,105,Alta,33.81,Adulto,Bajo,0
+19,39.0,176,147,Baja,57.33,Joven,Alto,1
+41,23.5,138,192,Baja,45.12,Adulto,Bajo,0
+21,18.1,125,96,Baja,17.38,Joven,Bajo,0
+72,32.3,155,171,Media,55.23,Adulto Mayor,Alto,1
+23,26.7,92,133,Baja,35.51,Joven,Bajo,0
+21,31.3,104,74,Baja,23.16,Joven,Bajo,0
+58,25.6,174,149,Media,38.14,Adulto,Bajo,0
+28,27.8,107,194,Media,53.93,Joven,Bajo,0
+67,25.2,100,199,Alta,50.15,Adulto Mayor,Bajo,0
+22,25.7,132,146,Baja,37.52,Joven,Bajo,0
+55,37.1,128,76,Baja,28.2,Adulto,Bajo,0
+63,28.5,168,181,Baja,51.58,Adulto Mayor,Bajo,1
+67,31.8,161,103,Baja,32.75,Adulto Mayor,Bajo,1
+34,22.4,145,176,Media,39.42,Joven,Bajo,0
+49,35.0,163,199,Media,69.65,Adulto,Alto,1
+70,29.4,176,181,Media,53.21,Adulto Mayor,Bajo,1
+23,25.3,155,169,Media,42.76,Joven,Bajo,0
+70,24.3,126,92,Baja,22.36,Adulto Mayor,Bajo,0
+67,25.7,125,135,Alta,34.7,Adulto Mayor,Bajo,0
+22,23.8,166,177,Media,42.13,Joven,Bajo,0
+41,26.4,145,82,Baja,21.65,Adulto,Bajo,0
+71,15.0,108,107,Media,16.05,Adulto Mayor,Bajo,0
+79,32.9,172,82,Media,26.98,Adulto Mayor,Bajo,1
+78,31.2,93,94,Media,29.33,Adulto Mayor,Bajo,0
+55,30.7,120,184,Baja,56.49,Adulto,Alto,1
+52,29.6,143,189,Media,55.94,Adulto,Bajo,0
+41,19.8,110,176,Media,34.85,Adulto,Bajo,0
+51,30.2,169,145,Media,43.79,Adulto,Alto,1
+68,27.1,173,163,Media,44.17,Adulto Mayor,Bajo,1
+27,32.0,101,85,Media,27.2,Joven,Bajo,0
+78,16.3,176,83,Media,13.53,Adulto Mayor,Bajo,0
+80,29.2,177,187,Media,54.6,Adulto Mayor,Bajo,1
+19,15.7,137,191,Baja,29.99,Joven,Bajo,0
+66,29.8,147,183,Baja,54.53,Adulto Mayor,Bajo,1
+24,35.3,122,191,Baja,67.42,Joven,Alto,1
+42,24.7,110,139,Media,34.33,Adulto,Bajo,0
+43,32.0,96,77,Alta,24.64,Adulto,Bajo,0
+80,36.0,108,102,Media,36.72,Adulto Mayor,Bajo,0
+46,26.8,118,71,Media,19.03,Adulto,Bajo,0
+37,26.4,176,130,Alta,34.32,Adulto,Bajo,0
+45,25.4,127,169,Alta,42.93,Adulto,Bajo,0
+36,32.2,177,92,Media,29.62,Adulto,Bajo,0
+57,23.6,97,98,Media,23.13,Adulto,Bajo,0
+29,30.1,124,74,Media,22.27,Joven,Bajo,0
+54,18.6,167,87,Baja,16.18,Adulto,Bajo,0
+59,30.5,105,135,Media,41.18,Adulto,Bajo,0
+67,39.7,134,165,Media,65.51,Adulto Mayor,Alto,1
+64,30.6,161,84,Alta,25.7,Adulto Mayor,Bajo,1
+37,24.0,113,160,Alta,38.4,Adulto,Bajo,0
+52,33.1,157,132,Media,43.69,Adulto,Bajo,0
+26,24.6,169,188,Media,46.25,Joven,Bajo,0
+20,31.1,127,176,Media,54.74,Joven,Alto,0
+38,26.1,142,131,Media,34.19,Adulto,Bajo,0
+18,23.3,96,164,Media,38.21,Joven,Bajo,0
+65,15.8,155,71,Media,11.22,Adulto Mayor,Bajo,0
+23,31.2,90,88,Media,27.46,Joven,Bajo,0
+40,27.9,99,82,Media,22.88,Adulto,Bajo,0
+33,36.3,140,100,Baja,36.3,Joven,Bajo,1
+57,25.6,118,109,Media,27.9,Adulto,Bajo,0
+41,32.2,154,155,Media,49.91,Adulto,Alto,1
+44,26.1,179,100,Media,26.1,Adulto,Bajo,0
+41,21.9,92,87,Media,19.05,Adulto,Bajo,0
+30,26.2,93,141,Baja,36.94,Joven,Bajo,0
+31,23.1,153,100,Media,23.1,Joven,Bajo,0
+64,28.3,158,119,Media,33.68,Adulto Mayor,Bajo,0
+66,30.0,159,87,Alta,26.1,Adulto Mayor,Bajo,1
+62,32.3,131,170,Media,54.91,Adulto Mayor,Alto,1
+57,23.5,133,84,Media,19.74,Adulto,Bajo,0
+57,24.3,127,176,Baja,42.77,Adulto,Bajo,0
+28,23.2,144,109,Media,25.29,Joven,Bajo,0
+30,17.8,158,131,Baja,23.32,Joven,Bajo,0
+60,24.8,110,107,Baja,26.54,Adulto Mayor,Bajo,0
+48,32.7,142,140,Media,45.78,Adulto,Bajo,1
+44,31.6,155,112,Baja,35.39,Adulto,Bajo,1
+77,19.7,138,142,Media,27.97,Adulto Mayor,Bajo,0
+52,24.7,153,136,Alta,33.59,Adulto,Bajo,0
+78,30.5,172,156,Media,47.58,Adulto Mayor,Alto,1
+29,20.0,131,124,Baja,24.8,Joven,Bajo,0
+44,32.8,93,153,Media,50.18,Adulto,Alto,0
+51,26.9,157,154,Media,41.43,Adulto,Bajo,0
+57,25.7,115,98,Media,25.19,Adulto,Bajo,0
+56,33.0,124,127,Baja,41.91,Adulto,Bajo,0
+45,28.4,160,134,Media,38.06,Adulto,Bajo,0
+43,31.2,112,87,Media,27.14,Adulto,Bajo,0
+23,27.7,93,170,Media,47.09,Joven,Bajo,0
+29,18.7,142,71,Media,13.28,Joven,Bajo,0
+69,31.0,126,184,Baja,57.04,Adulto Mayor,Alto,1
+30,26.4,126,101,Media,26.66,Joven,Bajo,0
+52,19.1,130,130,Baja,24.83,Adulto,Bajo,0
+78,30.5,167,74,Media,22.57,Adulto Mayor,Bajo,1
+30,19.8,110,174,Baja,34.45,Joven,Bajo,0
+20,26.6,127,85,Media,22.61,Joven,Bajo,0
+41,24.7,95,191,Media,47.18,Adulto,Bajo,0
+37,26.7,91,123,Media,32.84,Adulto,Bajo,0
+41,43.5,93,122,Media,53.07,Adulto,Bajo,0
+79,31.0,161,164,Media,50.84,Adulto Mayor,Alto,1
+58,25.9,163,75,Media,19.42,Adulto,Bajo,0
+55,31.2,107,145,Media,45.24,Adulto,Alto,0
+55,23.7,128,122,Baja,28.91,Adulto,Bajo,0
+24,24.6,96,172,Alta,42.31,Joven,Bajo,0
+28,33.3,150,125,Media,41.62,Joven,Bajo,0
+26,26.7,158,147,Alta,39.25,Joven,Bajo,0
+69,33.0,150,118,Baja,38.94,Adulto Mayor,Bajo,1
+41,21.9,145,185,Media,40.51,Adulto,Bajo,0
+56,30.7,115,133,Baja,40.83,Adulto,Bajo,0
+66,29.7,98,83,Baja,24.65,Adulto Mayor,Bajo,0
+53,31.9,180,98,Baja,31.26,Adulto,Bajo,1
+61,32.0,107,197,Media,63.04,Adulto Mayor,Alto,1
+61,32.2,103,71,Alta,22.86,Adulto Mayor,Bajo,0
+58,29.8,95,191,Alta,56.92,Adulto,Bajo,0
+77,28.4,179,157,Alta,44.59,Adulto Mayor,Bajo,1
+49,23.4,139,113,Baja,26.44,Adulto,Bajo,0
+67,32.2,173,108,Media,34.78,Adulto Mayor,Bajo,1
+70,30.0,159,126,Baja,37.8,Adulto Mayor,Bajo,1
+27,28.8,153,159,Baja,45.79,Joven,Bajo,1
+42,28.1,109,194,Media,54.51,Adulto,Bajo,0
+23,22.0,156,199,Baja,43.78,Joven,Bajo,1
+40,25.2,175,158,Media,39.82,Adulto,Bajo,0
+37,41.9,145,181,Baja,75.84,Adulto,Alto,1
+49,30.2,157,99,Baja,29.9,Adulto,Bajo,1
+31,23.9,169,158,Media,37.76,Joven,Bajo,0
+66,31.3,155,154,Media,48.2,Adulto Mayor,Alto,1
+28,35.9,167,72,Baja,25.85,Joven,Bajo,1
+27,24.3,146,112,Media,27.22,Joven,Bajo,0
+74,23.6,113,85,Media,20.06,Adulto Mayor,Bajo,0
+62,18.6,122,148,Baja,27.53,Adulto Mayor,Bajo,1
+44,30.4,126,151,Media,45.9,Adulto,Alto,0
+61,23.2,173,195,Media,45.24,Adulto Mayor,Bajo,1
+32,26.8,96,122,Media,32.7,Joven,Bajo,0
+71,20.1,148,115,Baja,23.12,Adulto Mayor,Bajo,1
+23,26.5,176,135,Media,35.78,Joven,Bajo,0
+70,25.6,99,96,Baja,24.58,Adulto Mayor,Bajo,0
+60,26.2,107,113,Media,29.61,Adulto Mayor,Bajo,0
+35,28.7,110,94,Baja,26.98,Joven,Bajo,0
+26,27.2,144,93,Baja,25.3,Joven,Bajo,0
+59,30.7,119,78,Media,23.95,Adulto,Bajo,0
+72,26.8,108,159,Baja,42.61,Adulto Mayor,Bajo,1
+77,37.5,123,188,Media,70.5,Adulto Mayor,Alto,1
+53,20.6,112,101,Baja,20.81,Adulto,Bajo,0
+63,29.9,141,135,Baja,40.36,Adulto Mayor,Bajo,1
+21,24.8,138,170,Media,42.16,Joven,Bajo,0
+55,21.5,130,118,Media,25.37,Adulto,Bajo,0
+21,28.4,109,111,Media,31.52,Joven,Bajo,0
+28,40.5,141,113,Alta,45.76,Joven,Bajo,0
+32,28.9,172,191,Media,55.2,Joven,Bajo,0
+54,26.1,169,154,Baja,40.19,Adulto,Bajo,1
+70,21.7,153,188,Baja,40.8,Adulto Mayor,Bajo,1
+23,15.0,105,181,Baja,27.15,Joven,Bajo,0
+30,30.6,134,178,Alta,54.47,Joven,Alto,0
+52,20.7,119,125,Media,25.88,Adulto,Bajo,0
+65,27.0,101,164,Alta,44.28,Adulto Mayor,Bajo,0
+22,27.2,120,157,Baja,42.7,Joven,Bajo,0
+25,23.3,163,71,Baja,16.54,Joven,Bajo,0
+18,33.4,107,188,Baja,62.79,Joven,Alto,1
+21,28.7,102,100,Baja,28.7,Joven,Bajo,0
+77,29.4,97,182,Media,53.51,Adulto Mayor,Bajo,0
+57,23.5,90,132,Media,31.02,Adulto,Bajo,0
+44,32.4,158,154,Alta,49.9,Adulto,Alto,1
+52,31.7,173,110,Media,34.87,Adulto,Bajo,0
+39,26.5,154,171,Baja,45.32,Adulto,Bajo,1
+43,27.4,129,187,Media,51.24,Adulto,Bajo,0
+42,18.7,111,103,Alta,19.26,Adulto,Bajo,0
+63,19.1,140,151,Media,28.84,Adulto Mayor,Bajo,1
+56,32.7,176,185,Baja,60.5,Adulto,Alto,1
+26,20.3,154,173,Baja,35.12,Joven,Bajo,1
+66,19.8,104,193,Media,38.21,Adulto Mayor,Bajo,0
+53,21.8,101,165,Media,35.97,Adulto,Bajo,0
+24,25.4,100,163,Media,41.4,Joven,Bajo,0
+63,35.1,93,123,Media,43.17,Adulto Mayor,Bajo,0
+30,34.7,147,144,Alta,49.97,Joven,Alto,1
+44,29.4,97,89,Media,26.17,Adulto,Bajo,0
+42,19.3,109,189,Media,36.48,Adulto,Bajo,0
+57,24.7,115,101,Alta,24.95,Adulto,Bajo,0
+18,31.3,162,89,Media,27.86,Joven,Bajo,0
+75,31.0,169,187,Media,57.97,Adulto Mayor,Alto,1
+56,30.7,140,199,Media,61.09,Adulto,Alto,1
+21,25.5,177,138,Media,35.19,Joven,Bajo,0
+69,28.8,93,103,Media,29.66,Adulto Mayor,Bajo,0
+44,29.2,127,70,Media,20.44,Adulto,Bajo,0
+61,20.7,105,127,Alta,26.29,Adulto Mayor,Bajo,0
+50,28.2,106,89,Baja,25.1,Adulto,Bajo,0
+67,27.7,160,181,Media,50.14,Adulto Mayor,Bajo,1
+55,32.8,159,136,Baja,44.61,Adulto,Bajo,1
+37,30.4,152,132,Media,40.13,Adulto,Bajo,0
+20,30.0,114,181,Media,54.3,Joven,Bajo,0
+39,28.0,90,144,Baja,40.32,Adulto,Bajo,0
+78,24.9,166,129,Media,32.12,Adulto Mayor,Bajo,0
+22,31.5,147,191,Media,60.16,Joven,Alto,1
+46,28.6,135,91,Media,26.03,Adulto,Bajo,0
+21,28.9,179,135,Media,39.02,Joven,Bajo,0
+65,24.8,90,132,Alta,32.74,Adulto Mayor,Bajo,0
+47,29.2,150,78,Media,22.78,Adulto,Bajo,0
+47,28.9,136,81,Baja,23.41,Adulto,Bajo,0
+29,22.5,143,151,Media,33.98,Joven,Bajo,0
+60,18.9,109,78,Media,14.74,Adulto Mayor,Bajo,0
+40,27.2,178,165,Baja,44.88,Adulto,Bajo,1
+65,23.1,168,81,Media,18.71,Adulto Mayor,Bajo,0
+61,33.6,151,126,Media,42.34,Adulto Mayor,Bajo,1
+59,38.3,139,198,Media,75.83,Adulto,Alto,0
+37,35.0,141,149,Media,52.15,Adulto,Alto,1
+73,26.4,113,140,Baja,36.96,Adulto Mayor,Bajo,1
+67,27.0,143,169,Media,45.63,Adulto Mayor,Bajo,1
+74,30.2,134,91,Media,27.48,Adulto Mayor,Bajo,0
+46,31.8,157,167,Alta,53.11,Adulto,Alto,1
+36,24.4,127,162,Baja,39.53,Adulto,Bajo,0
+77,30.5,163,158,Baja,48.19,Adulto Mayor,Alto,1
+40,33.0,117,72,Media,23.76,Adulto,Bajo,0
+35,21.5,161,200,Baja,43.0,Joven,Bajo,1
+24,23.4,173,170,Media,39.78,Joven,Bajo,0
+70,21.3,165,160,Baja,34.08,Adulto Mayor,Bajo,1
+80,22.0,97,184,Baja,40.48,Adulto Mayor,Bajo,1
+51,30.7,102,81,Baja,24.87,Adulto,Bajo,0
+44,31.7,162,94,Baja,29.8,Adulto,Bajo,1
+29,30.3,110,119,Baja,36.06,Joven,Bajo,0
+48,25.6,177,79,Media,20.22,Adulto,Bajo,0
+19,20.3,158,117,Media,23.75,Joven,Bajo,0
+66,22.1,128,116,Baja,25.64,Adulto Mayor,Bajo,0
+72,27.9,135,176,Alta,49.1,Adulto Mayor,Bajo,0
+36,22.2,138,196,Baja,43.51,Adulto,Bajo,0
+78,18.3,166,151,Media,27.63,Adulto Mayor,Bajo,1
+45,20.9,128,146,Media,30.51,Adulto,Bajo,0
+24,34.3,135,156,Media,53.51,Joven,Alto,0
+18,25.4,126,88,Media,22.35,Joven,Bajo,0
+38,29.6,145,198,Alta,58.61,Adulto,Bajo,0
+51,15.0,95,139,Media,20.85,Adulto,Bajo,0
+40,21.1,123,183,Baja,38.61,Adulto,Bajo,0
+73,25.8,131,111,Alta,28.64,Adulto Mayor,Bajo,0
+55,25.2,132,104,Media,26.21,Adulto,Bajo,0
+31,30.1,175,140,Alta,42.14,Joven,Bajo,1
+54,31.7,158,139,Alta,44.06,Adulto,Bajo,0
+39,26.9,95,127,Alta,34.16,Adulto,Bajo,0
+68,24.5,178,71,Media,17.4,Adulto Mayor,Bajo,0
+33,20.1,177,128,Baja,25.73,Joven,Bajo,0
+70,33.2,172,163,Alta,54.12,Adulto Mayor,Alto,1
+24,29.8,119,153,Baja,45.59,Joven,Bajo,0
+68,25.7,150,114,Media,29.3,Adulto Mayor,Bajo,0
+34,28.0,156,73,Baja,20.44,Joven,Bajo,0
+69,26.3,153,98,Baja,25.77,Adulto Mayor,Bajo,1
+52,25.0,111,110,Alta,27.5,Adulto,Bajo,0
+77,32.0,176,147,Media,47.04,Adulto Mayor,Alto,1
+50,36.8,96,175,Media,64.4,Adulto,Alto,0
+28,20.3,108,100,Alta,20.3,Joven,Bajo,0
+69,26.1,177,105,Media,27.4,Adulto Mayor,Bajo,0
+68,25.0,177,77,Baja,19.25,Adulto Mayor,Bajo,1
+66,22.8,105,196,Alta,44.69,Adulto Mayor,Bajo,0
+66,31.1,137,152,Media,47.27,Adulto Mayor,Alto,1
+36,15.0,158,106,Alta,15.9,Adulto,Bajo,0
+80,18.8,145,136,Media,25.57,Adulto Mayor,Bajo,0
+23,30.6,179,140,Alta,42.84,Joven,Bajo,1
+59,28.4,148,195,Baja,55.38,Adulto,Bajo,1
+62,27.2,135,177,Alta,48.14,Adulto Mayor,Bajo,0
+43,21.1,166,96,Media,20.26,Adulto,Bajo,0
+51,22.7,168,130,Media,29.51,Adulto,Bajo,0
+23,24.0,92,190,Alta,45.6,Joven,Bajo,0
+42,29.5,132,87,Alta,25.66,Adulto,Bajo,0
+25,31.3,120,152,Baja,47.58,Joven,Alto,1
+49,23.4,160,158,Media,36.97,Adulto,Bajo,0
+34,29.3,97,93,Media,27.25,Joven,Bajo,0
+53,32.4,144,106,Media,34.34,Adulto,Bajo,0
+48,27.1,137,106,Media,28.73,Adulto,Bajo,0
+78,29.5,100,152,Baja,44.84,Adulto Mayor,Bajo,1
+26,29.9,145,181,Baja,54.12,Joven,Bajo,1
+34,27.8,127,195,Baja,54.21,Joven,Bajo,0
+32,28.6,105,78,Media,22.31,Joven,Bajo,0
+57,20.7,149,177,Alta,36.64,Adulto,Bajo,0
+71,27.2,144,115,Alta,31.28,Adulto Mayor,Bajo,0
+53,19.3,108,199,Media,38.41,Adulto,Bajo,0
+48,29.8,146,88,Media,26.22,Adulto,Bajo,0
+24,22.8,123,125,Media,28.5,Joven,Bajo,0
+70,27.0,168,83,Media,22.41,Adulto Mayor,Bajo,0
+46,35.7,171,99,Media,35.34,Adulto,Bajo,0
+44,23.0,95,77,Baja,17.71,Adulto,Bajo,0
+21,29.0,126,135,Baja,39.15,Joven,Bajo,0
+70,32.4,174,116,Baja,37.58,Adulto Mayor,Bajo,1
+42,23.8,92,150,Baja,35.7,Adulto,Bajo,0
+23,30.9,159,80,Media,24.72,Joven,Bajo,0
+72,28.0,134,142,Media,39.76,Adulto Mayor,Bajo,0
+29,26.3,150,174,Media,45.76,Joven,Bajo,0
+69,28.0,147,166,Baja,46.48,Adulto Mayor,Bajo,1
+68,29.6,124,141,Media,41.74,Adulto Mayor,Bajo,0
+52,25.5,148,181,Baja,46.16,Adulto,Bajo,1
+40,26.5,134,159,Baja,42.14,Adulto,Bajo,0
+26,28.4,153,163,Alta,46.29,Joven,Bajo,0
+53,29.5,146,185,Media,54.58,Adulto,Bajo,0
+23,15.8,159,134,Media,21.17,Joven,Bajo,0
+20,33.3,160,96,Baja,31.97,Joven,Bajo,1
+63,28.4,147,99,Media,28.12,Adulto Mayor,Bajo,0
+72,33.8,131,79,Media,26.7,Adulto Mayor,Bajo,0
+63,28.5,169,105,Media,29.92,Adulto Mayor,Bajo,0
+25,25.9,129,163,Media,42.22,Joven,Bajo,0
+40,32.7,112,179,Baja,58.53,Adulto,Alto,1
+79,25.0,169,142,Media,35.5,Adulto Mayor,Bajo,1
+39,31.3,100,146,Alta,45.7,Adulto,Alto,0
+79,27.4,143,79,Media,21.65,Adulto Mayor,Bajo,0
+51,22.8,157,96,Media,21.89,Adulto,Bajo,0
+53,23.5,149,77,Baja,18.1,Adulto,Bajo,0
+72,26.4,98,140,Alta,36.96,Adulto Mayor,Bajo,0
+38,23.7,153,95,Baja,22.52,Adulto,Bajo,0
+30,16.8,157,142,Alta,23.86,Joven,Bajo,0
+61,27.3,107,97,Media,26.48,Adulto Mayor,Bajo,0
+79,40.6,150,200,Media,81.2,Adulto Mayor,Alto,1
+55,19.1,159,143,Baja,27.31,Adulto,Bajo,1
+60,30.6,147,179,Baja,54.77,Adulto Mayor,Alto,1
+48,27.7,114,78,Alta,21.61,Adulto,Bajo,0
+54,23.6,148,148,Baja,34.93,Adulto,Bajo,1
+27,31.3,159,186,Media,58.22,Joven,Alto,1
+24,30.5,131,192,Baja,58.56,Joven,Alto,1
+45,35.0,165,133,Baja,46.55,Adulto,Bajo,1
+28,31.1,164,96,Alta,29.86,Joven,Bajo,0
+48,30.3,93,80,Alta,24.24,Adulto,Bajo,0
+46,20.3,128,72,Media,14.62,Adulto,Bajo,0
+36,32.3,152,126,Baja,40.7,Adulto,Bajo,1
+39,20.2,158,110,Alta,22.22,Adulto,Bajo,0
+25,33.3,95,126,Baja,41.96,Joven,Bajo,0
+56,31.2,143,167,Baja,52.1,Adulto,Alto,1
+44,22.4,112,193,Alta,43.23,Adulto,Bajo,0
+62,29.4,161,107,Baja,31.46,Adulto Mayor,Bajo,1
+73,29.4,135,120,Media,35.28,Adulto Mayor,Bajo,0
+66,32.4,114,99,Baja,32.08,Adulto Mayor,Bajo,1
+43,27.9,180,192,Media,53.57,Adulto,Bajo,0
+65,31.0,159,108,Baja,33.48,Adulto Mayor,Bajo,1
+60,30.8,172,152,Baja,46.82,Adulto Mayor,Alto,1
+44,24.3,150,166,Media,40.34,Adulto,Bajo,0
+57,26.1,108,185,Alta,48.28,Adulto,Bajo,0
+63,32.4,116,140,Media,45.36,Adulto Mayor,Bajo,1
+24,24.8,154,92,Baja,22.82,Joven,Bajo,0
+70,25.4,156,79,Media,20.07,Adulto Mayor,Bajo,0
+34,23.6,162,97,Baja,22.89,Joven,Bajo,0
+19,32.6,150,135,Media,44.01,Joven,Bajo,0
+37,32.7,135,171,Alta,55.92,Adulto,Alto,0
+42,25.4,145,198,Media,50.29,Adulto,Bajo,0
+73,34.1,131,162,Baja,55.24,Adulto Mayor,Alto,1
+59,32.1,168,103,Baja,33.06,Adulto,Bajo,1
+30,34.7,135,182,Media,63.15,Joven,Alto,0
+48,28.0,139,196,Media,54.88,Adulto,Bajo,0
+41,28.3,119,159,Media,45.0,Adulto,Bajo,0
+49,30.5,173,167,Baja,50.94,Adulto,Alto,1
+32,30.7,107,154,Baja,47.28,Joven,Alto,1
+54,25.6,146,82,Alta,20.99,Adulto,Bajo,0
+40,29.7,115,188,Alta,55.84,Adulto,Bajo,0
+68,32.5,157,186,Media,60.45,Adulto Mayor,Alto,1
+45,30.0,127,85,Media,25.5,Adulto,Bajo,0
+46,22.8,171,156,Alta,35.57,Adulto,Bajo,0
+48,32.0,166,122,Media,39.04,Adulto,Bajo,0
+39,25.6,142,126,Media,32.26,Adulto,Bajo,0
+77,19.9,99,150,Media,29.85,Adulto Mayor,Bajo,0
+20,30.5,148,118,Baja,35.99,Joven,Bajo,1
+74,22.2,179,136,Baja,30.19,Adulto Mayor,Bajo,1
+75,22.7,99,86,Alta,19.52,Adulto Mayor,Bajo,0
+28,23.4,155,193,Media,45.16,Joven,Bajo,0
+35,26.2,117,85,Media,22.27,Joven,Bajo,0
+57,20.2,100,189,Media,38.18,Adulto,Bajo,0
+45,24.4,129,102,Baja,24.89,Adulto,Bajo,0
+35,31.5,98,92,Baja,28.98,Joven,Bajo,0
+64,20.7,137,164,Baja,33.95,Adulto Mayor,Bajo,1
+18,25.8,107,106,Alta,27.35,Joven,Bajo,0
+48,19.0,113,153,Baja,29.07,Adulto,Bajo,0
+19,29.7,179,185,Alta,54.94,Joven,Bajo,0
+65,29.5,96,98,Media,28.91,Adulto Mayor,Bajo,0
+28,31.6,176,112,Baja,35.39,Joven,Bajo,1
+19,34.9,139,190,Media,66.31,Joven,Alto,0
+28,31.9,173,154,Baja,49.13,Joven,Alto,1
+74,30.0,103,189,Alta,56.7,Adulto Mayor,Bajo,1
+22,24.7,168,93,Alta,22.97,Joven,Bajo,0
+76,17.8,124,106,Media,18.87,Adulto Mayor,Bajo,0
+21,16.1,167,153,Media,24.63,Joven,Bajo,0
+77,21.7,137,167,Baja,36.24,Adulto Mayor,Bajo,1
+70,28.4,178,176,Alta,49.98,Adulto Mayor,Bajo,1
+69,24.8,94,148,Media,36.7,Adulto Mayor,Bajo,0
+55,26.0,115,145,Media,37.7,Adulto,Bajo,0
+18,20.2,134,192,Media,38.78,Joven,Bajo,0
+62,28.5,167,146,Media,41.61,Adulto Mayor,Bajo,1
+62,30.6,170,129,Media,39.47,Adulto Mayor,Bajo,1
+27,24.2,163,120,Media,29.04,Joven,Bajo,0
+46,31.6,117,71,Baja,22.44,Adulto,Bajo,0
+18,25.1,137,92,Alta,23.09,Joven,Bajo,0
+40,33.1,151,190,Baja,62.89,Adulto,Alto,1
+27,30.7,154,95,Baja,29.16,Joven,Bajo,1
+75,20.8,151,183,Baja,38.06,Adulto Mayor,Bajo,1
+45,23.2,111,155,Baja,35.96,Adulto,Bajo,0
+70,33.3,96,95,Media,31.63,Adulto Mayor,Bajo,0
+60,29.5,176,120,Alta,35.4,Adulto Mayor,Bajo,0
+40,34.1,127,99,Baja,33.76,Adulto,Bajo,0
+48,25.1,117,118,Media,29.62,Adulto,Bajo,0
+43,24.6,106,183,Alta,45.02,Adulto,Bajo,0
+68,40.0,165,119,Media,47.6,Adulto Mayor,Bajo,1
+61,22.2,165,182,Media,40.4,Adulto Mayor,Bajo,1
+63,20.5,168,179,Alta,36.7,Adulto Mayor,Bajo,1
+70,33.5,116,184,Media,61.64,Adulto Mayor,Alto,1
+71,23.7,137,98,Alta,23.23,Adulto Mayor,Bajo,0
+67,32.4,162,132,Alta,42.77,Adulto Mayor,Bajo,1
+30,30.1,135,131,Alta,39.43,Joven,Bajo,0
+23,23.9,110,185,Media,44.22,Joven,Bajo,0
+69,22.7,108,151,Baja,34.28,Adulto Mayor,Bajo,1
+54,24.0,107,128,Media,30.72,Adulto,Bajo,0
+61,37.0,140,177,Baja,65.49,Adulto Mayor,Alto,1
+60,20.4,125,145,Baja,29.58,Adulto Mayor,Bajo,1
+50,23.7,164,158,Baja,37.45,Adulto,Bajo,1
+75,33.0,137,185,Media,61.05,Adulto Mayor,Alto,1
+26,27.1,146,146,Alta,39.57,Joven,Bajo,0
+31,33.0,103,131,Media,43.23,Joven,Bajo,0
+52,24.0,180,82,Alta,19.68,Adulto,Bajo,0
+71,40.8,100,162,Baja,66.1,Adulto Mayor,Alto,1
+79,36.5,103,188,Media,68.62,Adulto Mayor,Alto,1
+55,23.6,126,110,Media,25.96,Adulto,Bajo,0
+27,26.9,129,74,Baja,19.91,Joven,Bajo,0
+77,30.1,127,198,Alta,59.6,Adulto Mayor,Alto,1
+42,33.6,154,145,Media,48.72,Adulto,Alto,1
+50,32.7,117,199,Baja,65.07,Adulto,Alto,1
+25,30.2,178,91,Alta,27.48,Joven,Bajo,0
+18,31.8,175,87,Media,27.67,Joven,Bajo,0
+19,36.8,91,82,Alta,30.18,Joven,Bajo,0
+44,19.6,132,197,Alta,38.61,Adulto,Bajo,0
+52,29.9,138,191,Baja,57.11,Adulto,Bajo,0
+56,30.2,162,163,Alta,49.23,Adulto,Alto,1
+73,25.1,179,91,Media,22.84,Adulto Mayor,Bajo,0
+73,25.7,98,159,Alta,40.86,Adulto Mayor,Bajo,0
+79,26.1,166,160,Baja,41.76,Adulto Mayor,Bajo,1
+27,28.2,105,192,Media,54.14,Joven,Bajo,0
+42,26.9,178,179,Baja,48.15,Adulto,Bajo,1
+60,28.1,134,170,Media,47.77,Adulto Mayor,Bajo,0
+34,23.6,115,100,Alta,23.6,Joven,Bajo,0
+68,34.2,91,95,Media,32.49,Adulto Mayor,Bajo,0
+44,35.8,130,177,Media,63.37,Adulto,Alto,0
+50,28.3,110,127,Media,35.94,Adulto,Bajo,0
+45,32.1,154,98,Media,31.46,Adulto,Bajo,0
+53,23.4,113,164,Media,38.38,Adulto,Bajo,0
+32,30.7,99,94,Alta,28.86,Joven,Bajo,0
+66,27.6,95,79,Media,21.8,Adulto Mayor,Bajo,0
+23,33.7,124,92,Alta,31.0,Joven,Bajo,0
+66,34.6,167,76,Media,26.3,Adulto Mayor,Bajo,1
+26,24.1,133,130,Media,31.33,Joven,Bajo,0
+70,31.6,171,120,Media,37.92,Adulto Mayor,Bajo,1
+61,26.5,144,184,Media,48.76,Adulto Mayor,Bajo,1
+46,21.8,174,102,Alta,22.24,Adulto,Bajo,0
+41,34.1,130,108,Media,36.83,Adulto,Bajo,0
+22,22.2,99,129,Baja,28.64,Joven,Bajo,0
+41,36.1,125,190,Media,68.59,Adulto,Alto,0
+24,26.7,162,75,Alta,20.02,Joven,Bajo,0
+24,32.7,100,84,Alta,27.47,Joven,Bajo,0
+48,27.9,144,178,Media,49.66,Adulto,Bajo,0
+45,30.8,164,70,Media,21.56,Adulto,Bajo,0
+75,30.8,151,114,Baja,35.11,Adulto Mayor,Bajo,1
+57,26.7,178,183,Media,48.86,Adulto,Bajo,0
+40,29.8,158,128,Baja,38.14,Adulto,Bajo,0
+45,24.3,104,87,Alta,21.14,Adulto,Bajo,0
+58,24.3,155,159,Media,38.64,Adulto,Bajo,0
+70,30.7,108,105,Media,32.24,Adulto Mayor,Bajo,0
+34,35.5,177,161,Media,57.16,Joven,Alto,1
+80,24.0,148,111,Baja,26.64,Adulto Mayor,Bajo,1
+22,37.6,123,192,Media,72.19,Joven,Alto,0
+66,18.4,178,115,Media,21.16,Adulto Mayor,Bajo,0
+66,33.1,155,140,Media,46.34,Adulto Mayor,Bajo,1
+74,28.5,110,200,Media,57.0,Adulto Mayor,Bajo,0
+44,32.3,143,131,Media,42.31,Adulto,Bajo,0
+67,28.7,103,72,Media,20.66,Adulto Mayor,Bajo,0
+54,33.4,118,84,Baja,28.06,Adulto,Bajo,0
+38,31.5,111,89,Baja,28.04,Adulto,Bajo,0
+18,29.1,115,159,Alta,46.27,Joven,Bajo,0
+68,28.7,166,115,Baja,33.01,Adulto Mayor,Bajo,1
+58,27.9,92,141,Baja,39.34,Adulto,Bajo,0
+66,32.6,104,152,Alta,49.55,Adulto Mayor,Alto,1
+40,32.1,150,185,Baja,59.38,Adulto,Alto,1
+60,26.3,107,154,Baja,40.5,Adulto Mayor,Bajo,1
+40,25.0,110,122,Baja,30.5,Adulto,Bajo,0
+73,28.4,109,119,Baja,33.8,Adulto Mayor,Bajo,0
+33,22.2,160,197,Baja,43.73,Joven,Bajo,1
+63,17.3,145,150,Baja,25.95,Adulto Mayor,Bajo,1
+24,29.3,120,106,Alta,31.06,Joven,Bajo,0
+76,32.2,105,126,Alta,40.57,Adulto Mayor,Bajo,0
+31,24.3,146,115,Media,27.94,Joven,Bajo,0
+45,15.0,146,98,Media,14.7,Adulto,Bajo,0
+70,25.6,110,156,Alta,39.94,Adulto Mayor,Bajo,0
+34,29.9,111,117,Media,34.98,Joven,Bajo,0
+66,28.4,104,122,Alta,34.65,Adulto Mayor,Bajo,0
+62,29.8,97,145,Alta,43.21,Adulto Mayor,Bajo,0
+43,28.9,111,83,Alta,23.99,Adulto,Bajo,0
+34,26.5,131,181,Media,47.96,Joven,Bajo,0
+18,21.6,139,184,Alta,39.74,Joven,Bajo,0
+77,30.1,91,96,Media,28.9,Adulto Mayor,Bajo,0
+35,24.6,152,108,Alta,26.57,Joven,Bajo,0
+18,26.9,164,176,Baja,47.34,Joven,Bajo,1
+77,25.9,102,100,Media,25.9,Adulto Mayor,Bajo,0
+43,29.2,162,185,Media,54.02,Adulto,Bajo,0
+52,30.6,110,130,Media,39.78,Adulto,Bajo,0
+68,22.8,124,136,Alta,31.01,Adulto Mayor,Bajo,0
+50,24.3,122,178,Baja,43.25,Adulto,Bajo,0
+29,24.3,178,77,Baja,18.71,Joven,Bajo,0
+31,23.2,98,73,Alta,16.94,Joven,Bajo,0
+30,29.0,116,77,Alta,22.33,Joven,Bajo,0
+24,24.3,99,165,Media,40.1,Joven,Bajo,0
+42,25.9,95,119,Baja,30.82,Adulto,Bajo,0
+80,30.6,179,190,Baja,58.14,Adulto Mayor,Alto,1
+37,31.0,120,101,Media,31.31,Adulto,Bajo,0
+29,21.1,178,194,Alta,40.93,Joven,Bajo,0
+32,29.2,154,160,Alta,46.72,Joven,Bajo,0
+68,31.3,160,94,Alta,29.42,Adulto Mayor,Bajo,1
+24,19.1,134,128,Alta,24.45,Joven,Bajo,0
+36,27.8,149,151,Media,41.98,Adulto,Bajo,0
+18,24.2,94,79,Baja,19.12,Joven,Bajo,0
+55,16.4,144,155,Baja,25.42,Adulto,Bajo,1
+55,24.9,146,81,Media,20.17,Adulto,Bajo,0
+57,29.4,146,199,Media,58.51,Adulto,Bajo,0
+19,24.9,162,153,Media,38.1,Joven,Bajo,0
+57,23.6,161,139,Alta,32.8,Adulto,Bajo,0
+76,27.2,161,180,Baja,48.96,Adulto Mayor,Bajo,1
+78,28.2,122,171,Baja,48.22,Adulto Mayor,Bajo,1
+58,28.7,168,141,Alta,40.47,Adulto,Bajo,0
+78,26.6,91,123,Alta,32.72,Adulto Mayor,Bajo,0
+38,27.6,94,161,Baja,44.44,Adulto,Bajo,0
+31,26.3,137,103,Baja,27.09,Joven,Bajo,0
+29,29.0,170,114,Alta,33.06,Joven,Bajo,0
+47,19.7,102,179,Baja,35.26,Adulto,Bajo,0
+38,22.9,90,147,Media,33.66,Adulto,Bajo,0
+53,15.0,172,140,Alta,21.0,Adulto,Bajo,0
+51,26.1,155,171,Alta,44.63,Adulto,Bajo,0
+71,23.9,152,109,Alta,26.05,Adulto Mayor,Bajo,0
+47,30.0,141,96,Media,28.8,Adulto,Bajo,0
+47,28.0,135,123,Baja,34.44,Adulto,Bajo,0
+25,15.9,156,70,Media,11.13,Joven,Bajo,0
+30,23.0,119,76,Baja,17.48,Joven,Bajo,0
+34,20.9,142,102,Baja,21.32,Joven,Bajo,0
+72,27.9,134,103,Media,28.74,Adulto Mayor,Bajo,0
+54,28.2,144,75,Baja,21.15,Adulto,Bajo,0
+27,19.4,130,114,Baja,22.12,Joven,Bajo,0
+78,25.1,167,178,Media,44.68,Adulto Mayor,Bajo,1
+25,30.4,126,127,Baja,38.61,Joven,Bajo,0
+63,24.2,92,108,Baja,26.14,Adulto Mayor,Bajo,0
+35,33.2,120,155,Alta,51.46,Joven,Alto,0
+49,37.3,177,105,Baja,39.16,Adulto,Bajo,1
+35,38.2,145,141,Media,53.86,Joven,Alto,1
+72,25.4,155,153,Media,38.86,Adulto Mayor,Bajo,1
+46,32.7,108,91,Alta,29.76,Adulto,Bajo,0
+56,16.9,113,158,Baja,26.7,Adulto,Bajo,0
+63,25.0,126,145,Media,36.25,Adulto Mayor,Bajo,0
+60,25.0,128,174,Baja,43.5,Adulto Mayor,Bajo,1
+63,25.9,126,85,Media,22.02,Adulto Mayor,Bajo,0
+77,20.5,106,136,Media,27.88,Adulto Mayor,Bajo,0
+52,22.4,134,77,Baja,17.25,Adulto,Bajo,0
+63,20.1,120,73,Media,14.67,Adulto Mayor,Bajo,0
+41,26.5,160,186,Media,49.29,Adulto,Bajo,0
+63,34.5,146,199,Alta,68.66,Adulto Mayor,Alto,1
+69,25.6,171,75,Alta,19.2,Adulto Mayor,Bajo,0
+44,24.6,148,134,Baja,32.96,Adulto,Bajo,0
+73,26.8,95,199,Baja,53.33,Adulto Mayor,Bajo,1
+66,28.8,126,129,Baja,37.15,Adulto Mayor,Bajo,0
+67,25.6,173,138,Baja,35.33,Adulto Mayor,Bajo,1
+35,28.6,148,106,Alta,30.32,Joven,Bajo,0
+76,21.2,122,129,Baja,27.35,Adulto Mayor,Bajo,0
+39,30.1,171,76,Baja,22.88,Adulto,Bajo,1
+35,25.8,95,171,Media,44.12,Joven,Bajo,0
+70,22.9,131,104,Alta,23.82,Adulto Mayor,Bajo,0
+64,32.2,149,105,Baja,33.81,Adulto Mayor,Bajo,1
+41,37.9,131,111,Media,42.07,Adulto,Bajo,0
+79,23.5,160,121,Baja,28.44,Adulto Mayor,Bajo,1
+25,37.5,165,103,Media,38.62,Joven,Bajo,0
+29,38.0,138,129,Media,49.02,Joven,Bajo,0
+46,27.1,113,74,Alta,20.05,Adulto,Bajo,0
+21,20.2,164,137,Baja,27.67,Joven,Bajo,0
+19,17.2,98,188,Baja,32.34,Joven,Bajo,0
+62,29.8,103,191,Media,56.92,Adulto Mayor,Bajo,0
+35,15.2,148,96,Media,14.59,Joven,Bajo,0
+43,25.3,104,185,Media,46.8,Adulto,Bajo,0
+77,25.7,180,91,Baja,23.39,Adulto Mayor,Bajo,1
+31,22.1,131,83,Alta,18.34,Joven,Bajo,0
+53,26.5,166,140,Media,37.1,Adulto,Bajo,0
+77,33.3,147,146,Baja,48.62,Adulto Mayor,Alto,1
+76,25.2,124,95,Alta,23.94,Adulto Mayor,Bajo,0
+57,17.1,155,174,Media,29.75,Adulto,Bajo,0
+55,30.6,102,113,Media,34.58,Adulto,Bajo,0
+51,22.5,100,156,Baja,35.1,Adulto,Bajo,0
+75,26.3,122,185,Media,48.66,Adulto Mayor,Bajo,0
+55,32.1,166,122,Baja,39.16,Adulto,Bajo,1
+74,36.8,106,184,Media,67.71,Adulto Mayor,Alto,1
+56,25.1,123,186,Baja,46.69,Adulto,Bajo,0
+23,32.9,166,80,Media,26.32,Joven,Bajo,0
+50,30.5,94,135,Alta,41.18,Adulto,Bajo,0
+58,39.6,95,128,Alta,50.69,Adulto,Bajo,0
+48,31.3,119,70,Baja,21.91,Adulto,Bajo,0
+77,19.7,95,126,Media,24.82,Adulto Mayor,Bajo,0
+19,27.3,142,175,Media,47.78,Joven,Bajo,0
+31,30.3,121,119,Media,36.06,Joven,Bajo,0
+30,31.3,113,180,Media,56.34,Joven,Alto,0
+79,34.9,112,89,Baja,31.06,Adulto Mayor,Bajo,1
+65,33.0,96,108,Media,35.64,Adulto Mayor,Bajo,0
+42,24.9,142,74,Media,18.43,Adulto,Bajo,0
+38,20.4,135,92,Media,18.77,Adulto,Bajo,0
+50,27.0,140,132,Baja,35.64,Adulto,Bajo,0
+32,28.6,108,91,Alta,26.03,Joven,Bajo,0
+60,21.9,123,73,Media,15.99,Adulto Mayor,Bajo,0
+27,25.9,179,186,Media,48.17,Joven,Bajo,0
+69,25.9,166,142,Media,36.78,Adulto Mayor,Bajo,1
+35,27.9,90,88,Media,24.55,Joven,Bajo,0
+77,31.7,98,186,Media,58.96,Adulto Mayor,Alto,1
+74,29.4,162,93,Baja,27.34,Adulto Mayor,Bajo,1
+66,31.6,176,137,Baja,43.29,Adulto Mayor,Bajo,1
+45,25.7,119,155,Baja,39.84,Adulto,Bajo,0
+28,25.3,134,141,Media,35.67,Joven,Bajo,0
+64,27.0,148,192,Media,51.84,Adulto Mayor,Bajo,1
+65,31.4,133,157,Alta,49.3,Adulto Mayor,Alto,1
+71,29.5,173,192,Baja,56.64,Adulto Mayor,Bajo,1
+47,29.2,170,142,Alta,41.46,Adulto,Bajo,0
+48,28.9,139,129,Baja,37.28,Adulto,Bajo,0
+77,29.7,154,79,Media,23.46,Adulto Mayor,Bajo,0
+56,18.0,151,118,Baja,21.24,Adulto,Bajo,0
+43,24.5,125,127,Alta,31.12,Adulto,Bajo,0
+46,34.6,165,135,Baja,46.71,Adulto,Bajo,1
+22,26.2,99,106,Alta,27.77,Joven,Bajo,0
+48,31.1,131,134,Media,41.67,Adulto,Bajo,0
+34,23.5,167,170,Media,39.95,Joven,Bajo,0
+74,32.9,161,117,Alta,38.49,Adulto Mayor,Bajo,1
+42,30.0,136,79,Baja,23.7,Adulto,Bajo,0
+19,30.0,178,198,Media,59.4,Joven,Bajo,1
+76,33.4,151,173,Baja,57.78,Adulto Mayor,Alto,1
+56,33.0,121,81,Baja,26.73,Adulto,Bajo,0
+79,20.1,121,188,Media,37.79,Adulto Mayor,Bajo,0
+47,26.2,161,140,Alta,36.68,Adulto,Bajo,0
+37,34.1,129,192,Alta,65.47,Adulto,Alto,0
+46,24.6,135,200,Media,49.2,Adulto,Bajo,0
+64,32.0,122,152,Media,48.64,Adulto Mayor,Alto,1
+51,21.8,113,95,Alta,20.71,Adulto,Bajo,0
+79,33.2,149,141,Media,46.81,Adulto Mayor,Alto,1
+78,24.3,107,169,Baja,41.07,Adulto Mayor,Bajo,1
+28,23.7,116,163,Media,38.63,Joven,Bajo,0
+45,25.9,97,77,Baja,19.94,Adulto,Bajo,0
+59,30.6,151,82,Alta,25.09,Adulto,Bajo,0
+39,33.0,170,103,Alta,33.99,Adulto,Bajo,0
+76,20.1,169,170,Baja,34.17,Adulto Mayor,Bajo,1
+22,24.5,139,163,Alta,39.94,Joven,Bajo,0
+44,31.0,142,128,Baja,39.68,Adulto,Bajo,1
+37,30.5,173,178,Media,54.29,Adulto,Alto,1
+32,32.9,171,79,Alta,25.99,Joven,Bajo,0
+73,22.2,94,71,Alta,15.76,Adulto Mayor,Bajo,0
+52,25.6,111,163,Media,41.73,Adulto,Bajo,0
+46,21.4,140,150,Alta,32.1,Adulto,Bajo,0
+78,27.7,106,101,Media,27.98,Adulto Mayor,Bajo,0
+79,20.0,115,152,Media,30.4,Adulto Mayor,Bajo,0
+61,27.8,126,188,Baja,52.26,Adulto Mayor,Bajo,1
+42,25.4,149,175,Media,44.45,Adulto,Bajo,0
+77,30.2,122,140,Baja,42.28,Adulto Mayor,Bajo,1
+46,24.6,92,109,Baja,26.81,Adulto,Bajo,0
+71,24.6,140,169,Baja,41.57,Adulto Mayor,Bajo,1
+67,23.0,93,73,Alta,16.79,Adulto Mayor,Bajo,0
+65,32.3,159,105,Media,33.91,Adulto Mayor,Bajo,1
+18,23.0,124,70,Baja,16.1,Joven,Bajo,0
+42,34.1,105,196,Media,66.84,Adulto,Alto,0
+24,21.1,99,72,Media,15.19,Joven,Bajo,0
+73,27.9,149,151,Baja,42.13,Adulto Mayor,Bajo,1
+32,27.0,96,137,Media,36.99,Joven,Bajo,0
+74,17.9,135,156,Alta,27.92,Adulto Mayor,Bajo,0
+22,22.2,153,171,Baja,37.96,Joven,Bajo,1
+76,24.2,133,116,Media,28.07,Adulto Mayor,Bajo,0
+32,44.0,109,85,Baja,37.4,Joven,Bajo,0
+18,31.0,155,158,Baja,48.98,Joven,Alto,1
+65,27.3,161,119,Media,32.49,Adulto Mayor,Bajo,0
+52,26.7,180,91,Media,24.3,Adulto,Bajo,0
+27,27.5,127,143,Baja,39.33,Joven,Bajo,0
+64,22.4,105,165,Media,36.96,Adulto Mayor,Bajo,0
+33,29.8,135,171,Baja,50.96,Joven,Bajo,0
+75,18.1,141,128,Alta,23.17,Adulto Mayor,Bajo,0
+30,27.2,171,142,Alta,38.62,Joven,Bajo,0
+59,22.2,116,137,Media,30.41,Adulto,Bajo,0
+28,33.0,105,142,Media,46.86,Joven,Alto,0
+59,24.8,94,119,Baja,29.51,Adulto,Bajo,0
+32,31.6,154,83,Baja,26.23,Joven,Bajo,1
+33,24.8,176,103,Media,25.54,Joven,Bajo,0
+21,21.7,102,108,Baja,23.44,Joven,Bajo,0
+52,25.0,103,147,Alta,36.75,Adulto,Bajo,0
+30,28.7,99,74,Media,21.24,Joven,Bajo,0
+19,35.0,109,95,Media,33.25,Joven,Bajo,0
+54,29.0,155,132,Alta,38.28,Adulto,Bajo,0
+77,35.1,164,141,Baja,49.49,Adulto Mayor,Alto,1
+60,30.4,174,184,Baja,55.94,Adulto Mayor,Alto,1
+22,26.9,166,147,Baja,39.54,Joven,Bajo,1
+18,28.4,121,97,Media,27.55,Joven,Bajo,0
+75,27.2,167,172,Alta,46.78,Adulto Mayor,Bajo,1
+54,19.5,176,174,Alta,33.93,Adulto,Bajo,0
+60,27.1,162,150,Alta,40.65,Adulto Mayor,Bajo,1
+30,27.5,101,187,Media,51.42,Joven,Bajo,0
+30,24.3,115,146,Baja,35.48,Joven,Bajo,0
+42,25.6,154,121,Media,30.98,Adulto,Bajo,0
+79,34.6,126,148,Media,51.21,Adulto Mayor,Alto,1
+27,28.5,133,135,Baja,38.48,Joven,Bajo,0
+25,27.6,135,175,Baja,48.3,Joven,Bajo,0
+33,30.2,153,186,Media,56.17,Joven,Alto,1
+50,30.0,171,150,Baja,45.0,Adulto,Bajo,1
+65,26.1,110,128,Baja,33.41,Adulto Mayor,Bajo,0
+28,18.7,99,194,Alta,36.28,Joven,Bajo,0
+46,36.0,94,99,Alta,35.64,Adulto,Bajo,0
+77,39.1,166,186,Media,72.73,Adulto Mayor,Alto,1
+78,24.4,108,81,Baja,19.76,Adulto Mayor,Bajo,0
+51,33.3,129,167,Baja,55.61,Adulto,Alto,1
+37,41.3,166,169,Baja,69.8,Adulto,Alto,1
+22,36.7,131,170,Media,62.39,Joven,Alto,0
+39,16.0,126,134,Media,21.44,Adulto,Bajo,0
+45,26.7,133,164,Alta,43.79,Adulto,Bajo,0
+50,20.6,104,86,Media,17.72,Adulto,Bajo,0
+21,26.1,119,179,Baja,46.72,Joven,Bajo,0
+54,22.1,140,154,Baja,34.03,Adulto,Bajo,1
+40,15.3,94,104,Media,15.91,Adulto,Bajo,0
+64,29.6,92,193,Alta,57.13,Adulto Mayor,Bajo,0
+27,32.5,160,85,Baja,27.62,Joven,Bajo,1
+36,20.8,94,187,Media,38.9,Adulto,Bajo,0
+75,19.4,121,153,Alta,29.68,Adulto Mayor,Bajo,0
+20,23.9,172,157,Baja,37.52,Joven,Bajo,1
+80,17.1,138,87,Media,14.88,Adulto Mayor,Bajo,0
+29,23.7,110,152,Media,36.02,Joven,Bajo,0
+53,18.1,138,147,Baja,26.61,Adulto,Bajo,0
+57,28.1,168,168,Alta,47.21,Adulto,Bajo,0
+23,22.6,149,196,Baja,44.3,Joven,Bajo,1
+53,27.0,113,181,Media,48.87,Adulto,Bajo,0
+55,27.3,133,177,Baja,48.32,Adulto,Bajo,0
+49,28.4,108,76,Media,21.58,Adulto,Bajo,0
+42,26.0,127,142,Alta,36.92,Adulto,Bajo,0
+62,22.3,121,113,Baja,25.2,Adulto Mayor,Bajo,0
+20,24.5,141,81,Baja,19.84,Joven,Bajo,0
+45,32.4,105,171,Baja,55.4,Adulto,Alto,1
+21,32.5,172,175,Media,56.88,Joven,Alto,1
+44,31.4,132,140,Media,43.96,Adulto,Bajo,0
+31,25.8,114,155,Baja,39.99,Joven,Bajo,0
+54,19.0,177,81,Baja,15.39,Adulto,Bajo,0
+50,20.9,100,95,Baja,19.85,Adulto,Bajo,0
+56,28.4,91,149,Media,42.32,Adulto,Bajo,0
+44,23.6,166,119,Media,28.08,Adulto,Bajo,0
+64,26.3,102,179,Alta,47.08,Adulto Mayor,Bajo,0
+34,28.8,133,137,Baja,39.46,Joven,Bajo,0
+48,32.4,96,160,Media,51.84,Adulto,Alto,0
+40,31.7,91,187,Baja,59.28,Adulto,Alto,1
+53,29.1,176,97,Media,28.23,Adulto,Bajo,0
+56,25.8,129,174,Alta,44.89,Adulto,Bajo,0
+40,23.1,169,148,Media,34.19,Adulto,Bajo,0
+24,32.0,118,133,Media,42.56,Joven,Bajo,0
+28,17.6,110,166,Media,29.22,Joven,Bajo,0
+80,30.2,160,165,Baja,49.83,Adulto Mayor,Alto,1
+56,21.4,131,116,Alta,24.82,Adulto,Bajo,0
+42,29.3,133,198,Baja,58.01,Adulto,Bajo,0
+28,27.6,165,173,Media,47.75,Joven,Bajo,0
+29,22.9,109,101,Baja,23.13,Joven,Bajo,0
+38,22.4,168,75,Media,16.8,Adulto,Bajo,0
+39,20.7,128,95,Baja,19.66,Adulto,Bajo,0
+26,27.7,119,166,Baja,45.98,Joven,Bajo,0
+56,21.0,157,199,Baja,41.79,Adulto,Bajo,1
+46,28.6,125,185,Alta,52.91,Adulto,Bajo,0
+31,34.0,141,188,Alta,63.92,Joven,Alto,1
+56,26.1,110,197,Media,51.42,Adulto,Bajo,0
+42,22.9,178,170,Media,38.93,Adulto,Bajo,0
+71,31.7,147,184,Media,58.33,Adulto Mayor,Alto,1
+77,26.4,90,132,Baja,34.85,Adulto Mayor,Bajo,0
+74,15.0,171,176,Baja,26.4,Adulto Mayor,Bajo,1
+60,28.3,172,121,Media,34.24,Adulto Mayor,Bajo,0
+33,24.8,170,94,Baja,23.31,Joven,Bajo,0
+74,32.3,115,111,Media,35.85,Adulto Mayor,Bajo,0
+20,32.5,137,87,Media,28.28,Joven,Bajo,0
+41,24.1,92,123,Baja,29.64,Adulto,Bajo,0
+44,34.2,99,98,Media,33.52,Adulto,Bajo,0
+42,26.8,122,184,Alta,49.31,Adulto,Bajo,0
+39,37.0,176,176,Media,65.12,Adulto,Alto,1
+40,22.9,134,163,Media,37.33,Adulto,Bajo,0
+45,26.5,136,168,Alta,44.52,Adulto,Bajo,0
+46,22.0,179,134,Baja,29.48,Adulto,Bajo,0
+78,27.0,149,190,Baja,51.3,Adulto Mayor,Bajo,1
+26,27.7,133,102,Baja,28.25,Joven,Bajo,0
+71,25.2,95,165,Baja,41.58,Adulto Mayor,Bajo,1
+68,22.3,141,81,Baja,18.06,Adulto Mayor,Bajo,1
+79,27.9,178,142,Media,39.62,Adulto Mayor,Bajo,1
+39,30.0,123,79,Alta,23.7,Adulto,Bajo,0
+70,25.9,162,87,Baja,22.53,Adulto Mayor,Bajo,1
+77,18.4,163,130,Alta,23.92,Adulto Mayor,Bajo,0
+28,32.5,116,88,Media,28.6,Joven,Bajo,0
+32,28.0,112,158,Baja,44.24,Joven,Bajo,0
+78,41.5,164,80,Baja,33.2,Adulto Mayor,Bajo,1
+66,25.9,148,190,Baja,49.21,Adulto Mayor,Bajo,1
+33,24.4,140,79,Media,19.28,Joven,Bajo,0
+46,35.1,101,85,Baja,29.84,Adulto,Bajo,0
+30,29.5,120,126,Alta,37.17,Joven,Bajo,0
+54,15.0,109,98,Media,14.7,Adulto,Bajo,0
+40,22.7,156,106,Baja,24.06,Adulto,Bajo,0
+41,18.9,121,98,Baja,18.52,Adulto,Bajo,0
+47,25.2,128,138,Media,34.78,Adulto,Bajo,0
+30,21.4,178,140,Alta,29.96,Joven,Bajo,0
+40,22.4,108,92,Media,20.61,Adulto,Bajo,0
+38,28.0,147,152,Alta,42.56,Adulto,Bajo,0
+35,31.0,100,195,Baja,60.45,Joven,Alto,1
+18,32.9,104,102,Media,33.56,Joven,Bajo,0
+52,35.2,174,189,Media,66.53,Adulto,Alto,1
+37,25.8,96,82,Baja,21.16,Adulto,Bajo,0
+72,19.9,113,129,Media,25.67,Adulto Mayor,Bajo,0
+46,29.2,117,139,Alta,40.59,Adulto,Bajo,0
+59,29.8,120,130,Baja,38.74,Adulto,Bajo,0
+70,25.8,95,170,Alta,43.86,Adulto Mayor,Bajo,0
+36,27.8,140,89,Baja,24.74,Adulto,Bajo,0
+20,32.4,115,119,Baja,38.56,Joven,Bajo,0
+31,32.4,98,80,Alta,25.92,Joven,Bajo,0
+63,30.3,97,190,Baja,57.57,Adulto Mayor,Alto,1
+57,26.8,130,165,Baja,44.22,Adulto,Bajo,0
+48,22.6,135,169,Baja,38.19,Adulto,Bajo,0
+29,21.5,157,78,Baja,16.77,Joven,Bajo,0
+41,26.9,129,95,Media,25.56,Adulto,Bajo,0
+32,26.6,119,117,Alta,31.12,Joven,Bajo,0
+59,24.9,154,141,Alta,35.11,Adulto,Bajo,0
+57,27.0,90,76,Baja,20.52,Adulto,Bajo,0
+41,30.7,92,132,Media,40.52,Adulto,Bajo,0
+32,32.0,177,168,Baja,53.76,Joven,Alto,1
+47,33.6,145,93,Media,31.25,Adulto,Bajo,0
+50,18.3,166,158,Media,28.91,Adulto,Bajo,0
+53,29.8,123,138,Baja,41.12,Adulto,Bajo,0
+29,19.9,101,101,Baja,20.1,Joven,Bajo,0
+25,15.0,118,99,Media,14.85,Joven,Bajo,0
+47,23.9,103,125,Alta,29.88,Adulto,Bajo,0
+61,41.8,115,175,Media,73.15,Adulto Mayor,Alto,1
+30,15.0,102,124,Baja,18.6,Joven,Bajo,0
+20,17.0,118,197,Alta,33.49,Joven,Bajo,0
+32,19.0,162,172,Baja,32.68,Joven,Bajo,1
+68,21.1,156,132,Baja,27.85,Adulto Mayor,Bajo,1
+28,20.8,113,154,Media,32.03,Joven,Bajo,0
+21,37.5,176,161,Alta,60.38,Joven,Alto,1
+38,28.7,138,195,Baja,55.96,Adulto,Bajo,0
+59,30.2,155,112,Baja,33.82,Adulto,Bajo,1
+27,27.9,164,106,Media,29.57,Joven,Bajo,0
+18,20.0,130,165,Media,33.0,Joven,Bajo,0
+27,30.5,149,93,Baja,28.36,Joven,Bajo,1
+79,26.1,140,179,Media,46.72,Adulto Mayor,Bajo,1
+60,34.5,115,176,Baja,60.72,Adulto Mayor,Alto,1
+46,29.3,154,72,Media,21.1,Adulto,Bajo,0
+64,31.9,114,199,Baja,63.48,Adulto Mayor,Alto,1
+80,31.1,153,111,Media,34.52,Adulto Mayor,Bajo,1
+48,21.0,104,187,Baja,39.27,Adulto,Bajo,0
+42,35.2,141,145,Alta,51.04,Adulto,Alto,1
+18,24.9,147,77,Alta,19.17,Joven,Bajo,0
+34,32.9,141,76,Media,25.0,Joven,Bajo,0
+60,21.3,99,177,Baja,37.7,Adulto Mayor,Bajo,1
+19,30.1,147,79,Media,23.78,Joven,Bajo,0
+41,20.4,115,135,Alta,27.54,Adulto,Bajo,0
+71,24.2,106,124,Media,30.01,Adulto Mayor,Bajo,0
+72,28.7,143,199,Baja,57.11,Adulto Mayor,Bajo,1
+61,23.1,169,181,Media,41.81,Adulto Mayor,Bajo,1
+28,31.3,91,195,Baja,61.04,Joven,Alto,1
+22,25.4,110,171,Baja,43.43,Joven,Bajo,0
+44,23.7,175,70,Alta,16.59,Adulto,Bajo,0
+29,25.5,167,81,Media,20.66,Joven,Bajo,0
+49,28.6,116,96,Media,27.46,Adulto,Bajo,0
+72,24.1,160,78,Media,18.8,Adulto Mayor,Bajo,0
+19,27.6,150,116,Baja,32.02,Joven,Bajo,0
+79,20.6,145,140,Baja,28.84,Adulto Mayor,Bajo,1
+76,21.0,162,95,Alta,19.95,Adulto Mayor,Bajo,0
+31,24.8,166,193,Alta,47.86,Joven,Bajo,0
+47,34.6,133,89,Baja,30.79,Adulto,Bajo,0
+45,28.9,120,83,Baja,23.99,Adulto,Bajo,0
+29,15.7,90,161,Media,25.28,Joven,Bajo,0
+76,25.6,148,77,Media,19.71,Adulto Mayor,Bajo,0
+77,27.0,122,164,Alta,44.28,Adulto Mayor,Bajo,0
+76,32.0,116,120,Alta,38.4,Adulto Mayor,Bajo,0
+44,27.2,160,146,Alta,39.71,Adulto,Bajo,0
+79,24.0,153,93,Media,22.32,Adulto Mayor,Bajo,0
+40,38.2,163,144,Baja,55.01,Adulto,Alto,1
+66,27.6,180,128,Baja,35.33,Adulto Mayor,Bajo,1
+46,25.6,107,92,Baja,23.55,Adulto,Bajo,0
+50,33.6,137,155,Media,52.08,Adulto,Alto,0
+41,22.1,110,115,Media,25.42,Adulto,Bajo,0
+40,26.7,106,116,Alta,30.97,Adulto,Bajo,0
+31,31.2,179,141,Alta,43.99,Joven,Alto,1
+19,33.1,100,194,Baja,64.21,Joven,Alto,1
+23,33.4,101,101,Baja,33.73,Joven,Bajo,0
+68,30.6,119,164,Media,50.18,Adulto Mayor,Alto,1
+52,21.2,137,93,Baja,19.72,Adulto,Bajo,0
+24,25.7,91,151,Alta,38.81,Joven,Bajo,0
+56,32.4,120,81,Alta,26.24,Adulto,Bajo,0
+72,27.8,139,149,Baja,41.42,Adulto Mayor,Bajo,1
+66,30.2,168,179,Media,54.06,Adulto Mayor,Alto,1
+42,29.2,94,101,Alta,29.49,Adulto,Bajo,0
+56,25.6,157,156,Media,39.94,Adulto,Bajo,0
+39,30.5,105,78,Media,23.79,Adulto,Bajo,0
+52,29.5,146,136,Alta,40.12,Adulto,Bajo,0
+30,26.2,161,174,Alta,45.59,Joven,Bajo,0
+62,22.3,147,162,Baja,36.13,Adulto Mayor,Bajo,1
+21,31.7,127,80,Baja,25.36,Joven,Bajo,0
+22,26.9,171,143,Media,38.47,Joven,Bajo,0
+55,29.7,165,135,Alta,40.1,Adulto,Bajo,0
+37,26.9,179,95,Media,25.56,Adulto,Bajo,0
+59,24.7,129,182,Alta,44.95,Adulto,Bajo,0
+31,31.0,159,157,Media,48.67,Joven,Alto,1
+27,26.8,151,159,Media,42.61,Joven,Bajo,0
+20,30.7,96,91,Baja,27.94,Joven,Bajo,0
+36,29.1,94,133,Baja,38.7,Adulto,Bajo,0
+42,22.7,159,95,Baja,21.56,Adulto,Bajo,0
+63,21.1,179,194,Alta,40.93,Adulto Mayor,Bajo,1
+58,28.5,152,167,Baja,47.6,Adulto,Bajo,1
+64,30.6,100,167,Media,51.1,Adulto Mayor,Alto,1
+54,28.3,156,80,Alta,22.64,Adulto,Bajo,0
+61,30.6,146,84,Alta,25.7,Adulto Mayor,Bajo,1
+21,26.7,109,131,Alta,34.98,Joven,Bajo,0
+20,34.0,91,101,Alta,34.34,Joven,Bajo,0
+33,27.8,169,164,Alta,45.59,Joven,Bajo,0
+77,26.2,180,178,Baja,46.64,Adulto Mayor,Bajo,1
+34,33.5,112,134,Media,44.89,Joven,Bajo,0
+71,26.4,152,180,Alta,47.52,Adulto Mayor,Bajo,1
+77,24.8,151,81,Media,20.09,Adulto Mayor,Bajo,0
+28,28.9,172,173,Alta,50.0,Joven,Bajo,0
+41,20.5,119,155,Alta,31.78,Adulto,Bajo,0
+56,32.2,180,126,Media,40.57,Adulto,Bajo,0
+25,28.3,171,113,Baja,31.98,Joven,Bajo,0
+71,30.1,124,136,Media,40.94,Adulto Mayor,Bajo,0
+50,17.2,165,122,Media,20.98,Adulto,Bajo,0
+37,33.2,106,115,Media,38.18,Adulto,Bajo,0
+48,24.7,95,90,Alta,22.23,Adulto,Bajo,0
+59,34.5,166,176,Alta,60.72,Adulto,Alto,1
+22,31.3,161,100,Baja,31.3,Joven,Bajo,1
+21,31.7,153,155,Media,49.14,Joven,Alto,1
+28,22.0,164,140,Media,30.8,Joven,Bajo,0
+65,28.3,113,129,Alta,36.51,Adulto Mayor,Bajo,0
+24,27.2,92,125,Media,34.0,Joven,Bajo,0
+64,31.8,174,189,Baja,60.1,Adulto Mayor,Alto,1
+19,25.0,93,115,Baja,28.75,Joven,Bajo,0
+45,23.0,161,130,Baja,29.9,Adulto,Bajo,0
+25,36.7,100,84,Media,30.83,Joven,Bajo,0
+73,29.5,149,157,Alta,46.32,Adulto Mayor,Bajo,1
+43,28.3,162,99,Media,28.02,Adulto,Bajo,0
+61,27.7,151,82,Baja,22.71,Adulto Mayor,Bajo,1
+41,28.3,138,148,Media,41.88,Adulto,Bajo,0
+70,28.2,175,183,Baja,51.61,Adulto Mayor,Bajo,1
+76,31.6,95,195,Media,61.62,Adulto Mayor,Alto,1
+60,26.1,127,113,Baja,29.49,Adulto Mayor,Bajo,0
+63,24.1,101,151,Media,36.39,Adulto Mayor,Bajo,0
+36,25.8,163,84,Media,21.67,Adulto,Bajo,0
+55,32.7,129,102,Media,33.35,Adulto,Bajo,0
+59,22.6,176,146,Baja,33.0,Adulto,Bajo,1
+62,26.3,123,153,Media,40.24,Adulto Mayor,Bajo,0
+72,29.4,128,145,Baja,42.63,Adulto Mayor,Bajo,1
+36,32.0,150,185,Alta,59.2,Adulto,Alto,1
+42,20.1,156,86,Baja,17.29,Adulto,Bajo,0
+44,22.2,179,145,Baja,32.19,Adulto,Bajo,1
+53,28.9,117,183,Baja,52.89,Adulto,Bajo,0
+25,21.9,94,177,Baja,38.76,Joven,Bajo,0
+55,21.6,115,107,Baja,23.11,Adulto,Bajo,0
+62,17.6,149,117,Baja,20.59,Adulto Mayor,Bajo,1
+59,32.8,105,88,Media,28.86,Adulto,Bajo,0
+76,30.9,158,104,Baja,32.14,Adulto Mayor,Bajo,1
+36,23.0,135,163,Media,37.49,Adulto,Bajo,0
+50,23.5,92,81,Media,19.04,Adulto,Bajo,0
+22,22.0,112,177,Media,38.94,Joven,Bajo,0
+39,24.7,173,96,Media,23.71,Adulto,Bajo,0
+20,29.5,92,134,Baja,39.53,Joven,Bajo,0
+58,31.5,128,151,Media,47.56,Adulto,Alto,0
+26,22.1,129,153,Media,33.81,Joven,Bajo,0
+71,32.8,131,73,Media,23.94,Adulto Mayor,Bajo,0
+68,19.7,94,136,Baja,26.79,Adulto Mayor,Bajo,0
+66,28.2,178,150,Media,42.3,Adulto Mayor,Bajo,1
+69,29.1,149,169,Alta,49.18,Adulto Mayor,Bajo,1
+63,26.1,124,94,Alta,24.53,Adulto Mayor,Bajo,0
+80,29.9,135,158,Baja,47.24,Adulto Mayor,Bajo,1
+52,32.9,92,98,Baja,32.24,Adulto,Bajo,0
+36,24.8,179,171,Media,42.41,Adulto,Bajo,0
+80,26.4,141,116,Media,30.62,Adulto Mayor,Bajo,0
+66,35.5,158,122,Media,43.31,Adulto Mayor,Bajo,1
+56,35.0,109,101,Media,35.35,Adulto,Bajo,0
+32,30.1,162,183,Alta,55.08,Joven,Alto,1
+76,27.8,110,120,Baja,33.36,Adulto Mayor,Bajo,0
+38,30.1,118,198,Media,59.6,Adulto,Alto,0
+52,43.8,176,102,Alta,44.68,Adulto,Bajo,0
+27,28.6,99,145,Media,41.47,Joven,Bajo,0
+49,29.4,96,85,Media,24.99,Adulto,Bajo,0
+53,16.3,95,188,Alta,30.64,Adulto,Bajo,0
+29,21.8,102,176,Media,38.37,Joven,Bajo,0
+29,29.0,124,157,Alta,45.53,Joven,Bajo,0
+27,32.6,155,121,Media,39.45,Joven,Bajo,0
+73,25.0,125,191,Baja,47.75,Adulto Mayor,Bajo,1
+21,22.0,140,192,Media,42.24,Joven,Bajo,0
+80,25.0,168,83,Baja,20.75,Adulto Mayor,Bajo,1
+40,27.4,123,166,Baja,45.48,Adulto,Bajo,0
+47,24.1,116,185,Media,44.58,Adulto,Bajo,0
+38,31.7,147,128,Media,40.58,Adulto,Bajo,0
+68,24.6,107,75,Baja,18.45,Adulto Mayor,Bajo,0
+50,24.3,179,188,Baja,45.68,Adulto,Bajo,1
+20,23.1,102,140,Alta,32.34,Joven,Bajo,0
+31,25.7,172,160,Media,41.12,Joven,Bajo,0
+45,32.7,119,154,Baja,50.36,Adulto,Alto,1
+58,22.8,118,130,Baja,29.64,Adulto,Bajo,0
+18,31.5,174,74,Media,23.31,Joven,Bajo,0
+46,29.2,103,131,Baja,38.25,Adulto,Bajo,0
+36,18.4,173,122,Baja,22.45,Adulto,Bajo,0
+18,35.1,119,75,Alta,26.32,Joven,Bajo,0
+51,24.8,99,164,Baja,40.67,Adulto,Bajo,0
+71,29.0,166,126,Baja,36.54,Adulto Mayor,Bajo,1
+45,23.8,152,181,Alta,43.08,Adulto,Bajo,0
+33,15.0,176,154,Baja,23.1,Joven,Bajo,1
+62,30.4,127,173,Alta,52.59,Adulto Mayor,Alto,1
+52,26.6,90,111,Media,29.53,Adulto,Bajo,0
+54,23.0,124,114,Media,26.22,Adulto,Bajo,0
+52,24.1,108,181,Media,43.62,Adulto,Bajo,0
+36,21.2,175,100,Baja,21.2,Adulto,Bajo,0
+44,20.7,137,148,Alta,30.64,Adulto,Bajo,0
+24,32.9,116,150,Media,49.35,Joven,Alto,0
+37,33.5,120,81,Media,27.14,Adulto,Bajo,0
+61,20.8,159,163,Baja,33.9,Adulto Mayor,Bajo,1
+25,28.4,96,155,Media,44.02,Joven,Bajo,0
+55,27.9,171,174,Media,48.55,Adulto,Bajo,0
+21,24.6,133,140,Baja,34.44,Joven,Bajo,0
+41,22.0,100,144,Baja,31.68,Adulto,Bajo,0
+34,27.4,123,92,Media,25.21,Joven,Bajo,0
+58,28.9,140,189,Alta,54.62,Adulto,Bajo,0
+77,24.5,101,119,Media,29.16,Adulto Mayor,Bajo,0
+74,24.2,161,85,Media,20.57,Adulto Mayor,Bajo,0
+24,20.8,144,177,Alta,36.82,Joven,Bajo,0
+53,20.5,123,133,Media,27.26,Adulto,Bajo,0
+38,25.4,157,117,Media,29.72,Adulto,Bajo,0
+57,28.5,109,146,Baja,41.61,Adulto,Bajo,0
+42,31.4,94,200,Baja,62.8,Adulto,Alto,1
+47,28.8,117,81,Baja,23.33,Adulto,Bajo,0
+27,19.1,119,196,Baja,37.44,Joven,Bajo,0
+43,31.2,155,75,Media,23.4,Adulto,Bajo,0
+78,25.2,114,159,Alta,40.07,Adulto Mayor,Bajo,0
+28,21.9,130,191,Media,41.83,Joven,Bajo,0
+40,15.0,144,172,Baja,25.8,Adulto,Bajo,1
+51,23.5,104,185,Baja,43.48,Adulto,Bajo,0
+22,28.1,152,120,Baja,33.72,Joven,Bajo,0
+38,34.8,96,87,Alta,30.28,Adulto,Bajo,0
+77,21.9,138,126,Baja,27.59,Adulto Mayor,Bajo,0
+74,34.2,178,93,Media,31.81,Adulto Mayor,Bajo,1
+65,37.4,161,107,Alta,40.02,Adulto Mayor,Bajo,1
+18,26.3,126,111,Alta,29.19,Joven,Bajo,0
+78,32.3,158,188,Baja,60.72,Adulto Mayor,Alto,1
+77,29.4,155,87,Alta,25.58,Adulto Mayor,Bajo,0
+18,18.4,114,154,Media,28.34,Joven,Bajo,0
+43,38.1,138,128,Baja,48.77,Adulto,Bajo,0
+44,30.4,146,136,Alta,41.34,Adulto,Bajo,0
+80,30.4,175,198,Baja,60.19,Adulto Mayor,Alto,1
+27,30.9,124,170,Media,52.53,Joven,Alto,0
+36,35.7,141,89,Media,31.77,Adulto,Bajo,0
+33,22.6,131,194,Baja,43.84,Joven,Bajo,0
+41,24.3,143,85,Alta,20.66,Adulto,Bajo,0
+28,23.8,151,180,Media,42.84,Joven,Bajo,0
+24,22.5,107,71,Baja,15.98,Joven,Bajo,0
+24,35.6,93,112,Media,39.87,Joven,Bajo,0
+24,23.7,139,76,Baja,18.01,Joven,Bajo,0
+18,27.3,105,167,Baja,45.59,Joven,Bajo,0
+21,21.1,139,134,Baja,28.27,Joven,Bajo,0
+21,23.1,131,173,Baja,39.96,Joven,Bajo,0
+73,33.0,95,116,Baja,38.28,Adulto Mayor,Bajo,1
+34,34.1,90,187,Alta,63.77,Joven,Alto,0
+28,20.6,163,107,Alta,22.04,Joven,Bajo,0
+61,15.0,159,186,Media,27.9,Adulto Mayor,Bajo,1
+67,30.6,159,106,Baja,32.44,Adulto Mayor,Bajo,1
+45,27.5,164,92,Media,25.3,Adulto,Bajo,0
+20,37.8,172,157,Media,59.35,Joven,Alto,1
+23,20.9,97,132,Baja,27.59,Joven,Bajo,0
+46,31.5,136,107,Media,33.7,Adulto,Bajo,0
+46,20.0,151,95,Media,19.0,Adulto,Bajo,0
+65,33.0,115,77,Media,25.41,Adulto Mayor,Bajo,0
+29,36.4,114,171,Baja,62.24,Joven,Alto,1
+63,18.8,173,144,Baja,27.07,Adulto Mayor,Bajo,1
+24,24.7,94,80,Media,19.76,Joven,Bajo,0
+31,24.3,146,95,Media,23.08,Joven,Bajo,0
+62,31.1,135,153,Alta,47.58,Adulto Mayor,Alto,1
+59,27.7,124,85,Alta,23.54,Adulto,Bajo,0
+43,17.8,140,115,Baja,20.47,Adulto,Bajo,0
+59,32.0,95,187,Media,59.84,Adulto,Alto,0
+48,26.9,92,196,Baja,52.72,Adulto,Bajo,0
+70,31.4,141,189,Baja,59.35,Adulto Mayor,Alto,1
+51,28.2,135,80,Baja,22.56,Adulto,Bajo,0
+77,20.2,155,143,Baja,28.89,Adulto Mayor,Bajo,1
+19,24.0,91,186,Media,44.64,Joven,Bajo,0
+76,29.4,106,99,Media,29.11,Adulto Mayor,Bajo,0
+79,30.9,174,120,Media,37.08,Adulto Mayor,Bajo,1
+47,26.0,133,162,Baja,42.12,Adulto,Bajo,0
+29,21.0,91,96,Alta,20.16,Joven,Bajo,0
+61,33.1,127,122,Media,40.38,Adulto Mayor,Bajo,0
+48,24.8,134,116,Alta,28.77,Adulto,Bajo,0
+46,30.2,131,187,Baja,56.47,Adulto,Alto,1
+38,22.6,118,107,Media,24.18,Adulto,Bajo,0
+37,20.1,160,106,Baja,21.31,Adulto,Bajo,0
+29,26.5,177,107,Media,28.36,Joven,Bajo,0
+64,28.0,175,72,Baja,20.16,Adulto Mayor,Bajo,1
+54,22.7,145,172,Alta,39.04,Adulto,Bajo,0
+51,26.3,126,161,Media,42.34,Adulto,Bajo,0
+73,18.9,137,110,Baja,20.79,Adulto Mayor,Bajo,0
+79,20.2,172,160,Baja,32.32,Adulto Mayor,Bajo,1
+29,29.4,116,116,Media,34.1,Joven,Bajo,0
+46,23.9,91,136,Media,32.5,Adulto,Bajo,0
+73,27.6,93,197,Media,54.37,Adulto Mayor,Bajo,0
+74,25.8,169,153,Baja,39.47,Adulto Mayor,Bajo,1
+60,23.7,142,184,Media,43.61,Adulto Mayor,Bajo,1
+59,20.7,154,120,Media,24.84,Adulto,Bajo,0
+31,22.2,116,107,Baja,23.75,Joven,Bajo,0
+46,26.3,111,155,Baja,40.76,Adulto,Bajo,0
+25,29.1,163,189,Baja,55.0,Joven,Bajo,1
+45,29.7,133,110,Baja,32.67,Adulto,Bajo,0
+76,23.0,148,130,Baja,29.9,Adulto Mayor,Bajo,1
+32,33.2,170,194,Baja,64.41,Joven,Alto,1
+40,22.4,128,158,Baja,35.39,Adulto,Bajo,0
+23,39.4,113,192,Media,75.65,Joven,Alto,0
+52,24.2,139,186,Media,45.01,Adulto,Bajo,0
+44,23.6,111,82,Media,19.35,Adulto,Bajo,0
+19,16.8,97,103,Media,17.3,Joven,Bajo,0
+77,21.6,140,122,Baja,26.35,Adulto Mayor,Bajo,1
+41,23.4,131,191,Media,44.69,Adulto,Bajo,0
+49,30.9,116,75,Media,23.18,Adulto,Bajo,0
+64,27.3,158,154,Baja,42.04,Adulto Mayor,Bajo,1
+18,27.6,150,138,Alta,38.09,Joven,Bajo,0
+62,19.4,145,87,Media,16.88,Adulto Mayor,Bajo,0
+34,28.6,92,81,Media,23.17,Joven,Bajo,0
+79,24.7,99,168,Baja,41.5,Adulto Mayor,Bajo,1
+61,31.1,118,96,Media,29.86,Adulto Mayor,Bajo,0
+51,36.7,159,162,Alta,59.45,Adulto,Alto,1
+19,29.4,151,149,Baja,43.81,Joven,Bajo,1
+78,16.4,175,185,Media,30.34,Adulto Mayor,Bajo,1
+18,18.5,97,162,Baja,29.97,Joven,Bajo,0
+73,33.0,105,134,Media,44.22,Adulto Mayor,Bajo,0
+19,29.7,158,139,Media,41.28,Joven,Bajo,0
+21,28.3,157,98,Alta,27.73,Joven,Bajo,0
+49,21.5,165,138,Baja,29.67,Adulto,Bajo,0
+58,19.7,169,138,Alta,27.19,Adulto,Bajo,0
+72,24.2,112,133,Media,32.19,Adulto Mayor,Bajo,0
+56,26.1,158,198,Alta,51.68,Adulto,Bajo,0
+64,20.2,133,106,Media,21.41,Adulto Mayor,Bajo,0
+30,32.3,105,117,Baja,37.79,Joven,Bajo,0
+79,19.6,164,146,Alta,28.62,Adulto Mayor,Bajo,1
+73,24.9,93,165,Media,41.08,Adulto Mayor,Bajo,0
+75,30.1,168,137,Media,41.24,Adulto Mayor,Bajo,1
+47,33.2,175,194,Baja,64.41,Adulto,Alto,1
+40,28.2,169,184,Baja,51.89,Adulto,Bajo,1
+18,18.5,156,75,Alta,13.88,Joven,Bajo,0
+63,31.9,117,163,Media,52.0,Adulto Mayor,Alto,1
+55,26.1,155,83,Baja,21.66,Adulto,Bajo,0
+52,24.8,159,164,Alta,40.67,Adulto,Bajo,0
+19,26.7,117,98,Media,26.17,Joven,Bajo,0
+42,28.5,135,128,Alta,36.48,Adulto,Bajo,0
+56,27.4,131,98,Baja,26.85,Adulto,Bajo,0
+55,21.8,175,194,Alta,42.29,Adulto,Bajo,0
+18,25.7,154,92,Baja,23.64,Joven,Bajo,0
+67,20.4,165,122,Baja,24.89,Adulto Mayor,Bajo,1
+32,26.0,100,99,Media,25.74,Joven,Bajo,0
+45,21.0,156,80,Media,16.8,Adulto,Bajo,0
+35,28.6,96,187,Media,53.48,Joven,Bajo,0
+32,25.8,96,103,Baja,26.57,Joven,Bajo,0
+80,28.6,162,173,Alta,49.48,Adulto Mayor,Bajo,1
+74,23.2,125,119,Media,27.61,Adulto Mayor,Bajo,0
+65,29.6,124,163,Baja,48.25,Adulto Mayor,Bajo,1
+23,21.9,124,154,Baja,33.73,Joven,Bajo,0
+41,29.9,93,80,Alta,23.92,Adulto,Bajo,0
+54,23.9,168,178,Media,42.54,Adulto,Bajo,0
+19,25.6,139,130,Media,33.28,Joven,Bajo,0
+62,29.5,165,153,Media,45.14,Adulto Mayor,Bajo,1
+25,34.9,179,88,Media,30.71,Joven,Bajo,0
+21,27.9,162,187,Baja,52.17,Joven,Bajo,1
+53,21.8,166,85,Baja,18.53,Adulto,Bajo,0
+33,21.7,104,139,Baja,30.16,Joven,Bajo,0
+79,23.8,125,85,Media,20.23,Adulto Mayor,Bajo,0
+59,22.9,127,119,Baja,27.25,Adulto,Bajo,0
+36,24.1,107,159,Media,38.32,Adulto,Bajo,0
+60,34.1,123,76,Media,25.92,Adulto Mayor,Bajo,0
+54,27.7,139,72,Baja,19.94,Adulto,Bajo,0
+27,27.5,121,80,Media,22.0,Joven,Bajo,0
+35,21.7,137,145,Media,31.46,Joven,Bajo,0
+23,29.3,122,192,Alta,56.26,Joven,Bajo,0
+68,28.8,159,192,Media,55.3,Adulto Mayor,Bajo,1
+21,23.3,180,177,Media,41.24,Joven,Bajo,0
+36,22.3,123,140,Media,31.22,Adulto,Bajo,0
+79,29.0,97,96,Media,27.84,Adulto Mayor,Bajo,0
+55,33.2,132,170,Media,56.44,Adulto,Alto,0
+64,15.0,141,130,Media,19.5,Adulto Mayor,Bajo,0
+26,22.0,90,86,Alta,18.92,Joven,Bajo,0
+65,29.1,121,90,Media,26.19,Adulto Mayor,Bajo,0
+21,30.5,126,76,Media,23.18,Joven,Bajo,0
+74,33.0,121,191,Media,63.03,Adulto Mayor,Alto,1
+46,38.7,172,98,Media,37.93,Adulto,Bajo,0
+18,34.8,150,154,Baja,53.59,Joven,Alto,1
+45,30.3,134,178,Baja,53.93,Adulto,Alto,1
+69,19.4,145,123,Media,23.86,Adulto Mayor,Bajo,0
+22,26.5,168,94,Media,24.91,Joven,Bajo,0
+54,28.0,118,183,Baja,51.24,Adulto,Bajo,0
+46,28.0,122,73,Media,20.44,Adulto,Bajo,0
+40,19.7,146,185,Baja,36.44,Adulto,Bajo,1
+70,27.3,138,79,Baja,21.57,Adulto Mayor,Bajo,0
+53,24.7,142,165,Media,40.76,Adulto,Bajo,0
+79,29.8,166,145,Baja,43.21,Adulto Mayor,Bajo,1
+24,27.7,180,122,Baja,33.79,Joven,Bajo,0
+64,29.6,90,102,Baja,30.19,Adulto Mayor,Bajo,0
+27,18.1,124,92,Baja,16.65,Joven,Bajo,0
+18,33.0,107,97,Media,32.01,Joven,Bajo,0
+20,21.9,166,151,Alta,33.07,Joven,Bajo,0
+34,34.4,92,110,Media,37.84,Joven,Bajo,0
+20,20.6,142,146,Baja,30.08,Joven,Bajo,1
+19,26.9,139,196,Alta,52.72,Joven,Bajo,0
+57,25.3,171,76,Baja,19.23,Adulto,Bajo,0
+23,33.0,179,109,Media,35.97,Joven,Bajo,0
+51,32.2,136,191,Baja,61.5,Adulto,Alto,1
+35,31.2,173,132,Alta,41.18,Joven,Bajo,0
+24,27.6,105,143,Media,39.47,Joven,Bajo,0
+39,15.2,147,126,Baja,19.15,Adulto,Bajo,0
